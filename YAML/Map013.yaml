@@ -1,0 +1,4000 @@
+---
+!ruby/object:RPG::Map
+parallax_name: ""
+height: 13
+events:
+  1: !ruby/object:RPG::Event
+    id: 1
+    name: メア
+    x: 9
+    y: 5
+    pages:
+      - !ruby/object:RPG::Event::Page
+        condition: !ruby/object:RPG::Event::Page::Condition
+          switch1_valid: false
+          switch2_valid: false
+          variable_valid: false
+          self_switch_valid: false
+          item_valid: false
+          actor_valid: false
+          switch1_id: 1
+          switch2_id: 1
+          variable_id: 1
+          variable_value: 0
+          self_switch_ch: A
+          item_id: 1
+          actor_id: 1
+        graphic: !ruby/object:RPG::Event::Page::Graphic
+          tile_id: 0
+          character_name: メア
+          character_index: 0
+          direction: 2
+          pattern: 1
+        move_type: 0
+        move_speed: 3
+        move_frequency: 3
+        move_route: !ruby/object:RPG::MoveRoute
+          repeat: true
+          skippable: false
+          wait: false
+          list:
+            - !ruby/object:RPG::MoveCommand { code: 0, parameters: [] }
+        walk_anime: true
+        step_anime: false
+        direction_fix: false
+        through: false
+        priority_type: 1
+        trigger: 3
+        list:
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [少女の声] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [「あのー…！] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　聞こえますかぁー！],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 222, p: [] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 230, p: [60] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 241,
+              p:
+                [
+                  !ruby/object:RPG::BGM {
+                    name: Dungeon1,
+                    volume: 100,
+                    pitch: 100,
+                  },
+                ],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 213, p: [-1, 1, true] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare 嬉しい_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [少女の声] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [「あっ♪] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　やっと会えました！],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC 笑顔_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: ['「初めまして、\n[1]さん♪'],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　私、夢魔のメアっていいます！],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 235, p: [20] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 213, p: [-1, 2, true] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC 普通_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「一応は魔物ですけど、],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　可愛いくて無害な魔物なんですよ♪],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 213, p: [-1, 1, false] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC 悲しい_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「魔物とかモンスターって呼ばれるの、],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　イヤですけどね…],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC びっくり_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「そ、そんな警戒しないでください。],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　私は今、貴方の夢の中で話しかけているので],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　何も出来ませんよー。],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC 真面目_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「えっと、時間がないので大事なことを],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　纏めて伝えますね！],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: ['「まず\n[1]さん、あなたはこの先…'],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　色々な女性から貞操を狙われます！],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 213, p: [-1, 2, false] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC 悲しい_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「実はあなた達人間が飲んでる水の水源に],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　魔王様が作った特別な飴が混ざってまして…],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC 真面目_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「この国の女性達は],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　身体が夢魔に変化しつつあります！],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 213, p: [-1, 1, false] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC 悲しい_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「見た目とかは変わらないのですが、],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　射精させた相手から力を奪ったり],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　魅了した相手を思い通りに操ったり…],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「この国の女性は],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　私達夢魔が使える力に目覚めます。],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC 真面目_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「そのことを私達の仲間が今夜、],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　国中の女性に夢を通して伝えてるんです。],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC 悲しい_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「最初は半信半疑でも、],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　実際に男性を相手に試せばすぐに分かるので、],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　皆さんが能力に気付くのも時間の問題です。],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC びっくり_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「しかも私の仲間達は国の女性達に、],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　この国のどこかにいる勇者を虜にすれば],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　人間と魔物全ての王になれると約束しています。],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC 悲しい_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「なのでいずれはあなたの正体に気付いた人に],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　襲われることになります…],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC 真面目_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「魔王様の目的は勇者の力を魔物の子に継承して],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　人間の切り札を魔物側につけることです！],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC 悲しい_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「飴を摂取して夢魔の力を使った者が],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　強い魔力を吸収すると、],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　その人は身も心も夢魔になってしまうんです。],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC 真面目_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「だから勇者を襲った女性は夢魔の子を宿すんです！],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　勇者が攻撃できないその辺の娘を利用して],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　夢魔の勇者の子孫を作っちゃおうという作戦です。],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 235, p: [20] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 213, p: [-1, 8, true] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC 照れ_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「えっ？何でそれを教えるかって？],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　ごめんなさい、今は秘密です…],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare 嬉しい_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: ['「でも私は\n[1]さんの味方ですよ！'],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　だからこうして色々教えてるんです。],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC 笑顔_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「私の言う事が本当かどうか、],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　すぐにわかりますから！],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC 真面目_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「そんなことより、最後に大事なお話です！],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare おこ_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [「その…] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: ['　\n[1]さんの性的な弱点を教えてください！'],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 235, p: [20] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 213, p: [-1, 6, true] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare びっくり_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「ち、違うんです！],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　女の子にはそれぞれ得意技があって…],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC 悲しい_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: ['「\n[1]さんの弱点を得意とする女の子を'],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　私が事前にリサーチして、],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　接触を避ける作戦ですよ！],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC 普通_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「だからその人との接触は避けてくださいね！],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　じゃあ質問を始めますよ？],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 235, p: [20] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 118, p: [弱点] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 117, p: [27] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 213, p: [0, 8, true] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 111, p: [1, 14, 0, 0, 0] }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 231,
+              p: [20, Mare PC おこ_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: [「え？弱点無しですか？],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: [　童貞のくせに強がらないでください…],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 231,
+              p: [20, Mare びっくり_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: [「弱点あってもわざと負けない限り],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: [　女の子には楽に勝てるので],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: [　恥ずかしがらずに教えてください！],
+            }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 235, p: [20] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 119, p: [弱点] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 0, p: [] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 412, p: [] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 111, p: [1, 14, 0, 6, 1] }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 231,
+              p: [20, Mare PC びっくり_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: [「え？弱点多すぎませんか！？],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 231,
+              p: [20, Mare PC 悲しい_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: ['「そういえば\n[1]さんは童貞でしたね…'],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: [　想像だけだし全部に弱くても不自然じゃ],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: [　ないですよね…],
+            }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 0, p: [] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 412, p: [] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC 嬉しい_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「質問は以上になります！],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　もし弱点が変わった場合は],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　大事なもの”弱点変更”から変えてください。],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC 真面目_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「女の子は鋭いので、],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: ['　\n[1]さんの弱点はお見通しです！'],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　得意技が弱点の相手は避けてくださいね。],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC 悲しい_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「そろそろ朝ですか…],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　また夢で会いにきますから、],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　それまでの無事を祈っています！],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC 普通_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「まずは村の女性に話を聞いてみたらどうかな？],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC 嬉しい_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「ちなみに夢魔の力は勇者の力で浄化できるから],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　夢魔になりたくない、夢魔の力を悪用する人は],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　勇者パワーで懲らしめましょう！],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare 笑顔_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「夢魔の力を浄化するには相手の女の子に],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　30分の間触れるだけだから],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　暴力は要らないんですよ♪],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare おこ_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「でも逆に射精しちゃったら夢魔に力を吸収されて],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　力関係が逆転すると、たとえ勇者でも],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　奴隷にされちゃうから気をつけてください！],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC びっくり_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「あっ！もう朝日が…明日も忙しいのにー！],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　と、とにかく、女の子とえっちしないように],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　気を付けてくださいね！それじゃ！],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 235, p: [20] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 126, p: [20, 0, 0, 1] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 221, p: [] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 230, p: [60] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 121, p: [23, 23, 1] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 121, p: [26, 26, 0] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 201,
+              p: [0, 7, 15, 5, 2, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 0, p: [] }
+      - !ruby/object:RPG::Event::Page
+        condition: !ruby/object:RPG::Event::Page::Condition
+          switch1_valid: true
+          switch2_valid: false
+          variable_valid: false
+          self_switch_valid: false
+          item_valid: false
+          actor_valid: false
+          switch1_id: 16
+          switch2_id: 1
+          variable_id: 23
+          variable_value: 1
+          self_switch_ch: A
+          item_id: 1
+          actor_id: 1
+        graphic: !ruby/object:RPG::Event::Page::Graphic
+          tile_id: 0
+          character_name: メア
+          character_index: 0
+          direction: 2
+          pattern: 1
+        move_type: 0
+        move_speed: 3
+        move_frequency: 3
+        move_route: !ruby/object:RPG::MoveRoute
+          repeat: true
+          skippable: false
+          wait: false
+          list:
+            - !ruby/object:RPG::MoveCommand { code: 0, parameters: [] }
+        walk_anime: true
+        step_anime: false
+        direction_fix: false
+        through: false
+        priority_type: 1
+        trigger: 3
+        list:
+          - !ruby/object:RPG::EventCommand { i: 0, c: 117, p: [29] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [少女の声] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [「あのー…！] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　聞こえますかぁー！],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 222, p: [] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 230, p: [60] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 241,
+              p:
+                [
+                  !ruby/object:RPG::BGM {
+                    name: Dungeon1,
+                    volume: 100,
+                    pitch: 100,
+                  },
+                ],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 213, p: [-1, 1, true] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 111, p: [0, 307, 0] }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 231,
+              p: [20, Mare PC 真面目_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: ['「…\n[1]さん...'],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: [　これは一体どういう事でしょうか…！],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 231,
+              p: [20, Mare 笑顔_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 401, p: [「そーだ♪] }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: [　私が言っても効かないし],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: ['　\n[2]さんに全部話してみましょーか♡'],
+            }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 235, p: [20] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 213, p: [-1, 6, true] }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 231,
+              p: [20, Mare PC おこ_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: ['「\n[2]さんが可哀想だから'],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: [　そんなことしないけど...],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: [　本当にダメなんですからね、もぉっ！],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 231,
+              p: [20, Mare PC 悲しい_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: [「しっかり反省したら],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: [　家まで来てくださいね！],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: [　お話がありますから！],
+            }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 235, p: [20] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 119, p: [メア家いる] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 0, p: [] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 412, p: [] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC 悲しい_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [「はぁ…] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: ['　何やってるんですか\n[1]さん…'],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC びっくり_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: ['「\n[1]さんが女の子に精液をかけたせいで'],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　あの子の夢魔の力は],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　すっごく強くなっちゃいましたよ…],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC 悲しい_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: ['「とりあえず\n[1]さんに掛かった魅了を'],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [　治しますね！] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 235, p: [20] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 212, p: [-1, 37, false] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 213, p: [-1, 1, true] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare 悲しい_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: ['「\n[1]さんの\C[2]童貞\C[0]が守れたから'],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　とりあえず無事でしたけど…],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC おこ_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: ['「何度もやられると夢魔の印、\C[2]「淫紋」\C[0]を'],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　身体に付けられて、],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　一生奴隷にされちゃいますよ！],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC 悲しい_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「普通の夢魔のレベルを1とするなら],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: ['　今のユイちゃんのレベルは\v[031]ですね…'],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC 真面目_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「もうあの女の子には勝ち目はないので],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　会わないようにしましょう！],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 235, p: [20] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 213, p: [-1, 8, true] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC おこ_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「そろそろ朝になりますよ！],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　次は気をつけてくださいね！],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 235, p: [20] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 118, p: [メア家いる] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 242, p: [5] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 221, p: [] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 230, p: [60] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 201,
+              p: [0, 7, 14, 5, 2, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 222, p: [] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 241,
+              p:
+                [
+                  !ruby/object:RPG::BGM {
+                    name: Town1,
+                    volume: 100,
+                    pitch: 100,
+                  },
+                ],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 121, p: [28, 28, 1] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 121, p: [50, 59, 1] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 121, p: [27, 27, 1] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 121, p: [7, 20, 1] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 121, p: [61, 73, 1] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 122,
+              p: [30, 30, 1, 0, 1],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 122,
+              p: [98, 98, 0, 1, 100],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 122,
+              p: [100, 100, 1, 0, 1],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 321, p: [1, 1] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 132,
+              p:
+                [
+                  !ruby/object:RPG::BGM {
+                    name: Battle1,
+                    volume: 100,
+                    pitch: 100,
+                  },
+                ],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 314, p: [0, 0] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 355,
+              p: ['$game_actors[1].battler_name = "Hero-1"'],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 122,
+              p: [16, 16, 2, 1, 31],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 316,
+              p: [0, 0, 1, 0, 98, false],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 316,
+              p: [0, 0, 0, 1, 16, false],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 0, p: [] }
+      - !ruby/object:RPG::Event::Page
+        condition: !ruby/object:RPG::Event::Page::Condition
+          switch1_valid: true
+          switch2_valid: false
+          variable_valid: true
+          self_switch_valid: false
+          item_valid: false
+          actor_valid: false
+          switch1_id: 16
+          switch2_id: 1
+          variable_id: 30
+          variable_value: 2
+          self_switch_ch: A
+          item_id: 1
+          actor_id: 1
+        graphic: !ruby/object:RPG::Event::Page::Graphic
+          tile_id: 0
+          character_name: メア
+          character_index: 0
+          direction: 2
+          pattern: 1
+        move_type: 0
+        move_speed: 3
+        move_frequency: 3
+        move_route: !ruby/object:RPG::MoveRoute
+          repeat: true
+          skippable: false
+          wait: false
+          list:
+            - !ruby/object:RPG::MoveCommand { code: 0, parameters: [] }
+        walk_anime: true
+        step_anime: false
+        direction_fix: false
+        through: false
+        priority_type: 1
+        trigger: 3
+        list:
+          - !ruby/object:RPG::EventCommand { i: 0, c: 117, p: [29] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [少女の声] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [「あのー…！] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　聞こえますかぁー！],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 222, p: [] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 230, p: [60] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 241,
+              p:
+                [
+                  !ruby/object:RPG::BGM {
+                    name: Dungeon1,
+                    volume: 100,
+                    pitch: 100,
+                  },
+                ],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 213, p: [-1, 1, true] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 111, p: [0, 307, 0] }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 231,
+              p: [20, Mare PC 真面目_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: ['「…\n[1]さん...'],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: [　これは一体どういう事でしょうか…！],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 231,
+              p: [20, Mare 笑顔_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 401, p: [「そーだ♪] }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: [　私が言っても効かないし],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: ['　\n[2]さんに全部話してみましょーか♡'],
+            }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 235, p: [20] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 213, p: [-1, 6, true] }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 231,
+              p: [20, Mare PC おこ_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: ['「\n[2]さんが可哀想だから'],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: [　そんなことしないけど...],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: [　本当にダメなんですからね、もぉっ！],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 231,
+              p: [20, Mare PC 悲しい_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: [「しっかり反省したら],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: [　家まで来てくださいね！],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: [　お話がありますから！],
+            }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 235, p: [20] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 119, p: [メア家いる] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 0, p: [] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 412, p: [] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC 悲しい_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [「はぁ…] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: ['　何やってるんですか\n[1]さん…'],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 235, p: [20] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 213, p: [1, 5, false] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC おこ_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「あの女の子には会うなって言いましたよね？],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　もしかして好きになっちゃったんですか！？],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC 悲しい_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: ['「とりあえず\n[1]さんに掛かった魅了を'],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [　治しますね…] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 235, p: [20] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 212, p: [-1, 37, false] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 213, p: [-1, 1, true] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC 真面目_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: ['「\n[1]さんは'],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　あの子の奴隷になる気はないみたいだけど…],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「あの女の子の力があなたより強くなったら],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　もう抵抗出来ませんよ！],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC 悲しい_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: ['「今のユイちゃんのレベルは\v[031]ですね…'],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC おこ_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「もうあの女の子には勝ち目はないので],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　会わないでくださいね！],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 235, p: [20] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 213, p: [-1, 8, true] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC おこ_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「まだ寝るには早いですよ！],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　起きてやるべきことをやってください！],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 235, p: [20] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 118, p: [メア家いる] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 242, p: [5] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 221, p: [] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 230, p: [60] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 201,
+              p: [0, 7, 14, 5, 2, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 222, p: [] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 241,
+              p:
+                [
+                  !ruby/object:RPG::BGM {
+                    name: Town1,
+                    volume: 100,
+                    pitch: 100,
+                  },
+                ],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 121, p: [28, 28, 1] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 121, p: [50, 59, 1] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 121, p: [27, 27, 1] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 121, p: [7, 20, 1] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 121, p: [61, 73, 1] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 122,
+              p: [30, 30, 1, 0, 1],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 321, p: [1, 1] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 132,
+              p:
+                [
+                  !ruby/object:RPG::BGM {
+                    name: Battle1,
+                    volume: 100,
+                    pitch: 100,
+                  },
+                ],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 314, p: [0, 0] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 355,
+              p: ['$game_actors[1].battler_name = "Hero-1"'],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 122,
+              p: [16, 16, 2, 1, 31],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 316,
+              p: [0, 0, 1, 0, 98, false],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 316,
+              p: [0, 0, 0, 1, 16, false],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 0, p: [] }
+      - !ruby/object:RPG::Event::Page
+        condition: !ruby/object:RPG::Event::Page::Condition
+          switch1_valid: true
+          switch2_valid: false
+          variable_valid: false
+          self_switch_valid: false
+          item_valid: false
+          actor_valid: false
+          switch1_id: 18
+          switch2_id: 1
+          variable_id: 1
+          variable_value: 0
+          self_switch_ch: A
+          item_id: 1
+          actor_id: 1
+        graphic: !ruby/object:RPG::Event::Page::Graphic
+          tile_id: 0
+          character_name: ""
+          character_index: 0
+          direction: 2
+          pattern: 0
+        move_type: 0
+        move_speed: 3
+        move_frequency: 3
+        move_route: !ruby/object:RPG::MoveRoute
+          repeat: true
+          skippable: false
+          wait: false
+          list:
+            - !ruby/object:RPG::MoveCommand { code: 0, parameters: [] }
+        walk_anime: true
+        step_anime: false
+        direction_fix: false
+        through: false
+        priority_type: 0
+        trigger: 3
+        list:
+          - !ruby/object:RPG::EventCommand { i: 0, c: 126, p: [13, 0, 0, 1] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 322,
+              p: [1, Hero, 0, Hero, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [主人公の名前を決めてください],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 303, p: [1, 5] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [ヒロインの名前を決めてください],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: ['\C[1]*ヒロインにHシーンはありません'],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 303, p: [2, 5] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 126, p: [20, 0, 0, 1] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [弱点を決めてください。],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [弱点がないと敵女の子の口上が激減する為、],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [攻撃されたくないタイプの攻撃以外は],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [弱点にすることをオススメします。],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [弱点はアイテム"弱点変更"から],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [いつでも変更可能です。],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 117, p: [27] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [勇者の最初の子供は勇者の力を継ぎ],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [国の王となる予定です。],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: ['従って勇者の\n[1]は結婚相手以外の女性と'],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [性交をしてはなりません。],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: ['\n[1]には幼馴染で恋人の\n[2]がおり'],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: ['\n[1]は\n[2]に婚約指輪を買いましたが、'],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [代金は後払いになりました。],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [そんな平和な暮らしが続く中、頭脳派の魔王は],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [人間の国の女性を夢魔という魔物に変える薬を井戸水に放ち],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [女性達に世界の王となる地位と引き換えに],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [勇者を襲って魔物の子を産むように唆します。],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: ['勇者である\n[1]は貞操を守り、'],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [指輪代を払うお金を守り、],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: ['無事に恋人の\n[2]との婚約を果たしてください。'],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [村の北東の家にヒロイン、],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p:
+                ['北西の家には\n[1]とヒロインのよく知る女の子が住んでいるので'],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [様子を見に行ってみましょう。],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 121, p: [25, 25, 0] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 121, p: [24, 24, 0] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 125, p: [0, 0, 50000] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 241,
+              p:
+                [
+                  !ruby/object:RPG::BGM {
+                    name: Town1,
+                    volume: 100,
+                    pitch: 100,
+                  },
+                ],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 201,
+              p: [0, 7, 14, 5, 2, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 121, p: [18, 18, 1] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 0, p: [] }
+      - !ruby/object:RPG::Event::Page
+        condition: !ruby/object:RPG::Event::Page::Condition
+          switch1_valid: true
+          switch2_valid: false
+          variable_valid: false
+          self_switch_valid: false
+          item_valid: false
+          actor_valid: false
+          switch1_id: 211
+          switch2_id: 1
+          variable_id: 23
+          variable_value: 1
+          self_switch_ch: A
+          item_id: 1
+          actor_id: 1
+        graphic: !ruby/object:RPG::Event::Page::Graphic
+          tile_id: 0
+          character_name: メア
+          character_index: 0
+          direction: 2
+          pattern: 1
+        move_type: 0
+        move_speed: 3
+        move_frequency: 3
+        move_route: !ruby/object:RPG::MoveRoute
+          repeat: true
+          skippable: false
+          wait: false
+          list:
+            - !ruby/object:RPG::MoveCommand { code: 0, parameters: [] }
+        walk_anime: true
+        step_anime: false
+        direction_fix: false
+        through: false
+        priority_type: 1
+        trigger: 3
+        list:
+          - !ruby/object:RPG::EventCommand { i: 0, c: 117, p: [44] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [少女の声] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [「あのー…！] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　聞こえますかぁー！],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 222, p: [] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 230, p: [60] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 241,
+              p:
+                [
+                  !ruby/object:RPG::BGM {
+                    name: Dungeon1,
+                    volume: 100,
+                    pitch: 100,
+                  },
+                ],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 213, p: [-1, 1, true] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 111, p: [0, 307, 0] }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 231,
+              p: [20, Mare PC 真面目_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: ['「…\n[1]さん...'],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: [　これは一体どういう事でしょうか…！],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 231,
+              p: [20, Mare 笑顔_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 401, p: [「そーだ♪] }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: [　私が言っても効かないし],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: ['　\n[2]さんに全部話してみましょーか♡'],
+            }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 235, p: [20] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 213, p: [-1, 6, true] }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 231,
+              p: [20, Mare PC おこ_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: ['「\n[2]さんが可哀想だから'],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: [　そんなことしないけど...],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: [　本当にダメなんですからね、もぉっ！],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 231,
+              p: [20, Mare PC 悲しい_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: [「しっかり反省したら],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: [　家まで来てくださいね！],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: [　お話がありますから！],
+            }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 235, p: [20] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 119, p: [メア家いる] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 0, p: [] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 412, p: [] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC 悲しい_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [「はぁ…] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: ['　何やってるんですか\n[1]さん…'],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC びっくり_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「あの女の子は元々魔力が強くて],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　夢魔の薬はほとんど効いてなかったのに],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: ['「\n[1]さんの精液を吸い取って'],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　夢魔化が進んじゃったみたいですよ！],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC 悲しい_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [「そ、それに！] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　あんな小さい子にまで誘惑されるって],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　どういうことですか！？],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「胸も背丈も私と同じくらい小さいし…],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC びっくり_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: ['「も、もしかして\n[1]さんって'],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: ['　\n[2]さんよりもああいう子が'],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　好みなんですか！？],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare 照れ_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [「それなら…] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　もしかして私にもチャンスあったりして…],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 235, p: [20] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 213, p: [0, 1, true] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare びっくり_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「な、何でもないですっ！],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC おこ_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [「とにかくっ！] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: ['　あの子の狙いは\n[1]さんだし'],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　夢魔の力の影響も受けてませんよ！],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC 真面目_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「助けも必要ないし近づく理由もないし、],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　あの子からは離れてくださいねっ！],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 235, p: [20] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 213, p: [-1, 8, true] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC 普通_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「そろそろ朝になりますよ！],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　次は気をつけてくださいね！],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 235, p: [20] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 242, p: [5] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 118, p: [メア家いる] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 221, p: [] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 230, p: [60] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 201,
+              p: [0, 7, 14, 5, 2, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 222, p: [] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 241,
+              p:
+                [
+                  !ruby/object:RPG::BGM {
+                    name: Town1,
+                    volume: 100,
+                    pitch: 100,
+                  },
+                ],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 121, p: [182, 196, 1] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 121, p: [201, 227, 1] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 122,
+              p: [64, 64, 1, 0, 1],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 321, p: [1, 1] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 132,
+              p:
+                [
+                  !ruby/object:RPG::BGM {
+                    name: Battle1,
+                    volume: 100,
+                    pitch: 100,
+                  },
+                ],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 314, p: [0, 0] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 355,
+              p: ['$game_actors[1].battler_name = "Hero-1"'],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 122,
+              p: [16, 16, 2, 1, 65],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 316,
+              p: [0, 0, 1, 0, 98, false],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 316,
+              p: [0, 0, 0, 1, 16, false],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 0, p: [] }
+      - !ruby/object:RPG::Event::Page
+        condition: !ruby/object:RPG::Event::Page::Condition
+          switch1_valid: true
+          switch2_valid: false
+          variable_valid: true
+          self_switch_valid: false
+          item_valid: false
+          actor_valid: false
+          switch1_id: 211
+          switch2_id: 1
+          variable_id: 64
+          variable_value: 1
+          self_switch_ch: A
+          item_id: 1
+          actor_id: 1
+        graphic: !ruby/object:RPG::Event::Page::Graphic
+          tile_id: 0
+          character_name: メア
+          character_index: 0
+          direction: 2
+          pattern: 1
+        move_type: 0
+        move_speed: 3
+        move_frequency: 3
+        move_route: !ruby/object:RPG::MoveRoute
+          repeat: true
+          skippable: false
+          wait: false
+          list:
+            - !ruby/object:RPG::MoveCommand { code: 0, parameters: [] }
+        walk_anime: true
+        step_anime: false
+        direction_fix: false
+        through: false
+        priority_type: 1
+        trigger: 3
+        list:
+          - !ruby/object:RPG::EventCommand { i: 0, c: 117, p: [44] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [少女の声] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [「あのー…！] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　聞こえますかぁー！],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 222, p: [] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 230, p: [60] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 241,
+              p:
+                [
+                  !ruby/object:RPG::BGM {
+                    name: Dungeon1,
+                    volume: 100,
+                    pitch: 100,
+                  },
+                ],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 213, p: [-1, 1, true] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 111, p: [0, 307, 0] }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 231,
+              p: [20, Mare PC 真面目_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: ['「…\n[1]さん...'],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: [　これは一体どういう事でしょうか…！],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 231,
+              p: [20, Mare 笑顔_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 401, p: [「そーだ♪] }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: [　私が言っても効かないし],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: ['　\n[2]さんに全部話してみましょーか♡'],
+            }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 235, p: [20] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 213, p: [-1, 6, true] }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 231,
+              p: [20, Mare PC おこ_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: ['「\n[2]さんが可哀想だから'],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: [　そんなことしないけど...],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: [　本当にダメなんですからね、もぉっ！],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 231,
+              p: [20, Mare PC 悲しい_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: [「しっかり反省したら],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: [　家まで来てくださいね！],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: [　お話がありますから！],
+            }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 235, p: [20] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 119, p: [メア家いる] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 0, p: [] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 412, p: [] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC 悲しい_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [「はぁ…] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: ['　またですか\n[1]さん…'],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 235, p: [20] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 213, p: [-1, 7, true] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC びっくり_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [「え？] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　えっちしたのを録画されて脅されてる？],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC 悲しい_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「なんですかその],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　凌辱ものの女の子みたいな話は…],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC 真面目_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「そんなの取りに行っても],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　返してくれないってわかってるなら],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　他にやるべき事をするしかないですよね？],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC 悲しい_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: ['「私には\n[1]さんが'],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　喜んで犯されに行ってるようにしか],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　見えないんですけど…],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC おこ_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [「とにかくっ！] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: ['　あの子の狙いは\n[1]さんだし'],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　近づいちゃダメですっ！],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC 真面目_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「助けも必要ないし近づく理由もないし、],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　あの子からは離れてくださいねっ！],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 235, p: [20] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 213, p: [-1, 8, true] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC 普通_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「そろそろ朝になりますよ！],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　次は気をつけてくださいね！],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 235, p: [20] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 242, p: [5] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 118, p: [メア家いる] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 221, p: [] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 230, p: [60] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 201,
+              p: [0, 7, 14, 5, 2, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 222, p: [] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 241,
+              p:
+                [
+                  !ruby/object:RPG::BGM {
+                    name: Town1,
+                    volume: 100,
+                    pitch: 100,
+                  },
+                ],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 121, p: [182, 196, 1] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 121, p: [201, 227, 1] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 122,
+              p: [64, 64, 1, 0, 1],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 321, p: [1, 1] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 132,
+              p:
+                [
+                  !ruby/object:RPG::BGM {
+                    name: Battle1,
+                    volume: 100,
+                    pitch: 100,
+                  },
+                ],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 314, p: [0, 0] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 355,
+              p: ['$game_actors[1].battler_name = "Hero-1"'],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 122,
+              p: [16, 16, 2, 1, 65],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 316,
+              p: [0, 0, 1, 0, 98, false],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 316,
+              p: [0, 0, 0, 1, 16, false],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 0, p: [] }
+      - !ruby/object:RPG::Event::Page
+        condition: !ruby/object:RPG::Event::Page::Condition
+          switch1_valid: true
+          switch2_valid: false
+          variable_valid: false
+          self_switch_valid: false
+          item_valid: false
+          actor_valid: false
+          switch1_id: 254
+          switch2_id: 1
+          variable_id: 23
+          variable_value: 1
+          self_switch_ch: A
+          item_id: 1
+          actor_id: 1
+        graphic: !ruby/object:RPG::Event::Page::Graphic
+          tile_id: 0
+          character_name: メア
+          character_index: 0
+          direction: 2
+          pattern: 1
+        move_type: 0
+        move_speed: 3
+        move_frequency: 3
+        move_route: !ruby/object:RPG::MoveRoute
+          repeat: true
+          skippable: false
+          wait: false
+          list:
+            - !ruby/object:RPG::MoveCommand { code: 0, parameters: [] }
+        walk_anime: true
+        step_anime: false
+        direction_fix: false
+        through: false
+        priority_type: 1
+        trigger: 3
+        list:
+          - !ruby/object:RPG::EventCommand { i: 0, c: 117, p: [361] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [少女の声] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [「あのー…！] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　聞こえますかぁー！],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 222, p: [] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 230, p: [60] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 241,
+              p:
+                [
+                  !ruby/object:RPG::BGM {
+                    name: Dungeon1,
+                    volume: 100,
+                    pitch: 100,
+                  },
+                ],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 213, p: [-1, 1, true] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 111, p: [0, 307, 0] }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 231,
+              p: [20, Mare PC 真面目_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: ['「…\n[1]さん...'],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: [　これは一体どういう事でしょうか…！],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 231,
+              p: [20, Mare 笑顔_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 401, p: [「そーだ♪] }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: [　私が言っても効かないし],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: ['　\n[2]さんに全部話してみましょーか♡'],
+            }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 235, p: [20] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 213, p: [-1, 6, true] }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 231,
+              p: [20, Mare PC おこ_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: ['「\n[2]さんが可哀想だから'],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: [　そんなことしないけど...],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: [　本当にダメなんですからね、もぉっ！],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 231,
+              p: [20, Mare PC 悲しい_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: [「しっかり反省したら],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: [　家まで来てくださいね！],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: [　お話がありますから！],
+            }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 235, p: [20] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 119, p: [メア家いる] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 0, p: [] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 412, p: [] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC 悲しい_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [「はぁ…] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: ['　何やってるんですか\n[1]さん…'],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC おこ_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「お金を払って女の子を買うのだって],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　立派な浮気なんですからねっ！],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC 悲しい_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「だいたい、あんな女の子達を],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　一々相手にしてたらキリがないですよ。],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC 嬉しい_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「いっそのこと街のトラブルは],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: ['　全部\n[2]さんに任せて'],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: ['　\n[1]さんは魔王を直接狙いませんか？'],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 235, p: [20] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 213, p: [-1, 8, true] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC びっくり_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「えっ？まだ若くて未熟な生徒達が],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　夢魔のせいで不純行為をするのを止めたい？],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare 照れ_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: ['「\n[1]さん…'] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　それほどまでに学校の生徒のことを…],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　素敵な先生なんですね、カッコイイです♡],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare おこ_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「って自分が不純行為してるじゃないですかっ！],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　全然説得力ないですよ！],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 213, p: [-1, 6, false] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC 悲しい_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「とりあえずあの子達はもう諦めて],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　もう学校には近づかないでくださいね？],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 235, p: [20] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 213, p: [-1, 8, true] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC 普通_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「そろそろ朝になりますよ！],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　次は気をつけてくださいね！],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 235, p: [20] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 242, p: [5] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 118, p: [メア家いる] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 221, p: [] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 230, p: [60] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 121, p: [242, 260, 1] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 121, p: [37, 37, 1] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 121, p: [266, 266, 0] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 201,
+              p: [0, 7, 14, 5, 2, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 222, p: [] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 241,
+              p:
+                [
+                  !ruby/object:RPG::BGM {
+                    name: Town1,
+                    volume: 100,
+                    pitch: 100,
+                  },
+                ],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 122,
+              p: [100, 100, 1, 0, 1],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 122,
+              p: [102, 102, 1, 0, 1],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 321, p: [1, 1] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 132,
+              p:
+                [
+                  !ruby/object:RPG::BGM {
+                    name: Battle1,
+                    volume: 100,
+                    pitch: 100,
+                  },
+                ],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 314, p: [0, 0] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 355,
+              p: ['$game_actors[1].battler_name = "Hero-1"'],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 122,
+              p: [16, 16, 2, 1, 101],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 316,
+              p: [0, 0, 1, 0, 98, false],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 316,
+              p: [0, 0, 0, 1, 16, false],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 0, p: [] }
+      - !ruby/object:RPG::Event::Page
+        condition: !ruby/object:RPG::Event::Page::Condition
+          switch1_valid: true
+          switch2_valid: false
+          variable_valid: true
+          self_switch_valid: false
+          item_valid: false
+          actor_valid: false
+          switch1_id: 254
+          switch2_id: 1
+          variable_id: 102
+          variable_value: 1
+          self_switch_ch: A
+          item_id: 1
+          actor_id: 1
+        graphic: !ruby/object:RPG::Event::Page::Graphic
+          tile_id: 0
+          character_name: メア
+          character_index: 0
+          direction: 2
+          pattern: 1
+        move_type: 0
+        move_speed: 3
+        move_frequency: 3
+        move_route: !ruby/object:RPG::MoveRoute
+          repeat: true
+          skippable: false
+          wait: false
+          list:
+            - !ruby/object:RPG::MoveCommand { code: 0, parameters: [] }
+        walk_anime: true
+        step_anime: false
+        direction_fix: false
+        through: false
+        priority_type: 1
+        trigger: 3
+        list:
+          - !ruby/object:RPG::EventCommand { i: 0, c: 117, p: [361] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [少女の声] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [「あのー…！] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　聞こえますかぁー！],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 222, p: [] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 230, p: [60] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 241,
+              p:
+                [
+                  !ruby/object:RPG::BGM {
+                    name: Dungeon1,
+                    volume: 100,
+                    pitch: 100,
+                  },
+                ],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 213, p: [-1, 1, true] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 111, p: [0, 307, 0] }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 231,
+              p: [20, Mare PC 真面目_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: ['「…\n[1]さん...'],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: [　これは一体どういう事でしょうか…！],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 231,
+              p: [20, Mare 笑顔_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 401, p: [「そーだ♪] }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: [　私が言っても効かないし],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: ['　\n[2]さんに全部話してみましょーか♡'],
+            }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 235, p: [20] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 213, p: [-1, 6, true] }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 231,
+              p: [20, Mare PC おこ_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: ['「\n[2]さんが可哀想だから'],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: [　そんなことしないけど...],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: [　本当にダメなんですからね、もぉっ！],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 231,
+              p: [20, Mare PC 悲しい_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: [「しっかり反省したら],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: [　家まで来てくださいね！],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: [　お話がありますから！],
+            }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 235, p: [20] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 119, p: [メア家いる] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 0, p: [] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 412, p: [] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC 真面目_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「えっと…もう学校には行かないでって],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　言いませんでしたっけ？],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC 悲しい_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [「はぁ…] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　なんだか私、いっつも怒ってる子みたいです…],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare 笑顔_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「本当は普段はニコニコしてる],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　可愛い女の子なんですよ♡],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC 真面目_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「…たまには私も],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: ['　\n[1]さんと笑顔でお話したいなー。'],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 235, p: [20] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 213, p: [-1, 6, true] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC 悲しい_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「ていうか生徒達にお金も取られてますよね？],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　彼女達の夢魔の力は益々強くなるし],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　真似をする女性だって増えるかもしれません。],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC びっくり_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: ['「\n[1]さんは事件を解決するどころか'],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　悪化させてますよ！],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC 悲しい_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「とりあえずあの子達はもう諦めて],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　もう学校には近づかないでくださいね？],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 235, p: [20] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 213, p: [-1, 8, true] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC 普通_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「寝てる場合じゃないですよ！],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　まだまだやるべき事はあるので、],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　起きてやるべき事をやりましょう！],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 235, p: [20] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 242, p: [5] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 118, p: [メア家いる] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 221, p: [] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 230, p: [60] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 121, p: [242, 260, 1] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 201,
+              p: [0, 7, 14, 5, 2, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 222, p: [] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 241,
+              p:
+                [
+                  !ruby/object:RPG::BGM {
+                    name: Town1,
+                    volume: 100,
+                    pitch: 100,
+                  },
+                ],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 121, p: [37, 37, 1] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 122,
+              p: [102, 102, 1, 0, 1],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 321, p: [1, 1] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 132,
+              p:
+                [
+                  !ruby/object:RPG::BGM {
+                    name: Battle1,
+                    volume: 100,
+                    pitch: 100,
+                  },
+                ],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 314, p: [0, 0] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 355,
+              p: ['$game_actors[1].battler_name = "Hero-1"'],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 122,
+              p: [16, 16, 2, 1, 101],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 316,
+              p: [0, 0, 1, 0, 98, false],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 316,
+              p: [0, 0, 0, 1, 16, false],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 0, p: [] }
+      - !ruby/object:RPG::Event::Page
+        condition: !ruby/object:RPG::Event::Page::Condition
+          switch1_valid: true
+          switch2_valid: false
+          variable_valid: false
+          self_switch_valid: false
+          item_valid: false
+          actor_valid: false
+          switch1_id: 292
+          switch2_id: 1
+          variable_id: 23
+          variable_value: 1
+          self_switch_ch: A
+          item_id: 1
+          actor_id: 1
+        graphic: !ruby/object:RPG::Event::Page::Graphic
+          tile_id: 0
+          character_name: メア
+          character_index: 0
+          direction: 2
+          pattern: 1
+        move_type: 0
+        move_speed: 3
+        move_frequency: 3
+        move_route: !ruby/object:RPG::MoveRoute
+          repeat: true
+          skippable: false
+          wait: false
+          list:
+            - !ruby/object:RPG::MoveCommand { code: 0, parameters: [] }
+        walk_anime: true
+        step_anime: false
+        direction_fix: false
+        through: false
+        priority_type: 1
+        trigger: 3
+        list:
+          - !ruby/object:RPG::EventCommand { i: 0, c: 117, p: [452] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [少女の声] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [「あのー…！] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　聞こえますかぁー！],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 222, p: [] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 230, p: [60] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 241,
+              p:
+                [
+                  !ruby/object:RPG::BGM {
+                    name: Dungeon1,
+                    volume: 100,
+                    pitch: 100,
+                  },
+                ],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 213, p: [-1, 1, true] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 111, p: [0, 307, 0] }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 231,
+              p: [20, Mare PC 真面目_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: ['「…\n[1]さん...'],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: [　これは一体どういう事でしょうか…！],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 231,
+              p: [20, Mare 笑顔_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 401, p: [「そーだ♪] }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: [　私が言っても効かないし],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: ['　\n[2]さんに全部話してみましょーか♡'],
+            }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 235, p: [20] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 213, p: [-1, 6, true] }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 231,
+              p: [20, Mare PC おこ_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: ['「\n[2]さんが可哀想だから'],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: [　そんなことしないけど...],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: [　本当にダメなんですからね、もぉっ！],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 231,
+              p: [20, Mare PC 悲しい_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: [「しっかり反省したら],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: [　家まで来てくださいね！],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: [　お話がありますから！],
+            }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 235, p: [20] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 119, p: [メア家いる] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 0, p: [] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 412, p: [] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC 悲しい_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [「はぁ…] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: ['　何やってるんですか\n[1]さん…'],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC おこ_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「お金を払って女の子を買うのだって],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　立派な浮気なんですからねっ！],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC 悲しい_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「だいたい、あんな女の子達を],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　一々相手にしてたらキリがないですよ。],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC 嬉しい_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「いっそのこと街のトラブルは],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: ['　全部\n[2]さんに任せて'],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: ['　\n[1]さんは魔王を直接狙いませんか？'],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 235, p: [20] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 213, p: [-1, 8, true] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC びっくり_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「えっ？まだ若くて未熟な生徒達が],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　夢魔のせいで不純行為をするのを止めたい？],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare 照れ_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: ['「\n[1]さん…'] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　それほどまでに学校の生徒のことを…],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　素敵な先生なんですね、カッコイイです♡],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare おこ_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「って自分が不純行為してるじゃないですかっ！],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　全然説得力ないですよ！],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 213, p: [-1, 6, false] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC 悲しい_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「とりあえずあの子達はもう諦めて],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　もう学校には近づかないでくださいね？],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 235, p: [20] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 213, p: [-1, 8, true] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC 普通_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「そろそろ朝になりますよ！],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　次は気をつけてくださいね！],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 235, p: [20] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 118, p: [メア家いる] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 242, p: [5] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 221, p: [] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 230, p: [60] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 121, p: [281, 300, 1] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 201,
+              p: [0, 7, 14, 5, 2, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 222, p: [] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 241,
+              p:
+                [
+                  !ruby/object:RPG::BGM {
+                    name: Town1,
+                    volume: 100,
+                    pitch: 100,
+                  },
+                ],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 121, p: [39, 39, 1] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 122,
+              p: [100, 100, 1, 0, 1],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 122,
+              p: [122, 122, 1, 0, 1],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 321, p: [1, 1] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 132,
+              p:
+                [
+                  !ruby/object:RPG::BGM {
+                    name: Battle1,
+                    volume: 100,
+                    pitch: 100,
+                  },
+                ],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 314, p: [0, 0] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 355,
+              p: ['$game_actors[1].battler_name = "Hero-1"'],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 122,
+              p: [16, 16, 2, 1, 121],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 316,
+              p: [0, 0, 1, 0, 98, false],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 316,
+              p: [0, 0, 0, 1, 16, false],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 0, p: [] }
+      - !ruby/object:RPG::Event::Page
+        condition: !ruby/object:RPG::Event::Page::Condition
+          switch1_valid: true
+          switch2_valid: false
+          variable_valid: true
+          self_switch_valid: false
+          item_valid: false
+          actor_valid: false
+          switch1_id: 292
+          switch2_id: 1
+          variable_id: 122
+          variable_value: 1
+          self_switch_ch: A
+          item_id: 1
+          actor_id: 1
+        graphic: !ruby/object:RPG::Event::Page::Graphic
+          tile_id: 0
+          character_name: メア
+          character_index: 0
+          direction: 2
+          pattern: 1
+        move_type: 0
+        move_speed: 3
+        move_frequency: 3
+        move_route: !ruby/object:RPG::MoveRoute
+          repeat: true
+          skippable: false
+          wait: false
+          list:
+            - !ruby/object:RPG::MoveCommand { code: 0, parameters: [] }
+        walk_anime: true
+        step_anime: false
+        direction_fix: false
+        through: false
+        priority_type: 1
+        trigger: 3
+        list:
+          - !ruby/object:RPG::EventCommand { i: 0, c: 117, p: [452] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [少女の声] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [「あのー…！] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　聞こえますかぁー！],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 222, p: [] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 230, p: [60] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 241,
+              p:
+                [
+                  !ruby/object:RPG::BGM {
+                    name: Dungeon1,
+                    volume: 100,
+                    pitch: 100,
+                  },
+                ],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 213, p: [-1, 1, true] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 111, p: [0, 307, 0] }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 231,
+              p: [20, Mare PC 真面目_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: ['「…\n[1]さん...'],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: [　これは一体どういう事でしょうか…！],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 231,
+              p: [20, Mare 笑顔_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 401, p: [「そーだ♪] }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: [　私が言っても効かないし],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: ['　\n[2]さんに全部話してみましょーか♡'],
+            }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 235, p: [20] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 213, p: [-1, 6, true] }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 231,
+              p: [20, Mare PC おこ_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: ['「\n[2]さんが可哀想だから'],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: [　そんなことしないけど...],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: [　本当にダメなんですからね、もぉっ！],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 231,
+              p: [20, Mare PC 悲しい_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: [「しっかり反省したら],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: [　家まで来てくださいね！],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 1,
+              c: 401,
+              p: [　お話がありますから！],
+            }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 235, p: [20] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 119, p: [メア家いる] }
+          - !ruby/object:RPG::EventCommand { i: 1, c: 0, p: [] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 412, p: [] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC 真面目_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「えっと…もう学校には行かないでって],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　言いませんでしたっけ？],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC 悲しい_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [「はぁ…] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　なんだか私、いっつも怒ってる子みたいです…],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare 笑顔_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「本当は普段はニコニコしてる],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　可愛い女の子なんですよ♡],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC 真面目_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「…たまには私も],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: ['　\n[1]さんと笑顔でお話したいなー。'],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 235, p: [20] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 213, p: [-1, 6, true] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC 悲しい_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「ていうか生徒達にお金も取られてますよね？],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　彼女達の夢魔の力は益々強くなるし],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　真似をする女性だって増えるかもしれません。],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC びっくり_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: ['「\n[1]さんは事件を解決するどころか'],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　悪化させてますよ！],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC 悲しい_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「とりあえずあの子達はもう諦めて],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　もう学校には近づかないでくださいね？],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 235, p: [20] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 213, p: [-1, 8, true] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 231,
+              p: [20, Mare PC 普通_1, 1, 0, 560, 530, 100, 100, 255, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [メア] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [「寝てる場合じゃないですよ！],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　まだまだやるべき事はあるので、],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 401,
+              p: [　起きてやるべき事をやりましょう！],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 235, p: [20] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 118, p: [メア家いる] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 242, p: [5] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 221, p: [] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 230, p: [60] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 121, p: [281, 300, 1] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 201,
+              p: [0, 7, 14, 5, 2, 0],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 222, p: [] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 241,
+              p:
+                [
+                  !ruby/object:RPG::BGM {
+                    name: Town1,
+                    volume: 100,
+                    pitch: 100,
+                  },
+                ],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 121, p: [39, 39, 1] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 122,
+              p: [122, 122, 1, 0, 1],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 321, p: [1, 1] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 132,
+              p:
+                [
+                  !ruby/object:RPG::BGM {
+                    name: Battle1,
+                    volume: 100,
+                    pitch: 100,
+                  },
+                ],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 314, p: [0, 0] }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 355,
+              p: ['$game_actors[1].battler_name = "Hero-1"'],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 122,
+              p: [16, 16, 2, 1, 121],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 316,
+              p: [0, 0, 1, 0, 98, false],
+            }
+          - !ruby/object:RPG::EventCommand {
+              i: 0,
+              c: 316,
+              p: [0, 0, 0, 1, 16, false],
+            }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 0, p: [] }
+parallax_sx: 0
+bgm: !ruby/object:RPG::BGM { name: "", volume: 100, pitch: 100 }
+tileset_id: 1
+encounter_step: 30
+width: 17
+data: !ruby/object:Table
+  dim: 3
+  x: 17
+  y: 13
+  z: 4
+  data:
+    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
+    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
+    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
+    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
+    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
+    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
+    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
+    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
+    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
+    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
+    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
+    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
+    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
+    - 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070
+    - 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070
+    - 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070
+    - 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070
+    - 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070
+    - 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070
+    - 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070
+    - 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070
+    - 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070
+    - 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070
+    - 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070
+    - 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070
+    - 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070 1070
+    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
+    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
+    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
+    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
+    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
+    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
+    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
+    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
+    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
+    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
+    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
+    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
+    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
+    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
+    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
+    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
+    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
+    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
+    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
+    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
+    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
+    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
+    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
+    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
+    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
+    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
+bgs: !ruby/object:RPG::BGS { name: "", volume: 80, pitch: 100 }
+parallax_loop_y: false
+autoplay_bgm: false
+encounter_list: []
+autoplay_bgs: false
+parallax_show: false
+scroll_type: 0
+parallax_loop_x: false
+disable_dashing: false
+parallax_sy: 0
+display_name: ""
+specify_battleback: false
+note: ""
+battleback1_name: ""
+battleback2_name: ""

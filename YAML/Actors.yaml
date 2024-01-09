@@ -1,0 +1,308 @@
+---
+-
+- !ruby/object:RPG::Actor
+  name: ユシア
+  face_index: 0
+  character_index: 0
+  initial_level: 99
+  face_name: Hero
+  class_id: 1
+  character_name: ""
+  id: 1
+  features: []
+  note: ""
+  equips:
+    - 1
+    - 0
+    - 0
+    - 8
+    - 0
+  nickname: 勇者
+  description: ""
+  max_level: 99
+- !ruby/object:RPG::Actor
+  name: フィア
+  face_index: 1
+  character_index: 0
+  initial_level: 1
+  face_name: ""
+  class_id: 2
+  character_name: Heroin
+  id: 2
+  features: []
+  note: ""
+  equips:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  nickname: 紅蓮の迅雷
+  description: "暗殺拳の達人を祖父にもつ少女。幼少のころからその技の\r\nすべてを叩き込まれている格闘術のエキスパート。"
+  max_level: 99
+- !ruby/object:RPG::Actor
+  name: ムム呼び方
+  face_index: 2
+  character_index: 0
+  initial_level: 1
+  face_name: ""
+  class_id: 3
+  character_name: Actor3
+  id: 3
+  features: []
+  note: ""
+  equips:
+    - 0
+    - 46
+    - 0
+    - 0
+    - 0
+  nickname: 流浪の聖騎士
+  description: "謀略により地位を剥奪された聖騎士。真の騎士道を極めるため\r\n各地をさまよい修練を重ねている。"
+  max_level: 99
+- !ruby/object:RPG::Actor
+  name: ムム呼び方甘え
+  face_index: 2
+  character_index: 0
+  initial_level: 1
+  face_name: ""
+  class_id: 3
+  character_name: Actor3
+  id: 4
+  features: []
+  note: ""
+  equips:
+    - 0
+    - 46
+    - 0
+    - 0
+    - 0
+  nickname: 流浪の聖騎士
+  description: "謀略により地位を剥奪された聖騎士。真の騎士道を極めるため\r\n各地をさまよい修練を重ねている。"
+  max_level: 99
+- !ruby/object:RPG::Actor
+  name: ムム一人称
+  face_index: 2
+  character_index: 0
+  initial_level: 1
+  face_name: ""
+  class_id: 3
+  character_name: Actor3
+  id: 5
+  features: []
+  note: ""
+  equips:
+    - 0
+    - 46
+    - 0
+    - 0
+    - 0
+  nickname: 流浪の聖騎士
+  description: "謀略により地位を剥奪された聖騎士。真の騎士道を極めるため\r\n各地をさまよい修練を重ねている。"
+  max_level: 99
+- !ruby/object:RPG::Actor
+  name: 敵ID
+  face_index: 1
+  character_index: 1
+  initial_level: 1
+  face_name: ""
+  class_id: 6
+  character_name: ""
+  id: 6
+  features: []
+  note: ""
+  equips:
+    - 31
+    - 0
+    - 0
+    - 0
+    - 0
+  nickname: 深緑の護り手
+  description: "森の精霊に育てられた少女。自然を愛し、森の平穏を乱す者を\r\n許さない。都会での生活にちょっとだけ憧れている。"
+  max_level: 99
+- !ruby/object:RPG::Actor
+  name: るみ呼び方
+  face_index: 2
+  character_index: 2
+  initial_level: 1
+  face_name: Actor5
+  class_id: 7
+  character_name: Actor5
+  id: 7
+  features: []
+  note: ""
+  equips:
+    - 37
+    - 37
+    - 0
+    - 0
+    - 0
+  nickname: 見えざる疾風
+  description: "束縛されることが嫌いな自称義賊の青年。軽口ばかり叩くが\r\n仲間のためなら命も張れる熱血漢。"
+  max_level: 99
+- !ruby/object:RPG::Actor
+  name: るみ呼び方２
+  face_index: 2
+  character_index: 2
+  initial_level: 1
+  face_name: Actor5
+  class_id: 7
+  character_name: Actor5
+  id: 8
+  features: []
+  note: ""
+  equips:
+    - 37
+    - 37
+    - 0
+    - 0
+    - 0
+  nickname: 見えざる疾風
+  description: "束縛されることが嫌いな自称義賊の青年。軽口ばかり叩くが\r\n仲間のためなら命も張れる熱血漢。"
+  max_level: 99
+- !ruby/object:RPG::Actor
+  name: るみ呼び方３
+  face_index: 2
+  character_index: 2
+  initial_level: 1
+  face_name: Actor5
+  class_id: 7
+  character_name: Actor5
+  id: 9
+  features: []
+  note: ""
+  equips:
+    - 37
+    - 37
+    - 0
+    - 0
+    - 0
+  nickname: 見えざる疾風
+  description: "束縛されることが嫌いな自称義賊の青年。軽口ばかり叩くが\r\n仲間のためなら命も張れる熱血漢。"
+  max_level: 99
+- !ruby/object:RPG::Actor
+  name: ムム呼び方ママ
+  face_index: 0
+  character_index: 0
+  initial_level: 1
+  face_name: ""
+  class_id: 1
+  character_name: ""
+  id: 10
+  features: []
+  note: ""
+  equips:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  nickname: ""
+  description: ""
+  max_level: 99
+  icon_index: 0
+- !ruby/object:RPG::Actor
+  name: ""
+  face_index: 0
+  character_index: 0
+  initial_level: 1
+  face_name: ""
+  class_id: 1
+  character_name: ""
+  id: 11
+  features: []
+  note: ""
+  equips:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  nickname: ""
+  description: ""
+  max_level: 99
+  icon_index: 0
+- !ruby/object:RPG::Actor
+  name: ""
+  face_index: 0
+  character_index: 0
+  initial_level: 1
+  face_name: ""
+  class_id: 1
+  character_name: ""
+  id: 12
+  features: []
+  note: ""
+  equips:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  nickname: ""
+  description: ""
+  max_level: 99
+  icon_index: 0
+- !ruby/object:RPG::Actor
+  name: ""
+  face_index: 0
+  character_index: 0
+  initial_level: 1
+  face_name: ""
+  class_id: 1
+  character_name: ""
+  id: 13
+  features: []
+  note: ""
+  equips:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  nickname: ""
+  description: ""
+  max_level: 99
+  icon_index: 0
+- !ruby/object:RPG::Actor
+  name: ""
+  face_index: 0
+  character_index: 0
+  initial_level: 1
+  face_name: ""
+  class_id: 1
+  character_name: ""
+  id: 14
+  features: []
+  note: ""
+  equips:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  nickname: ""
+  description: ""
+  max_level: 99
+  icon_index: 0
+- !ruby/object:RPG::Actor
+  name: ""
+  face_index: 0
+  character_index: 0
+  initial_level: 1
+  face_name: ""
+  class_id: 1
+  character_name: ""
+  id: 15
+  features: []
+  note: ""
+  equips:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+  nickname: ""
+  description: ""
+  max_level: 99
+  icon_index: 0
