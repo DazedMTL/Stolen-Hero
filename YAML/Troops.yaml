@@ -60,7 +60,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 0,
             c: 401,
-            p: ['　おっきくなった\N[1]お兄ちゃんのおちんちん、'],
+            p: ['　おっきくなったTaroお兄ちゃんのおちんちん、'],
           }
         - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [　ユイに見せて♡] }
         - !ruby/object:RPG::EventCommand { i: 0, c: 235, p: [1] }
@@ -122,7 +122,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 0,
             c: 401,
-            p: ['\N[1]を騎乗位で責め立ててきた！'],
+            p: ['Taroを騎乗位で責め立ててきた！'],
           }
         - !ruby/object:RPG::EventCommand { i: 0, c: 122, p: [90, 90, 1, 0, 10] }
         - !ruby/object:RPG::EventCommand {
@@ -142,12 +142,12 @@
         - !ruby/object:RPG::EventCommand {
             i: 0,
             c: 401,
-            p: ['\N[6]は\N[1]の射精を感じ微笑むと'],
+            p: ['\N[6]はTaroの射精を感じ微笑むと'],
           }
         - !ruby/object:RPG::EventCommand {
             i: 0,
             c: 401,
-            p: ['射精中の\N[1]のペニスに構わず'],
+            p: ['射精中のTaroのペニスに構わず'],
           }
         - !ruby/object:RPG::EventCommand {
             i: 0,
@@ -175,7 +175,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 0,
             c: 401,
-            p: ['精を搾り取られた\N[1]は動けなくなった…'],
+            p: ['精を搾り取られたTaroは動けなくなった…'],
           }
         - !ruby/object:RPG::EventCommand { i: 0, c: 117, p: [61] }
         - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
@@ -184,7 +184,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 0,
             c: 401,
-            p: ['　\N[1]お兄ちゃん、よわーい♡'],
+            p: ['　Taroお兄ちゃん、よわーい♡'],
           }
         - !ruby/object:RPG::EventCommand {
             i: 0,
@@ -269,7 +269,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 0,
             c: 401,
-            p: ['　\N[1]お兄ちゃん…'],
+            p: ['　Taroお兄ちゃん…'],
           }
         - !ruby/object:RPG::EventCommand {
             i: 0,
@@ -408,7 +408,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 0,
             c: 401,
-            p: ['\N[1]は飛んでいるハチ娘の腕を掴んだ！'],
+            p: ['Taroは飛んでいるハチ娘の腕を掴んだ！'],
           }
         - !ruby/object:RPG::EventCommand {
             i: 0,
@@ -463,7 +463,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 0,
             c: 401,
-            p: ['\N[1]は女の子が叫ぶとつい力を緩めてしまった…'],
+            p: ['Taroは女の子が叫ぶとつい力を緩めてしまった…'],
           }
         - !ruby/object:RPG::EventCommand {
             i: 0,
@@ -567,7 +567,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 0,
             c: 401,
-            p: ['ハニィは\N[1]の目の前を飛び回りながら'],
+            p: ['ハニィはTaroの目の前を飛び回りながら'],
           }
         - !ruby/object:RPG::EventCommand {
             i: 0,
@@ -716,12 +716,12 @@
         - !ruby/object:RPG::EventCommand {
             i: 2,
             c: 401,
-            p: ['\n[6]は\n[1]を誘惑できる自信が付いた！'],
+            p: ['\n[6]はTaroを誘惑できる自信が付いた！'],
           }
         - !ruby/object:RPG::EventCommand {
             i: 2,
             c: 401,
-            p: ['\n[1]のことをもう怖がっていないようだ…'],
+            p: ['Taroのことをもう怖がっていないようだ…'],
           }
         - !ruby/object:RPG::EventCommand { i: 2, c: 313, p: [0, 0, 0, 12] }
         - !ruby/object:RPG::EventCommand { i: 2, c: 333, p: [-1, 1, 17] }
@@ -733,7 +733,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['ハニィは\N[1]の目の前を飛び回りながら'],
+            p: ['ハニィはTaroの目の前を飛び回りながら'],
           }
         - !ruby/object:RPG::EventCommand {
             i: 1,
@@ -858,7 +858,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 0,
             c: 401,
-            p: ['「\N[1]お兄ちゃんイかせるのなんて'],
+            p: ['「Taroお兄ちゃんイかせるのなんて'],
           }
         - !ruby/object:RPG::EventCommand {
             i: 0,
@@ -1033,7 +1033,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 0,
             c: 401,
-            p: ['　\N[1]お兄ちゃん♡'],
+            p: ['　Taroお兄ちゃん♡'],
           }
         - !ruby/object:RPG::EventCommand { i: 0, c: 235, p: [1] }
         - !ruby/object:RPG::EventCommand { i: 0, c: 339, p: [0, 0, 17, -1] }
@@ -1182,7 +1182,7 @@
             c: 401,
             p: [「服を脱ぎ脱ぎしましょーね♡],
           }
-        - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: ['　\N[1]さん♡'] }
+        - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: ['　Taroさん♡'] }
         - !ruby/object:RPG::EventCommand { i: 0, c: 117, p: [108] }
         - !ruby/object:RPG::EventCommand { i: 0, c: 339, p: [0, 0, 17, -1] }
         - !ruby/object:RPG::EventCommand {
@@ -1317,7 +1317,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 0,
             c: 401,
-            p: ['「\N[1]お兄ちゃん♡'],
+            p: ['「Taroお兄ちゃん♡'],
           }
         - !ruby/object:RPG::EventCommand {
             i: 0,
@@ -1360,7 +1360,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['\N[6]は片手で\N[1]のペニスを掴み'],
+            p: ['\N[6]は片手でTaroのペニスを掴み'],
           }
         - !ruby/object:RPG::EventCommand {
             i: 1,
@@ -1376,7 +1376,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['\N[1]は\N[6]に身を任せたまま犯された…'],
+            p: ['Taroは\N[6]に身を任せたまま犯された…'],
           }
         - !ruby/object:RPG::EventCommand { i: 1, c: 339, p: [0, 0, 27, -1] }
         - !ruby/object:RPG::EventCommand { i: 1, c: 117, p: [14] }
@@ -1387,7 +1387,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['　\N[1]お兄ちゃんの初めて…'],
+            p: ['　Taroお兄ちゃんの初めて…'],
           }
         - !ruby/object:RPG::EventCommand {
             i: 1,
@@ -1401,7 +1401,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['「ユイも嬉しいよ、\N[1]お兄ちゃん♡'],
+            p: ['「ユイも嬉しいよ、Taroお兄ちゃん♡'],
           }
         - !ruby/object:RPG::EventCommand {
             i: 1,
@@ -1418,7 +1418,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['\N[6]は\N[1]を押さえ付けたまま'],
+            p: ['\N[6]はTaroを押さえ付けたまま'],
           }
         - !ruby/object:RPG::EventCommand {
             i: 1,
@@ -1435,12 +1435,12 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['\N[6]は\N[1]の射精を感じ取ると'],
+            p: ['\N[6]はTaroの射精を感じ取ると'],
           }
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['すかさず\N[1]にキスをしてきた！'],
+            p: ['すかさずTaroにキスをしてきた！'],
           }
         - !ruby/object:RPG::EventCommand { i: 1, c: 117, p: [6] }
         - !ruby/object:RPG::EventCommand { i: 1, c: 121, p: [79, 79, 0] }
@@ -1454,7 +1454,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['　\n[1]お兄ちゃん…♡'],
+            p: ['　Taroお兄ちゃん…♡'],
           }
         - !ruby/object:RPG::EventCommand { i: 1, c: 235, p: [1] }
         - !ruby/object:RPG::EventCommand { i: 1, c: 121, p: [79, 79, 0] }
@@ -1480,7 +1480,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['「\n[1]お兄ちゃん…'],
+            p: ['「Taroお兄ちゃん…'],
           }
         - !ruby/object:RPG::EventCommand {
             i: 1,
@@ -1518,7 +1518,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['　\n[2]お姉ちゃんに邪魔される前に'],
+            p: ['　Janeお姉ちゃんに邪魔される前に'],
           }
         - !ruby/object:RPG::EventCommand {
             i: 1,
@@ -1535,7 +1535,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['\N[6]は無抵抗な\N[1]を両手で押さえ付け'],
+            p: ['\N[6]は無抵抗なTaroを両手で押さえ付け'],
           }
         - !ruby/object:RPG::EventCommand {
             i: 1,
@@ -1556,7 +1556,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['\N[6]は連続射精で悶える\N[1]をキスで黙らせながら'],
+            p: ['\N[6]は連続射精で悶えるTaroをキスで黙らせながら'],
           }
         - !ruby/object:RPG::EventCommand {
             i: 1,
@@ -1577,7 +1577,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['　\n[1]お兄ちゃん…'],
+            p: ['　Taroお兄ちゃん…'],
           }
         - !ruby/object:RPG::EventCommand {
             i: 1,
@@ -1616,12 +1616,12 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['\N[1]を簡単に失神させてご機嫌な\N[6]に見下ろされながら'],
+            p: ['Taroを簡単に失神させてご機嫌な\N[6]に見下ろされながら'],
           }
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['\N[1]は意識を失った…'],
+            p: ['Taroは意識を失った…'],
           }
         - !ruby/object:RPG::EventCommand { i: 1, c: 221, p: [] }
         - !ruby/object:RPG::EventCommand { i: 1, c: 230, p: [60] }
@@ -1669,7 +1669,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['「\n[1]のおちんちんを'],
+            p: ['「Taroのおちんちんを'],
           }
         - !ruby/object:RPG::EventCommand {
             i: 1,
@@ -1687,7 +1687,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['\N[1]のペニスの上に被せてきた！'],
+            p: ['Taroのペニスの上に被せてきた！'],
           }
         - !ruby/object:RPG::EventCommand { i: 1, c: 117, p: [180] }
         - !ruby/object:RPG::EventCommand { i: 1, c: 101, p: ["", 0, 0, 2] }
@@ -1696,7 +1696,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['　\n[1]お兄ちゃんも捕まえたし'],
+            p: ['　Taroお兄ちゃんも捕まえたし'],
           }
         - !ruby/object:RPG::EventCommand {
             i: 1,
@@ -1709,7 +1709,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['「\n[1]お兄ちゃんのお家は'],
+            p: ['「Taroお兄ちゃんのお家は'],
           }
         - !ruby/object:RPG::EventCommand {
             i: 1,
@@ -1739,7 +1739,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['\N[6]は\N[1]のペニスをパンツでギュッと掴むと'],
+            p: ['\N[6]はTaroのペニスをパンツでギュッと掴むと'],
           }
         - !ruby/object:RPG::EventCommand {
             i: 1,
@@ -1755,7 +1755,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['\N[6]は\N[1]の射精を見て嬉しそうに微笑むと'],
+            p: ['\N[6]はTaroの射精を見て嬉しそうに微笑むと'],
           }
         - !ruby/object:RPG::EventCommand {
             i: 1,
@@ -1789,7 +1789,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['「でもいつ\n[2]お姉ちゃんが'],
+            p: ['「でもいつJaneお姉ちゃんが'],
           }
         - !ruby/object:RPG::EventCommand {
             i: 1,
@@ -1823,7 +1823,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['イったばかりの\N[1]のペニスを両手で容赦なく扱いてきた！'],
+            p: ['イったばかりのTaroのペニスを両手で容赦なく扱いてきた！'],
           }
         - !ruby/object:RPG::EventCommand { i: 1, c: 117, p: [30] }
         - !ruby/object:RPG::EventCommand { i: 1, c: 117, p: [6] }
@@ -1835,7 +1835,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['\N[6]は連続射精で悶える\N[1]を見つめてニヤニヤしながら'],
+            p: ['\N[6]は連続射精で悶えるTaroを見つめてニヤニヤしながら'],
           }
         - !ruby/object:RPG::EventCommand {
             i: 1,
@@ -1873,7 +1873,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['　\n[2]お姉ちゃんに'],
+            p: ['　Janeお姉ちゃんに'],
           }
         - !ruby/object:RPG::EventCommand {
             i: 1,
@@ -1890,7 +1890,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['\N[1]は意識を失った…'],
+            p: ['Taroは意識を失った…'],
           }
         - !ruby/object:RPG::EventCommand { i: 1, c: 221, p: [] }
         - !ruby/object:RPG::EventCommand { i: 1, c: 230, p: [60] }
@@ -2166,7 +2166,7 @@
         - !ruby/object:RPG::EventCommand { i: 0, c: 117, p: [296] }
         - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
         - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: ['\n[6]'] }
-        - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: ['「\n[1]先生…'] }
+        - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: ['「Taro先生…'] }
         - !ruby/object:RPG::EventCommand {
             i: 0,
             c: 401,
@@ -2749,7 +2749,7 @@
           }
         - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
         - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: ['\n[6]'] }
-        - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: ['「\n[1]先生…'] }
+        - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: ['「Taro先生…'] }
         - !ruby/object:RPG::EventCommand {
             i: 0,
             c: 401,
@@ -2947,7 +2947,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['\N[6]は片手で\N[1]のペニスを掴み'],
+            p: ['\N[6]は片手でTaroのペニスを掴み'],
           }
         - !ruby/object:RPG::EventCommand {
             i: 1,
@@ -2963,7 +2963,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['\N[1]は\N[6]に身を任せたまま犯された…'],
+            p: ['Taroは\N[6]に身を任せたまま犯された…'],
           }
         - !ruby/object:RPG::EventCommand { i: 1, c: 339, p: [0, 0, 27, -1] }
         - !ruby/object:RPG::EventCommand { i: 1, c: 117, p: [14] }
@@ -3019,7 +3019,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['\N[6]は\N[1]を押さえ付けたまま'],
+            p: ['\N[6]はTaroを押さえ付けたまま'],
           }
         - !ruby/object:RPG::EventCommand {
             i: 1,
@@ -3097,7 +3097,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['\N[6]は無抵抗な\N[1]を押さえ付け'],
+            p: ['\N[6]は無抵抗なTaroを押さえ付け'],
           }
         - !ruby/object:RPG::EventCommand {
             i: 1,
@@ -3117,7 +3117,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['\N[6]は連続射精で悶える\N[1]を見て微笑みながら'],
+            p: ['\N[6]は連続射精で悶えるTaroを見て微笑みながら'],
           }
         - !ruby/object:RPG::EventCommand {
             i: 1,
@@ -3164,12 +3164,12 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['\N[1]を簡単に失神させて驚いている\N[6]に見下ろされながら'],
+            p: ['Taroを簡単に失神させて驚いている\N[6]に見下ろされながら'],
           }
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['\N[1]は意識を失った…'],
+            p: ['Taroは意識を失った…'],
           }
         - !ruby/object:RPG::EventCommand { i: 1, c: 221, p: [] }
         - !ruby/object:RPG::EventCommand { i: 1, c: 230, p: [60] }
@@ -3214,12 +3214,12 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['\n[6]は\n[1]の上に袴ると'],
+            p: ['\n[6]はTaroの上に袴ると'],
           }
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['お尻で\n[1]のペニスを挟んできた！'],
+            p: ['お尻でTaroのペニスを挟んできた！'],
           }
         - !ruby/object:RPG::EventCommand { i: 1, c: 117, p: [346] }
         - !ruby/object:RPG::EventCommand { i: 1, c: 101, p: ["", 0, 0, 2] }
@@ -3270,7 +3270,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['\N[6]は\N[1]のペニスをお尻で挟むと'],
+            p: ['\N[6]はTaroのペニスをお尻で挟むと'],
           }
         - !ruby/object:RPG::EventCommand {
             i: 1,
@@ -3286,7 +3286,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['\N[6]は\N[1]の射精を見て嬉しそうに微笑むと'],
+            p: ['\N[6]はTaroの射精を見て嬉しそうに微笑むと'],
           }
         - !ruby/object:RPG::EventCommand {
             i: 1,
@@ -3344,7 +3344,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['イったばかりの\N[1]のペニスをお尻で容赦なく扱いてきた！'],
+            p: ['イったばかりのTaroのペニスをお尻で容赦なく扱いてきた！'],
           }
         - !ruby/object:RPG::EventCommand { i: 1, c: 117, p: [341] }
         - !ruby/object:RPG::EventCommand { i: 1, c: 117, p: [6] }
@@ -3356,7 +3356,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['\N[6]は連続射精で悶える\N[1]を見つめて微笑みながら'],
+            p: ['\N[6]は連続射精で悶えるTaroを見つめて微笑みながら'],
           }
         - !ruby/object:RPG::EventCommand {
             i: 1,
@@ -3400,7 +3400,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['\N[1]は意識を失った…'],
+            p: ['Taroは意識を失った…'],
           }
         - !ruby/object:RPG::EventCommand { i: 1, c: 221, p: [] }
         - !ruby/object:RPG::EventCommand { i: 1, c: 230, p: [60] }
@@ -3581,12 +3581,12 @@
         - !ruby/object:RPG::EventCommand {
             i: 0,
             c: 401,
-            p: ['ルミは\n[1]に飛びついてきた！'],
+            p: ['ルミはTaroに飛びついてきた！'],
           }
         - !ruby/object:RPG::EventCommand {
             i: 0,
             c: 401,
-            p: ['\n[1]はルミを抱き受け、尻餅をついてしまった…'],
+            p: ['Taroはルミを抱き受け、尻餅をついてしまった…'],
           }
         - !ruby/object:RPG::EventCommand { i: 0, c: 117, p: [207] }
         - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
@@ -4207,7 +4207,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 0,
             c: 401,
-            p: ['\n[1]にはもはや抵抗する意思はなく'],
+            p: ['Taroにはもはや抵抗する意思はなく'],
           }
         - !ruby/object:RPG::EventCommand {
             i: 0,
@@ -4382,7 +4382,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['\N[6]は片手で\N[1]のペニスを掴み'],
+            p: ['\N[6]は片手でTaroのペニスを掴み'],
           }
         - !ruby/object:RPG::EventCommand {
             i: 1,
@@ -4398,7 +4398,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['\N[1]は\N[6]に身を任せたまま犯された…'],
+            p: ['Taroは\N[6]に身を任せたまま犯された…'],
           }
         - !ruby/object:RPG::EventCommand { i: 1, c: 339, p: [0, 0, 27, -1] }
         - !ruby/object:RPG::EventCommand { i: 1, c: 117, p: [14] }
@@ -4436,7 +4436,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['\N[6]は\N[1]の体をギュッと抱きしめ'],
+            p: ['\N[6]はTaroの体をギュッと抱きしめ'],
           }
         - !ruby/object:RPG::EventCommand {
             i: 1,
@@ -4454,7 +4454,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['\N[6]は\N[1]の射精を感じ取りニヤリと微笑むと'],
+            p: ['\N[6]はTaroの射精を感じ取りニヤリと微笑むと'],
           }
         - !ruby/object:RPG::EventCommand {
             i: 1,
@@ -4530,7 +4530,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['\N[6]は楽しそうに話しながら\N[1]の体を抱きしめると'],
+            p: ['\N[6]は楽しそうに話しながらTaroの体を抱きしめると'],
           }
         - !ruby/object:RPG::EventCommand {
             i: 1,
@@ -4553,7 +4553,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['\N[6]は連続射精で悶える\N[1]をキスで黙らせながら'],
+            p: ['\N[6]は連続射精で悶えるTaroをキスで黙らせながら'],
           }
         - !ruby/object:RPG::EventCommand {
             i: 1,
@@ -4609,7 +4609,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['\N[1]は意識を失った…'],
+            p: ['Taroは意識を失った…'],
           }
         - !ruby/object:RPG::EventCommand { i: 1, c: 221, p: [] }
         - !ruby/object:RPG::EventCommand { i: 1, c: 230, p: [60] }
@@ -4668,7 +4668,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['\N[6]は両足で\N[1]のペニスをがっちりと挟んできた！'],
+            p: ['\N[6]は両足でTaroのペニスをがっちりと挟んできた！'],
           }
         - !ruby/object:RPG::EventCommand { i: 1, c: 117, p: [251] }
         - !ruby/object:RPG::EventCommand { i: 1, c: 101, p: ["", 0, 0, 2] }
@@ -4746,7 +4746,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['\N[6]は\N[1]のペニスを足でギュッと掴み直し'],
+            p: ['\N[6]はTaroのペニスを足でギュッと掴み直し'],
           }
         - !ruby/object:RPG::EventCommand {
             i: 1,
@@ -4761,7 +4761,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['\N[6]は\N[1]の射精を感じ取りニヤリと微笑むと'],
+            p: ['\N[6]はTaroの射精を感じ取りニヤリと微笑むと'],
           }
         - !ruby/object:RPG::EventCommand {
             i: 1,
@@ -4887,7 +4887,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['イったばかりの\N[1]のペニスを両足で容赦なく扱いてきた！'],
+            p: ['イったばかりのTaroのペニスを両足で容赦なく扱いてきた！'],
           }
         - !ruby/object:RPG::EventCommand { i: 1, c: 117, p: [18] }
         - !ruby/object:RPG::EventCommand { i: 1, c: 117, p: [6] }
@@ -4899,7 +4899,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['\N[6]は連続射精で悶える\N[1]を見つめてニヤニヤしながら'],
+            p: ['\N[6]は連続射精で悶えるTaroを見つめてニヤニヤしながら'],
           }
         - !ruby/object:RPG::EventCommand {
             i: 1,
@@ -4954,7 +4954,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['\N[1]は意識を失った…'],
+            p: ['Taroは意識を失った…'],
           }
         - !ruby/object:RPG::EventCommand { i: 1, c: 221, p: [] }
         - !ruby/object:RPG::EventCommand { i: 1, c: 230, p: [60] }
@@ -5743,7 +5743,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['\N[6]は片手で\N[1]のペニスを掴み'],
+            p: ['\N[6]は片手でTaroのペニスを掴み'],
           }
         - !ruby/object:RPG::EventCommand {
             i: 1,
@@ -5759,7 +5759,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['\N[1]は\N[6]に身を任せたまま犯された…'],
+            p: ['Taroは\N[6]に身を任せたまま犯された…'],
           }
         - !ruby/object:RPG::EventCommand { i: 1, c: 339, p: [0, 0, 27, -1] }
         - !ruby/object:RPG::EventCommand { i: 1, c: 117, p: [14] }
@@ -5820,7 +5820,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['\N[6]は\N[1]を押さえ付けたまま'],
+            p: ['\N[6]はTaroを押さえ付けたまま'],
           }
         - !ruby/object:RPG::EventCommand {
             i: 1,
@@ -5885,7 +5885,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['\N[6]は無抵抗な\N[1]を押さえ付け'],
+            p: ['\N[6]は無抵抗なTaroを押さえ付け'],
           }
         - !ruby/object:RPG::EventCommand {
             i: 1,
@@ -5902,7 +5902,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['\N[6]は連続射精で悶える\N[1]を見て微笑みながら'],
+            p: ['\N[6]は連続射精で悶えるTaroを見て微笑みながら'],
           }
         - !ruby/object:RPG::EventCommand {
             i: 1,
@@ -5959,12 +5959,12 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['\N[1]を簡単に失神させて笑っている\N[6]に見下ろされながら'],
+            p: ['Taroを簡単に失神させて笑っている\N[6]に見下ろされながら'],
           }
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['\N[1]は意識を失った…'],
+            p: ['Taroは意識を失った…'],
           }
         - !ruby/object:RPG::EventCommand { i: 1, c: 221, p: [] }
         - !ruby/object:RPG::EventCommand { i: 1, c: 230, p: [60] }
@@ -6010,7 +6010,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['\n[6]は\n[1]を押し倒して'],
+            p: ['\n[6]はTaroを押し倒して'],
           }
         - !ruby/object:RPG::EventCommand {
             i: 1,
@@ -6053,7 +6053,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['\N[6]は\N[1]のペニスを胸で挟むと'],
+            p: ['\N[6]はTaroのペニスを胸で挟むと'],
           }
         - !ruby/object:RPG::EventCommand {
             i: 1,
@@ -6068,7 +6068,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['\N[6]は\N[1]が射精している最中も'],
+            p: ['\N[6]はTaroが射精している最中も'],
           }
         - !ruby/object:RPG::EventCommand {
             i: 1,
@@ -6130,7 +6130,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['イったばかりの\N[1]のペニスを胸で容赦なく扱いてきた！'],
+            p: ['イったばかりのTaroのペニスを胸で容赦なく扱いてきた！'],
           }
         - !ruby/object:RPG::EventCommand { i: 1, c: 117, p: [438] }
         - !ruby/object:RPG::EventCommand { i: 1, c: 117, p: [6] }
@@ -6142,7 +6142,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['\N[6]は連続射精で悶える\N[1]を見つめてニヤニヤしながら'],
+            p: ['\N[6]は連続射精で悶えるTaroを見つめてニヤニヤしながら'],
           }
         - !ruby/object:RPG::EventCommand {
             i: 1,
@@ -6209,7 +6209,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['\N[1]は意識を失った…'],
+            p: ['Taroは意識を失った…'],
           }
         - !ruby/object:RPG::EventCommand { i: 1, c: 221, p: [] }
         - !ruby/object:RPG::EventCommand { i: 1, c: 230, p: [60] }
@@ -6393,7 +6393,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['　\n[1]さんのそれ、見せてください…♡'],
+            p: ['　Taroさんのそれ、見せてください…♡'],
           }
         - !ruby/object:RPG::EventCommand { i: 1, c: 235, p: [1] }
         - !ruby/object:RPG::EventCommand { i: 1, c: 339, p: [0, 0, 17, -1] }
@@ -6429,7 +6429,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['　\n[1]さん、ダメなんだからね♡'],
+            p: ['　Taroさん、ダメなんだからね♡'],
           }
         - !ruby/object:RPG::EventCommand {
             i: 1,
@@ -6471,7 +6471,7 @@
             c: 401,
             p: [　気持ちよく吸い取られてくださいっ♪],
           }
-        - !ruby/object:RPG::EventCommand { i: 1, c: 401, p: ['　\n[1]さん♡'] }
+        - !ruby/object:RPG::EventCommand { i: 1, c: 401, p: ['　Taroさん♡'] }
         - !ruby/object:RPG::EventCommand { i: 1, c: 0, p: [] }
         - !ruby/object:RPG::EventCommand { i: 0, c: 412, p: [] }
         - !ruby/object:RPG::EventCommand { i: 0, c: 235, p: [1] }
@@ -6624,7 +6624,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 0,
             c: 401,
-            p: ['　徹底的に鍛えてあげますね、\n[1]さん♡'],
+            p: ['　徹底的に鍛えてあげますね、Taroさん♡'],
           }
         - !ruby/object:RPG::EventCommand { i: 0, c: 235, p: [1] }
         - !ruby/object:RPG::EventCommand { i: 0, c: 0, p: [] }
@@ -6778,7 +6778,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 0,
             c: 401,
-            p: ['　\n[1]さんのを、お外にだしてあげます♡'],
+            p: ['　Taroさんのを、お外にだしてあげます♡'],
           }
         - !ruby/object:RPG::EventCommand { i: 0, c: 235, p: [1] }
         - !ruby/object:RPG::EventCommand { i: 0, c: 339, p: [0, 0, 17, -1] }
@@ -6970,7 +6970,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['　\n[1]さんのそれ、見せてください…♡'],
+            p: ['　Taroさんのそれ、見せてください…♡'],
           }
         - !ruby/object:RPG::EventCommand { i: 1, c: 235, p: [1] }
         - !ruby/object:RPG::EventCommand { i: 1, c: 339, p: [0, 0, 17, -1] }
@@ -7006,7 +7006,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 1,
             c: 401,
-            p: ['　\n[1]さん、ダメなんだからね♡'],
+            p: ['　Taroさん、ダメなんだからね♡'],
           }
         - !ruby/object:RPG::EventCommand {
             i: 1,
@@ -7048,7 +7048,7 @@
             c: 401,
             p: [　気持ちよく吸い取られてくださいっ♪],
           }
-        - !ruby/object:RPG::EventCommand { i: 1, c: 401, p: ['　\n[1]さん♡'] }
+        - !ruby/object:RPG::EventCommand { i: 1, c: 401, p: ['　Taroさん♡'] }
         - !ruby/object:RPG::EventCommand { i: 1, c: 0, p: [] }
         - !ruby/object:RPG::EventCommand { i: 0, c: 412, p: [] }
         - !ruby/object:RPG::EventCommand { i: 0, c: 235, p: [1] }
@@ -7201,7 +7201,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 0,
             c: 401,
-            p: ['　徹底的に鍛えてあげますね、\n[1]さん♡'],
+            p: ['　徹底的に鍛えてあげますね、Taroさん♡'],
           }
         - !ruby/object:RPG::EventCommand { i: 0, c: 235, p: [1] }
         - !ruby/object:RPG::EventCommand { i: 0, c: 0, p: [] }
@@ -7355,7 +7355,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 0,
             c: 401,
-            p: ['　\n[1]さんのを、お外にだしてあげます♡'],
+            p: ['　Taroさんのを、お外にだしてあげます♡'],
           }
         - !ruby/object:RPG::EventCommand { i: 0, c: 235, p: [1] }
         - !ruby/object:RPG::EventCommand { i: 0, c: 339, p: [0, 0, 17, -1] }
@@ -7547,7 +7547,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 0,
             c: 401,
-            p: ['　\n[1]さんのを、お外にだしてあげます♡'],
+            p: ['　Taroさんのを、お外にだしてあげます♡'],
           }
         - !ruby/object:RPG::EventCommand { i: 0, c: 235, p: [1] }
         - !ruby/object:RPG::EventCommand { i: 0, c: 339, p: [0, 0, 17, -1] }
@@ -7727,7 +7727,7 @@
         - !ruby/object:RPG::EventCommand {
             i: 0,
             c: 401,
-            p: ['　\n[1]さんのを、お外にだしてあげます♡'],
+            p: ['　Taroさんのを、お外にだしてあげます♡'],
           }
         - !ruby/object:RPG::EventCommand { i: 0, c: 235, p: [1] }
         - !ruby/object:RPG::EventCommand { i: 0, c: 339, p: [0, 0, 17, -1] }

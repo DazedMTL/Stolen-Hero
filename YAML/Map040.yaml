@@ -205,12 +205,12 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['\n[2]が魔王の住処を発見して出発してから数日が過ぎた…'],
+              p: ['Janeが魔王の住処を発見して出発してから数日が過ぎた…'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['メア達は\n[1]が来ることも知らず'],
+              p: ['メア達はTaroが来ることも知らず'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
@@ -404,7 +404,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['　\n[1]さんのことも覚えてたりするのかなっ♪'],
+              p: ['　Taroさんのことも覚えてたりするのかなっ♪'],
             }
           - !ruby/object:RPG::EventCommand
             i: 0
@@ -432,7 +432,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['「\n[1]って私の父親でしょ？'],
+              p: ['「Taroって私の父親でしょ？'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
@@ -486,7 +486,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['　\n[1]さんは元々\n[2]さんの恋人で'],
+              p: ['　Taroさんは元々Janeさんの恋人で'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
@@ -552,11 +552,11 @@ events:
             }
           - !ruby/object:RPG::EventCommand { i: 0, c: 235, p: [20] }
           - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: ['\n[2]の声'] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: ['Janeの声'] }
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['「\n[1]…ここにメアちゃんがいるみたい！'],
+              p: ['「Taro…ここにメアちゃんがいるみたい！'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
@@ -742,7 +742,7 @@ events:
               p: [20, Fia真剣, 1, 0, 540, 380, 100, 100, 255, 0],
             }
           - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: ['\n[2]'] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: ['Jane'] }
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
@@ -821,7 +821,7 @@ events:
               p: [20, Fia真剣, 1, 0, 540, 380, 100, 100, 255, 0],
             }
           - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: ['\n[2]'] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: ['Jane'] }
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
@@ -845,7 +845,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['　\n[1]…さん…'],
+              p: ['　Taro…さん…'],
             }
           - !ruby/object:RPG::EventCommand { i: 0, c: 235, p: [20] }
           - !ruby/object:RPG::EventCommand { i: 0, c: 213, p: [8, 8, true] }
@@ -877,7 +877,7 @@ events:
               p: [20, Fia怒る２, 1, 0, 540, 380, 100, 100, 255, 0],
             }
           - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: ['\n[2]'] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: ['Jane'] }
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
@@ -1000,7 +1000,7 @@ events:
               p: [20, Fia困る, 1, 0, 540, 380, 100, 100, 255, 0],
             }
           - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: ['\n[2]'] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: ['Jane'] }
           - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [「え…？] }
           - !ruby/object:RPG::EventCommand {
               i: 0,

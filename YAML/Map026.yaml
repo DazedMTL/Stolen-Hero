@@ -108,7 +108,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['後日、\n[1]の全てを奪ってモノにしたルミは'],
+              p: ['後日、Taroの全てを奪ってモノにしたルミは'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
@@ -153,7 +153,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['現在\n[1]はただルミに付き添い'],
+              p: ['現在Taroはただルミに付き添い'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
@@ -923,7 +923,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['「あ…\n[1]さん…'],
+              p: ['「あ…Taroさん…'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
@@ -964,7 +964,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['「女王様は\n[1]さんを襲って'],
+              p: ['「女王様はTaroさんを襲って'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
@@ -1037,7 +1037,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['「それに比べて元勇者の\n[1]さんは'],
+              p: ['「それに比べて元勇者のTaroさんは'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
@@ -1059,12 +1059,12 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['「はぁ…私、\n[1]さんは'],
+              p: ['「はぁ…私、Taroさんは'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['　\n[2]の為に頑張ってるって思って'],
+              p: ['　Janeの為に頑張ってるって思って'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
@@ -1081,7 +1081,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['「それにしても\n[1]さんがまさか…その…'],
+              p: ['「それにしてもTaroさんがまさか…その…'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
@@ -1217,7 +1217,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['「だ、ダメですよ\n[1]さん…！'],
+              p: ['「だ、ダメですよTaroさん…！'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,

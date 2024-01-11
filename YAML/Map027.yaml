@@ -59,7 +59,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['\n[1]は彼女の下僕として生涯仕えることとなった…'],
+              p: ['Taroは彼女の下僕として生涯仕えることとなった…'],
             }
           - !ruby/object:RPG::EventCommand { i: 0, c: 222, p: [] }
           - !ruby/object:RPG::EventCommand { i: 0, c: 213, p: [-1, 8, true] }
@@ -863,7 +863,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 2,
               c: 401,
-              p: ['先生の彼女だった人…\n[2]さんが言うには'],
+              p: ['先生の彼女だった人…Janeさんが言うには'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 2,
@@ -895,7 +895,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 2,
               c: 401,
-              p: ['でもその彼女…\n[2]さんとはエッチもなかったらしいし'],
+              p: ['でもその彼女…Janeさんとはエッチもなかったらしいし'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 2,
@@ -911,7 +911,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 2,
               c: 401,
-              p: ['でも先生は泣きながら帰っていく\n[2]さんを追いかけないで'],
+              p: ['でも先生は泣きながら帰っていくJaneさんを追いかけないで'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 2,
@@ -1099,7 +1099,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 2,
               c: 401,
-              p: ['でもその話を\n[1]先生に聞かれちゃって'],
+              p: ['でもその話をTaro先生に聞かれちゃって'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 2,
@@ -1115,7 +1115,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 2,
               c: 401,
-              p: ['それでも\n[1]先生を誘惑するのは簡単ですぐ私相手に興奮して'],
+              p: ['それでもTaro先生を誘惑するのは簡単ですぐ私相手に興奮して'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 2,
@@ -1136,7 +1136,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 2,
               c: 401,
-              p: ['\n[1]先生、ちょっと可哀想だけど…先生が悪いんだ'],
+              p: ['Taro先生、ちょっと可哀想だけど…先生が悪いんだ'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 2,
@@ -1265,7 +1265,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 2,
               c: 401,
-              p: ['先生の彼女だった人…\n[2]さんが言うには'],
+              p: ['先生の彼女だった人…Janeさんが言うには'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 2,
@@ -1318,7 +1318,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 2,
               c: 401,
-              p: ['でも\n[2]さんとはエッチもなかったらしいし'],
+              p: ['でもJaneさんとはエッチもなかったらしいし'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 2,
@@ -1334,7 +1334,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 2,
               c: 401,
-              p: ['でも先生は泣きながら帰っていく\n[2]さんを追いかけないで'],
+              p: ['でも先生は泣きながら帰っていくJaneさんを追いかけないで'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 2,
@@ -1522,7 +1522,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 2,
               c: 401,
-              p: ['でもその話を\n[1]先生に聞かれちゃって'],
+              p: ['でもその話をTaro先生に聞かれちゃって'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 2,
@@ -1539,7 +1539,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 3,
               c: 401,
-              p: ['それでも\n[1]先生を誘惑するのは簡単で'],
+              p: ['それでもTaro先生を誘惑するのは簡単で'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 3,
@@ -1555,7 +1555,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 3,
               c: 401,
-              p: ['\n[1]先生は童貞だったし元々早漏なのかすぐイっちゃって'],
+              p: ['Taro先生は童貞だったし元々早漏なのかすぐイっちゃって'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 3,
@@ -1578,7 +1578,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 3,
               c: 401,
-              p: ['それでも\n[1]先生を誘惑するのは簡単ですぐ私相手に興奮して'],
+              p: ['それでもTaro先生を誘惑するのは簡単ですぐ私相手に興奮して'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 3,
@@ -1601,7 +1601,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 2,
               c: 401,
-              p: ['その後は、フラフラの\n[1]先生を家まで送ってあげた'],
+              p: ['その後は、フラフラのTaro先生を家まで送ってあげた'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 2,
@@ -1611,13 +1611,13 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 2,
               c: 401,
-              p: ['これからは\n[1]先生にお金を稼いでもらおうかな'],
+              p: ['これからはTaro先生にお金を稼いでもらおうかな'],
             }
           - !ruby/object:RPG::EventCommand { i: 2, c: 101, p: ["", 0, 1, 1] }
           - !ruby/object:RPG::EventCommand {
               i: 2,
               c: 401,
-              p: ['\n[1]先生、ちょっと可哀想だけど…先生が悪いんだ'],
+              p: ['Taro先生、ちょっと可哀想だけど…先生が悪いんだ'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 2,

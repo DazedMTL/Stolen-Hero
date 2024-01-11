@@ -484,7 +484,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 1,
               c: 401,
-              p: ['「\n[6]のお仕事は毎日しっかり\n[1]お兄ちゃんを'],
+              p: ['「\n[6]のお仕事は毎日しっかりTaroお兄ちゃんを'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 1,
@@ -523,7 +523,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 1,
               c: 401,
-              p: ['　\n[1]お兄ちゃんに責任取らせる為の'],
+              p: ['　Taroお兄ちゃんに責任取らせる為の'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 1,
@@ -540,7 +540,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 1,
               c: 401,
-              p: ['「だから\n[1]お兄ちゃんも'],
+              p: ['「だからTaroお兄ちゃんも'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 1,
@@ -567,7 +567,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 1,
               c: 401,
-              p: ['　\n[1]お兄ちゃんの精液と一緒に吸い取って'],
+              p: ['　Taroお兄ちゃんの精液と一緒に吸い取って'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 1,
@@ -627,7 +627,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 1,
               c: 401,
-              p: ['　幸せになろーね♡\n[1]お兄ちゃん♡'],
+              p: ['　幸せになろーね♡Taroお兄ちゃん♡'],
             }
           - !ruby/object:RPG::EventCommand { i: 1, c: 235, p: [20] }
           - !ruby/object:RPG::EventCommand { i: 1, c: 0, p: [] }
@@ -819,7 +819,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['「\n[1]お兄ちゃん、今日も時間通りに来たね♪'],
+              p: ['「Taroお兄ちゃん、今日も時間通りに来たね♪'],
             }
           - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [　いーこ♡] }
           - !ruby/object:RPG::EventCommand {
@@ -846,7 +846,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['「最初は\n[6]も\n[1]お兄ちゃん誘惑する為に'],
+              p: ['「最初は\n[6]もTaroお兄ちゃん誘惑する為に'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
@@ -863,7 +863,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['「もう\n[1]お兄ちゃんからおねだりしてるし'],
+              p: ['「もうTaroお兄ちゃんからおねだりしてるし'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
@@ -880,7 +880,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['「だから\n[1]お兄ちゃんがちゃーんと'],
+              p: ['「だからTaroお兄ちゃんがちゃーんと'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
@@ -926,7 +926,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['　\n[1]お兄ちゃんの子を妊娠してるんだよ！'],
+              p: ['　Taroお兄ちゃんの子を妊娠してるんだよ！'],
             }
           - !ruby/object:RPG::EventCommand { i: 0, c: 235, p: [20] }
           - !ruby/object:RPG::EventCommand { i: 0, c: 213, p: [-1, 1, true] }
@@ -945,7 +945,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['　年上の\n[1]お兄ちゃんがちゃんとしなきゃ'],
+              p: ['　年上のTaroお兄ちゃんがちゃんとしなきゃ'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
@@ -962,7 +962,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['　\n[1]お兄ちゃん！'],
+              p: ['　Taroお兄ちゃん！'],
             }
           - !ruby/object:RPG::EventCommand { i: 0, c: 235, p: [20] }
           - !ruby/object:RPG::EventCommand { i: 0, c: 213, p: [-1, 6, true] }
@@ -970,17 +970,17 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['\n[6]を怒らせない為に\n[1]は跪いて\n[6]に指輪を渡した…'],
+              p: ['\n[6]を怒らせない為にTaroは跪いて\n[6]に指輪を渡した…'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['本来は\n[2]に渡す予定に買ったものだったが、'],
+              p: ['本来はJaneに渡す予定に買ったものだったが、'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['もう\n[1]の心は完全に\n[6]のモノにされていた…'],
+              p: ['もうTaroの心は完全に\n[6]のモノにされていた…'],
             }
           - !ruby/object:RPG::EventCommand { i: 0, c: 213, p: [7, 1, true] }
           - !ruby/object:RPG::EventCommand {
@@ -998,7 +998,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['　なぁんだ…\n[1]お兄ちゃんはちゃんと'],
+              p: ['　なぁんだ…Taroお兄ちゃんはちゃんと'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
@@ -1076,12 +1076,12 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['「実はもう\n[2]お姉ちゃんを呼んであるの♪'],
+              p: ['「実はもうJaneお姉ちゃんを呼んであるの♪'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['　まだ\n[1]お兄ちゃんと結婚できるって'],
+              p: ['　まだTaroお兄ちゃんと結婚できるって'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
@@ -1100,7 +1100,7 @@ events:
               p: [20, Fia普通, 1, 0, 540, 380, 100, 100, 255, 0],
             }
           - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: ['\N[2]'] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: ['Jane'] }
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
@@ -1109,7 +1109,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['　あれ、\N[1]…どうしてここに？'],
+              p: ['　あれ、Taro…どうしてここに？'],
             }
           - !ruby/object:RPG::EventCommand { i: 0, c: 235, p: [20] }
           - !ruby/object:RPG::EventCommand
@@ -1155,7 +1155,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['「\n[2]お姉ちゃん♪'],
+              p: ['「Janeお姉ちゃん♪'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
@@ -1165,7 +1165,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['　\n[1]お兄ちゃんにプロポーズされちゃった♡'],
+              p: ['　Taroお兄ちゃんにプロポーズされちゃった♡'],
             }
           - !ruby/object:RPG::EventCommand { i: 0, c: 235, p: [20] }
           - !ruby/object:RPG::EventCommand { i: 0, c: 213, p: [9, 1, true] }
@@ -1175,7 +1175,7 @@ events:
               p: [20, Fia困る, 1, 0, 540, 380, 100, 100, 255, 0],
             }
           - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: ['\N[2]'] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: ['Jane'] }
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
@@ -1216,7 +1216,7 @@ events:
               p: [20, Fia怒る２, 1, 0, 540, 380, 100, 100, 255, 0],
             }
           - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: ['\N[2]'] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: ['Jane'] }
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
@@ -1225,7 +1225,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['　\N[1]のでしょ！なんで\N[6]ちゃんが…！'],
+              p: ['　Taroのでしょ！なんで\N[6]ちゃんが…！'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
@@ -1255,7 +1255,7 @@ events:
               p: [20, Fia真剣, 1, 0, 540, 380, 100, 100, 255, 0],
             }
           - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: ['\N[2]'] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: ['Jane'] }
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
@@ -1277,12 +1277,12 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['　\n[2]お姉ちゃんには言ってなかったね。'],
+              p: ['　Janeお姉ちゃんには言ってなかったね。'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['　\n[6]と\n[1]お兄ちゃん、付き合ってるの。'],
+              p: ['　\n[6]とTaroお兄ちゃん、付き合ってるの。'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
@@ -1299,7 +1299,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['　\n[1]お兄ちゃんの筆おろししてあげたの♡'],
+              p: ['　Taroお兄ちゃんの筆おろししてあげたの♡'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
@@ -1307,7 +1307,7 @@ events:
               p: [20, Fia怒る２, 1, 0, 540, 380, 100, 100, 255, 0],
             }
           - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: ['\n[2]'] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: ['Jane'] }
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
@@ -1316,7 +1316,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['　もう\n[1]！何とか言ってあげてよ！'],
+              p: ['　もうTaro！何とか言ってあげてよ！'],
             }
           - !ruby/object:RPG::EventCommand { i: 0, c: 235, p: [20] }
           - !ruby/object:RPG::EventCommand { i: 0, c: 213, p: [-1, 8, true] }
@@ -1346,7 +1346,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['「\n[1]お兄ちゃん♡'],
+              p: ['「Taroお兄ちゃん♡'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
@@ -1376,7 +1376,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['\n[6]は何も言えずにうつむく\n[1]にキスをした！'],
+              p: ['\n[6]は何も言えずにうつむくTaroにキスをした！'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
@@ -1384,11 +1384,11 @@ events:
               p: [20, Fiaショック, 1, 0, 540, 380, 100, 100, 255, 0],
             }
           - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: ['\n[2]'] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: ['Jane'] }
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['「\n[1]…な、何してるの…？'],
+              p: ['「Taro…な、何してるの…？'],
             }
           - !ruby/object:RPG::EventCommand
             i: 0
@@ -1417,7 +1417,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['　\n[2]お姉ちゃんってばキスくらいで…'],
+              p: ['　Janeお姉ちゃんってばキスくらいで…'],
             }
           - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [　かわいー♡] }
           - !ruby/object:RPG::EventCommand {
@@ -1435,7 +1435,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['　\n[1]お兄ちゃんってば\n[6]に乗られるのが'],
+              p: ['　Taroお兄ちゃんってば\n[6]に乗られるのが'],
             }
           - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [　好きでねー♡] }
           - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
@@ -1473,12 +1473,12 @@ events:
               p: [20, Fia泣き, 1, 0, 540, 380, 100, 100, 255, 0],
             }
           - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: ['\N[2]'] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: ['Jane'] }
           - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [「や、やめて…] }
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['　嘘…嘘でしょ…\N[1]…'],
+              p: ['　嘘…嘘でしょ…Taro…'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
@@ -1490,12 +1490,12 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['「泣かないで、\n[2]お姉ちゃん♪'],
+              p: ['「泣かないで、Janeお姉ちゃん♪'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['　\n[1]お兄ちゃんはちゃんと\n[6]が'],
+              p: ['　Taroお兄ちゃんはちゃんと\n[6]が'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
@@ -1508,11 +1508,11 @@ events:
               p: [20, Fia泣き, 1, 0, 540, 380, 100, 100, 255, 0],
             }
           - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: ['\N[2]'] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: ['Jane'] }
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['「うぅ…\N[1]…こんなのイヤだよぉ…'],
+              p: ['「うぅ…Taro…こんなのイヤだよぉ…'],
             }
           - !ruby/object:RPG::EventCommand { i: 0, c: 235, p: [20] }
           - !ruby/object:RPG::EventCommand { i: 0, c: 221, p: [] }
@@ -1520,7 +1520,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['泣きじゃくる\n[2]を前に\n[1]は何もできず'],
+              p: ['泣きじゃくるJaneを前にTaroは何もできず'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
@@ -1536,13 +1536,13 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['\n[1]の勇者としての使命はここで潰えたのだ…'],
+              p: ['Taroの勇者としての使命はここで潰えたのだ…'],
             }
           - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 1, 1] }
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['\n[6]と\n[1]の結婚は国中に広まり'],
+              p: ['\n[6]とTaroの結婚は国中に広まり'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
@@ -1558,7 +1558,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['\n[1]は罪悪感に悩める日もあったが'],
+              p: ['Taroは罪悪感に悩める日もあったが'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
@@ -1627,7 +1627,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['こうして\n[1]は\n[6]の誘惑に流されるまま結婚し'],
+              p: ['こうしてTaroは\n[6]の誘惑に流されるまま結婚し'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
@@ -1835,7 +1835,7 @@ events:
               i: 3,
               c: 102,
               p:
-                [[選択肢, ユイ大勝利, 羨ましいでしょ, '\n[1]お兄ちゃんと♡'], 0],
+                [[選択肢, ユイ大勝利, 羨ましいでしょ, 'Taroお兄ちゃんと♡'], 0],
             }
           - !ruby/object:RPG::EventCommand { i: 3, c: 402, p: [0, 選択肢] }
           - !ruby/object:RPG::EventCommand { i: 4, c: 0, p: [] }
@@ -1856,12 +1856,12 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 4,
               c: 401,
-              p: ['これを理由に\n[1]お兄ちゃんに結婚を迫るつもりだったけど'],
+              p: ['これを理由にTaroお兄ちゃんに結婚を迫るつもりだったけど'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 4,
               c: 401,
-              p: ['\n[1]お兄ちゃんは私の為に指輪まで用意してくれてた'],
+              p: ['Taroお兄ちゃんは私の為に指輪まで用意してくれてた'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 4,
@@ -1888,18 +1888,18 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 4,
               c: 401,
-              p: ['ちょっと意地悪だけど\n[2]お姉ちゃんを呼んで'],
+              p: ['ちょっと意地悪だけどJaneお姉ちゃんを呼んで'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 4,
               c: 401,
-              p: ['\n[1]お兄ちゃんの目の前で結婚することを伝えた'],
+              p: ['Taroお兄ちゃんの目の前で結婚することを伝えた'],
             }
           - !ruby/object:RPG::EventCommand { i: 4, c: 101, p: ["", 0, 1, 1] }
           - !ruby/object:RPG::EventCommand {
               i: 4,
               c: 401,
-              p: ['\n[1]お兄ちゃんをモノにした自信はあったけど'],
+              p: ['Taroお兄ちゃんをモノにした自信はあったけど'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 4,
@@ -1909,7 +1909,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 4,
               c: 401,
-              p: ['\n[2]お姉ちゃんに報告すれば私の勝ちが確実になるから'],
+              p: ['Janeお姉ちゃんに報告すれば私の勝ちが確実になるから'],
             }
           - !ruby/object:RPG::EventCommand { i: 4, c: 101, p: ["", 0, 1, 1] }
           - !ruby/object:RPG::EventCommand {
@@ -1920,7 +1920,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 4,
               c: 401,
-              p: ['私はみんなの憧れの\n[1]お兄ちゃんも手に入れて'],
+              p: ['私はみんなの憧れのTaroお兄ちゃんも手に入れて'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 4,
@@ -1931,7 +1931,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 4,
               c: 401,
-              p: ['\n[1]お兄ちゃんを誘惑した日から全部が上手くいって'],
+              p: ['Taroお兄ちゃんを誘惑した日から全部が上手くいって'],
             }
           - !ruby/object:RPG::EventCommand { i: 4, c: 401, p: [本当に幸せ] }
           - !ruby/object:RPG::EventCommand {
@@ -1972,13 +1972,13 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 4,
               c: 401,
-              p: ['朝から\n[1]お兄ちゃんの家に行った'],
+              p: ['朝からTaroお兄ちゃんの家に行った'],
             }
           - !ruby/object:RPG::EventCommand { i: 4, c: 101, p: ["", 0, 1, 1] }
           - !ruby/object:RPG::EventCommand {
               i: 4,
               c: 401,
-              p: ['\n[1]お兄ちゃんはユイを見ただけで'],
+              p: ['Taroお兄ちゃんはユイを見ただけで'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 4,
@@ -1989,7 +1989,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 4,
               c: 401,
-              p: ['\n[1]お兄ちゃんにちゃんと告白してもらって'],
+              p: ['Taroお兄ちゃんにちゃんと告白してもらって'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 4,
@@ -2005,7 +2005,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 4,
               c: 401,
-              p: ['ちょっと動いたら\n[1]お兄ちゃんは'],
+              p: ['ちょっと動いたらTaroお兄ちゃんは'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 4,
@@ -2016,7 +2016,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 4,
               c: 401,
-              p: ['これで\n[1]お兄ちゃんは正式に私の彼氏だし、'],
+              p: ['これでTaroお兄ちゃんは正式に私の彼氏だし、'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 4,
@@ -2027,33 +2027,33 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 4,
               c: 401,
-              p: ['\n[2]お姉ちゃんの一番大切なもの、奪っちゃった'],
+              p: ['Janeお姉ちゃんの一番大切なもの、奪っちゃった'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 4,
               c: 401,
-              p: ['綺麗で大人で幸せな\n[2]お姉ちゃんを尊敬してたけど'],
+              p: ['綺麗で大人で幸せなJaneお姉ちゃんを尊敬してたけど'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 4,
               c: 401,
-              p: ['今はもう\n[2]お姉ちゃんを羨ましいなんて全然思わない'],
+              p: ['今はもうJaneお姉ちゃんを羨ましいなんて全然思わない'],
             }
           - !ruby/object:RPG::EventCommand { i: 4, c: 101, p: ["", 0, 1, 1] }
           - !ruby/object:RPG::EventCommand {
               i: 4,
               c: 401,
-              p: ['今となっては\n[2]お姉ちゃんが私を羨ましがるはず'],
+              p: ['今となってはJaneお姉ちゃんが私を羨ましがるはず'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 4,
               c: 401,
-              p: ['今まで私が\n[2]お姉ちゃんを羨ましいって思った分以上に'],
+              p: ['今まで私がJaneお姉ちゃんを羨ましいって思った分以上に'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 4,
               c: 401,
-              p: ['\n[2]お姉ちゃんには私のことを羨ましいって'],
+              p: ['Janeお姉ちゃんには私のことを羨ましいって'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 4,
@@ -2072,20 +2072,20 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 3,
               c: 402,
-              p: [3, '\n[1]お兄ちゃんと♡'],
+              p: [3, 'Taroお兄ちゃんと♡'],
             }
           - !ruby/object:RPG::EventCommand { i: 4, c: 101, p: ["", 0, 1, 1] }
           - !ruby/object:RPG::EventCommand { i: 4, c: 401, p: ['4月\v[100]日'] }
           - !ruby/object:RPG::EventCommand {
               i: 4,
               c: 401,
-              p: ['今日、\N[1]お兄ちゃんとえっちしちゃった'],
+              p: ['今日、Taroお兄ちゃんとえっちしちゃった'],
             }
           - !ruby/object:RPG::EventCommand { i: 4, c: 101, p: ["", 0, 1, 1] }
           - !ruby/object:RPG::EventCommand {
               i: 4,
               c: 401,
-              p: ['\N[1]お兄ちゃんを誘惑して迫ったら'],
+              p: ['Taroお兄ちゃんを誘惑して迫ったら'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 4,
@@ -2096,7 +2096,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 4,
               c: 401,
-              p: ['私は\N[1]お兄ちゃんと\N[2]お姉ちゃんの関係に'],
+              p: ['私はTaroお兄ちゃんとJaneお姉ちゃんの関係に'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 4,
@@ -2107,7 +2107,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 4,
               c: 401,
-              p: ['\N[1]お兄ちゃんはちょっとえっちしたら'],
+              p: ['Taroお兄ちゃんはちょっとえっちしたら'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 4,
@@ -2118,12 +2118,12 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 4,
               c: 401,
-              p: ['\N[2]お姉ちゃんに悪いなって思ったけど'],
+              p: ['Janeお姉ちゃんに悪いなって思ったけど'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 4,
               c: 401,
-              p: ['私の方が可愛いくて\N[1]お兄ちゃんを夢中にできる'],
+              p: ['私の方が可愛いくてTaroお兄ちゃんを夢中にできる'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 4,
@@ -2134,7 +2134,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 4,
               c: 401,
-              p: ['\N[1]お兄ちゃんの初めてのえっちは'],
+              p: ['Taroお兄ちゃんの初めてのえっちは'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 4,
@@ -2145,7 +2145,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 4,
               c: 401,
-              p: ['最初から最後まで\N[1]お兄ちゃんは'],
+              p: ['最初から最後までTaroお兄ちゃんは'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 4,
@@ -2172,7 +2172,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 4,
               c: 401,
-              p: ['\N[1]お兄ちゃんは止める素振りもなく私に中出ししたし、'],
+              p: ['Taroお兄ちゃんは止める素振りもなく私に中出ししたし、'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 4,
@@ -2276,7 +2276,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['「なあに？\n[1]お兄ちゃん♡'],
+              p: ['「なあに？Taroお兄ちゃん♡'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
@@ -2344,7 +2344,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 1,
               c: 401,
-              p: ['　もぉっ！\n[1]お兄ちゃん寝てばっかりじゃん！'],
+              p: ['　もぉっ！Taroお兄ちゃん寝てばっかりじゃん！'],
             }
           - !ruby/object:RPG::EventCommand { i: 1, c: 235, p: [20] }
           - !ruby/object:RPG::EventCommand
@@ -2547,7 +2547,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 1,
               c: 401,
-              p: ['　\n[1]お兄ちゃんをパクっと食べちゃうぞー♡'],
+              p: ['　Taroお兄ちゃんをパクっと食べちゃうぞー♡'],
             }
           - !ruby/object:RPG::EventCommand { i: 1, c: 235, p: [20] }
           - !ruby/object:RPG::EventCommand { i: 1, c: 0, p: [] }
@@ -2563,7 +2563,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 1,
               c: 401,
-              p: ['「\n[1]お兄ちゃん…♡'],
+              p: ['「Taroお兄ちゃん…♡'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 1,
@@ -2585,7 +2585,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 1,
               c: 401,
-              p: ['「でも\n[1]お兄ちゃんを責めるの好きかも♡'],
+              p: ['「でもTaroお兄ちゃんを責めるの好きかも♡'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 1,
@@ -2624,7 +2624,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 1,
               c: 401,
-              p: ['「今日は何回\n[1]お兄ちゃんイかせられるかな♡'],
+              p: ['「今日は何回Taroお兄ちゃんイかせられるかな♡'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 1,
@@ -2641,7 +2641,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 1,
               c: 401,
-              p: ['「\n[1]お兄ちゃんはそのままでいいの♡'],
+              p: ['「Taroお兄ちゃんはそのままでいいの♡'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 1,

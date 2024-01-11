@@ -145,7 +145,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['\n[1]は牢屋に囚われているふりをしている'],
+              p: ['Taroは牢屋に囚われているふりをしている'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
@@ -205,7 +205,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['「ご苦労だったな\n[1]…'],
+              p: ['「ご苦労だったなTaro…'],
             }
           - !ruby/object:RPG::EventCommand { i: 0, c: 117, p: [471] }
           - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
@@ -363,7 +363,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['しかし\n[1]はただ彼女に力を吸われながら'],
+              p: ['しかしTaroはただ彼女に力を吸われながら'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,

@@ -331,7 +331,7 @@
   name: キス
   occasion: 0
   icon_index: 122
-  message1: は\N[1]の首の後ろに両手をまわし、
+  message1: はTaroの首の後ろに両手をまわし、
   scope: 1
   animation_id: 54
   note: ""
@@ -365,7 +365,7 @@
   name: 太ももで挟む
   occasion: 0
   icon_index: 122
-  message1: は\N[1]の首の後ろに両手をまわし、
+  message1: はTaroの首の後ろに両手をまわし、
   scope: 1
   animation_id: 54
   note: ""
@@ -394,12 +394,12 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Skill
-  message2: \N[1]の口内に舌を入れてきた！
+  message2: Taroの口内に舌を入れてきた！
   description: ""
   name: 太ももで挟む
   occasion: 0
   icon_index: 122
-  message1: は\N[1]の口を自分の唇で塞ぎ
+  message1: はTaroの口を自分の唇で塞ぎ
   scope: 1
   animation_id: 54
   note: ""
@@ -428,7 +428,7 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Skill
-  message2: 下着を\n[1]に見せつけてきた！
+  message2: 下着をTaroに見せつけてきた！
   description: MP
   name: パンチラ
   occasion: 0
@@ -462,12 +462,12 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Skill
-  message2: \N[1]の口内に舌を入れてきた！
+  message2: Taroの口内に舌を入れてきた！
   description: ""
   name: お尻で挟む
   occasion: 0
   icon_index: 122
-  message1: は\N[1]の口を自分の唇で塞ぎ
+  message1: はTaroの口を自分の唇で塞ぎ
   scope: 1
   animation_id: 54
   note: ""
@@ -496,12 +496,12 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Skill
-  message2: \N[1]の口内に舌を入れてきた！
+  message2: Taroの口内に舌を入れてきた！
   description: ""
   name: お尻で扱く
   occasion: 0
   icon_index: 122
-  message1: は\N[1]の口を自分の唇で塞ぎ
+  message1: はTaroの口を自分の唇で塞ぎ
   scope: 1
   animation_id: 54
   note: ""
@@ -535,7 +535,7 @@
   name: 服を脱がす
   occasion: 0
   icon_index: 0
-  message1: は\N[1]の服を
+  message1: はTaroの服を
   scope: 1
   animation_id: 2
   note: ""
@@ -584,7 +584,7 @@
   name: パフパフ
   occasion: 0
   icon_index: 0
-  message1: は\N[1]の手を
+  message1: はTaroの手を
   scope: 1
   animation_id: 54
   note: ""
@@ -618,7 +618,7 @@
   name: 押さえ付け
   occasion: 0
   icon_index: 0
-  message1: は\N[1]を両手で
+  message1: はTaroを両手で
   scope: 1
   animation_id: 0
   note: ""
@@ -667,7 +667,7 @@
   name: 腰ふり
   occasion: 0
   icon_index: 122
-  message1: は\N[1]を押さえ付けたまま
+  message1: はTaroを押さえ付けたまま
   scope: 1
   animation_id: 0
   note: ""
@@ -701,7 +701,7 @@
   name: 腰ふり
   occasion: 0
   icon_index: 122
-  message1: は射精中の\N[1]のペニスを
+  message1: は射精中のTaroのペニスを
   scope: 1
   animation_id: 0
   note: ""
@@ -740,12 +740,12 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Skill
-  message2: \N[1]の口内に舌を入れてきた！
+  message2: Taroの口内に舌を入れてきた！
   description: ""
   name: キス
   occasion: 0
   icon_index: 122
-  message1: は\N[1]の口を自分の唇で塞ぎ
+  message1: はTaroの口を自分の唇で塞ぎ
   scope: 1
   animation_id: 54
   note: ""
@@ -779,7 +779,7 @@
   name: キス＆腰ふり
   occasion: 0
   icon_index: 122
-  message1: は\N[1]を押さえ付けたまま
+  message1: はTaroを押さえ付けたまま
   scope: 1
   animation_id: 54
   note: ""
@@ -813,7 +813,7 @@
   name: キス＆腰ふり
   occasion: 0
   icon_index: 122
-  message1: は\N[1]を押さえ付けたまま
+  message1: はTaroを押さえ付けたまま
   scope: 1
   animation_id: 54
   note: ""
@@ -857,7 +857,7 @@
   name: 服を脱がす
   occasion: 0
   icon_index: 0
-  message1: は\N[1]の服を
+  message1: はTaroの服を
   scope: 1
   animation_id: 2
   note: ""
@@ -906,7 +906,7 @@
   name: 押し倒し
   occasion: 0
   icon_index: 0
-  message1: は\N[1]を
+  message1: はTaroを
   scope: 1
   animation_id: 0
   note: ""
@@ -955,7 +955,7 @@
   name: 挿入
   occasion: 0
   icon_index: 122
-  message1: は\N[1]のペニスを片手で掴みながら
+  message1: はTaroのペニスを片手で掴みながら
   scope: 1
   animation_id: 54
   note: ""
@@ -1009,7 +1009,7 @@
   name: 筆おろし
   occasion: 0
   icon_index: 122
-  message1: は\N[1]のペニスを片手で掴みながら
+  message1: はTaroのペニスを片手で掴みながら
   scope: 1
   animation_id: 54
   note: ""
@@ -1390,7 +1390,7 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Skill
-  message2: 下着を\n[1]に見せつけてきた！
+  message2: 下着をTaroに見せつけてきた！
   description: ""
   name: パンツ押しつけ
   occasion: 0
@@ -1492,7 +1492,7 @@
   name: 押し倒す
   occasion: 0
   icon_index: 0
-  message1: は\N[1]を両手で
+  message1: はTaroを両手で
   scope: 0
   animation_id: 0
   note: ""
@@ -1521,12 +1521,12 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Skill
-  message2: \N[1]の口内に舌を入れてきた！
+  message2: Taroの口内に舌を入れてきた！
   description: ""
   name: パンツで扱く
   occasion: 0
   icon_index: 122
-  message1: は\N[1]の口を自分の唇で塞ぎ
+  message1: はTaroの口を自分の唇で塞ぎ
   scope: 1
   animation_id: 54
   note: ""
@@ -1560,12 +1560,12 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Skill
-  message2: \N[1]の口内に舌を入れてきた！
+  message2: Taroの口内に舌を入れてきた！
   description: ""
   name: 顔騎擦り付け
   occasion: 0
   icon_index: 122
-  message1: は\N[1]の口を自分の唇で塞ぎ
+  message1: はTaroの口を自分の唇で塞ぎ
   scope: 1
   animation_id: 54
   note: ""
@@ -1599,12 +1599,12 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Skill
-  message2: \N[1]の口内に舌を入れてきた！
+  message2: Taroの口内に舌を入れてきた！
   description: ""
   name: 腰ふり
   occasion: 0
   icon_index: 0
-  message1: は\N[1]の口を自分の唇で塞ぎ
+  message1: はTaroの口を自分の唇で塞ぎ
   scope: 1
   animation_id: 0
   note: ""
@@ -1638,7 +1638,7 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Skill
-  message2: 下着を\n[1]に見せつけてきた！
+  message2: 下着をTaroに見せつけてきた！
   description: ""
   name: パンツ擦り付け
   occasion: 0
@@ -1794,12 +1794,12 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Skill
-  message2: \N[1]の口内に舌を入れてきた！
+  message2: Taroの口内に舌を入れてきた！
   description: ""
   name: パフパフ
   occasion: 0
   icon_index: 122
-  message1: は\N[1]の口を自分の唇で塞ぎ
+  message1: はTaroの口を自分の唇で塞ぎ
   scope: 1
   animation_id: 54
   note: ""
@@ -1828,12 +1828,12 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Skill
-  message2: \N[1]の口内に舌を入れてきた！
+  message2: Taroの口内に舌を入れてきた！
   description: ""
   name: パイズリ
   occasion: 0
   icon_index: 122
-  message1: は\N[1]の口を自分の唇で塞ぎ
+  message1: はTaroの口を自分の唇で塞ぎ
   scope: 1
   animation_id: 54
   note: ""
@@ -1867,12 +1867,12 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Skill
-  message2: \N[1]の口内に舌を入れてきた！
+  message2: Taroの口内に舌を入れてきた！
   description: ""
   name: パイズリフェラ
   occasion: 0
   icon_index: 0
-  message1: は\N[1]の口を自分の唇で塞ぎ
+  message1: はTaroの口を自分の唇で塞ぎ
   scope: 1
   animation_id: 54
   note: ""
@@ -1901,12 +1901,12 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Skill
-  message2: \N[1]の口内に舌を入れてきた！
+  message2: Taroの口内に舌を入れてきた！
   description: ""
   name: 腰ふり
   occasion: 0
   icon_index: 122
-  message1: は\N[1]の口を自分の唇で塞ぎ
+  message1: はTaroの口を自分の唇で塞ぎ
   scope: 1
   animation_id: 54
   note: ""
@@ -1940,12 +1940,12 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Skill
-  message2: \N[1]の口内に舌を入れてきた！
+  message2: Taroの口内に舌を入れてきた！
   description: ""
   name: 顔騎＆フェラ
   occasion: 0
   icon_index: 122
-  message1: は\N[1]の口を自分の唇で塞ぎ
+  message1: はTaroの口を自分の唇で塞ぎ
   scope: 1
   animation_id: 54
   note: ""
@@ -1974,12 +1974,12 @@
   repeats: 4
   tp_gain: 0
 - !ruby/object:RPG::Skill
-  message2: \N[1]の口内に舌を入れてきた！
+  message2: Taroの口内に舌を入れてきた！
   description: ""
   name: 顔騎＆フェラ
   occasion: 0
   icon_index: 122
-  message1: は\N[1]の口を自分の唇で塞ぎ
+  message1: はTaroの口を自分の唇で塞ぎ
   scope: 1
   animation_id: 54
   note: ""
@@ -2018,12 +2018,12 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Skill
-  message2: \N[1]の口内に舌を入れてきた！
+  message2: Taroの口内に舌を入れてきた！
   description: ""
   name: キス＆手コキ
   occasion: 0
   icon_index: 122
-  message1: は\N[1]の口を自分の唇で塞ぎ
+  message1: はTaroの口を自分の唇で塞ぎ
   scope: 1
   animation_id: 54
   note: ""
@@ -2052,12 +2052,12 @@
   repeats: 4
   tp_gain: 0
 - !ruby/object:RPG::Skill
-  message2: \N[1]の口内に舌を入れてきた！
+  message2: Taroの口内に舌を入れてきた！
   description: ""
   name: キス＆手コキ
   occasion: 0
   icon_index: 122
-  message1: は\N[1]の口を自分の唇で塞ぎ
+  message1: はTaroの口を自分の唇で塞ぎ
   scope: 1
   animation_id: 54
   note: ""
@@ -2096,12 +2096,12 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Skill
-  message2: \N[1]の口内に舌を入れてきた！
+  message2: Taroの口内に舌を入れてきた！
   description: ""
   name: パンツで扱く
   occasion: 0
   icon_index: 122
-  message1: は\N[1]の口を自分の唇で塞ぎ
+  message1: はTaroの口を自分の唇で塞ぎ
   scope: 1
   animation_id: 54
   note: ""
@@ -2145,7 +2145,7 @@
   name: キス＆腰ふり
   occasion: 0
   icon_index: 122
-  message1: は\N[1]を押さえ付けたまま
+  message1: はTaroを押さえ付けたまま
   scope: 1
   animation_id: 54
   note: ""
@@ -2218,12 +2218,12 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Skill
-  message2: \N[1]の口内に舌を入れてきた！
+  message2: Taroの口内に舌を入れてきた！
   description: ""
   name: 手で握る
   occasion: 0
   icon_index: 0
-  message1: は\N[1]の口を自分の唇で塞ぎ
+  message1: はTaroの口を自分の唇で塞ぎ
   scope: 1
   animation_id: 0
   note: ""
@@ -2257,12 +2257,12 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Skill
-  message2: \N[1]の口内に舌を入れてきた！
+  message2: Taroの口内に舌を入れてきた！
   description: ""
   name: 口でパクっとする
   occasion: 0
   icon_index: 0
-  message1: は\N[1]の口を自分の唇で塞ぎ
+  message1: はTaroの口を自分の唇で塞ぎ
   scope: 1
   animation_id: 0
   note: ""
@@ -2296,12 +2296,12 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Skill
-  message2: \N[1]の口内に舌を入れてきた！
+  message2: Taroの口内に舌を入れてきた！
   description: ""
   name: パンツで扱く
   occasion: 0
   icon_index: 0
-  message1: は\N[1]の口を自分の唇で塞ぎ
+  message1: はTaroの口を自分の唇で塞ぎ
   scope: 1
   animation_id: 54
   note: ""
@@ -2374,12 +2374,12 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Skill
-  message2: \N[1]の口内に舌を入れてきた！
+  message2: Taroの口内に舌を入れてきた！
   description: ""
   name: キス＆素股
   occasion: 0
   icon_index: 122
-  message1: は\N[1]の口を自分の唇で塞ぎ
+  message1: はTaroの口を自分の唇で塞ぎ
   scope: 1
   animation_id: 54
   note: ""
@@ -2408,12 +2408,12 @@
   repeats: 4
   tp_gain: 0
 - !ruby/object:RPG::Skill
-  message2: \N[1]の口内に舌を入れてきた！
+  message2: Taroの口内に舌を入れてきた！
   description: ""
   name: キス＆素股
   occasion: 0
   icon_index: 122
-  message1: は\N[1]の口を自分の唇で塞ぎ
+  message1: はTaroの口を自分の唇で塞ぎ
   scope: 1
   animation_id: 54
   note: ""
@@ -2452,12 +2452,12 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Skill
-  message2: \N[1]の口内に舌を入れてきた！
+  message2: Taroの口内に舌を入れてきた！
   description: ""
   name: 抱きしめる
   occasion: 0
   icon_index: 0
-  message1: は\N[1]の口を自分の唇で塞ぎ
+  message1: はTaroの口を自分の唇で塞ぎ
   scope: 1
   animation_id: 0
   note: ""
@@ -2491,12 +2491,12 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Skill
-  message2: \N[1]の口内に舌を入れてきた！
+  message2: Taroの口内に舌を入れてきた！
   description: ""
   name: パイズリ
   occasion: 0
   icon_index: 122
-  message1: は\N[1]の口を自分の唇で塞ぎ
+  message1: はTaroの口を自分の唇で塞ぎ
   scope: 1
   animation_id: 54
   note: ""
@@ -2525,12 +2525,12 @@
   repeats: 4
   tp_gain: 0
 - !ruby/object:RPG::Skill
-  message2: \N[1]の口内に舌を入れてきた！
+  message2: Taroの口内に舌を入れてきた！
   description: ""
   name: パイズリ
   occasion: 0
   icon_index: 122
-  message1: は\N[1]の口を自分の唇で塞ぎ
+  message1: はTaroの口を自分の唇で塞ぎ
   scope: 1
   animation_id: 54
   note: ""
@@ -2569,12 +2569,12 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Skill
-  message2: \N[1]の口内に舌を入れてきた！
+  message2: Taroの口内に舌を入れてきた！
   description: ""
   name: 太ももコキ
   occasion: 0
   icon_index: 122
-  message1: は\N[1]の口を自分の唇で塞ぎ
+  message1: はTaroの口を自分の唇で塞ぎ
   scope: 1
   animation_id: 54
   note: ""
@@ -2603,12 +2603,12 @@
   repeats: 4
   tp_gain: 0
 - !ruby/object:RPG::Skill
-  message2: \N[1]の口内に舌を入れてきた！
+  message2: Taroの口内に舌を入れてきた！
   description: ""
   name: 太ももコキ
   occasion: 0
   icon_index: 122
-  message1: は\N[1]の口を自分の唇で塞ぎ
+  message1: はTaroの口を自分の唇で塞ぎ
   scope: 1
   animation_id: 54
   note: ""
@@ -2715,7 +2715,7 @@
   name: 腰ふり
   occasion: 0
   icon_index: 122
-  message1: は\N[1]を押さえ付けたまま
+  message1: はTaroを押さえ付けたまま
   scope: 1
   animation_id: 0
   note: <ani_id:0>
@@ -2749,12 +2749,12 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Skill
-  message2: \N[1]の口内に舌を入れてきた！
+  message2: Taroの口内に舌を入れてきた！
   description: ""
   name: 太ももコキ
   occasion: 0
   icon_index: 122
-  message1: は\N[1]の口を自分の唇で塞ぎ
+  message1: はTaroの口を自分の唇で塞ぎ
   scope: 1
   animation_id: 0
   note: ""
@@ -2788,7 +2788,7 @@
   name: 腰ふり
   occasion: 0
   icon_index: 122
-  message1: は\N[1]を押さえ付けたまま
+  message1: はTaroを押さえ付けたまま
   scope: 1
   animation_id: 0
   note: ""
@@ -2817,7 +2817,7 @@
   repeats: 5
   tp_gain: 0
 - !ruby/object:RPG::Skill
-  message2: 下着を\n[1]に見せつけてきた！
+  message2: 下着をTaroに見せつけてきた！
   description: MP
   name: 胸見せ
   occasion: 0
@@ -2851,7 +2851,7 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Skill
-  message2: 下着を\n[1]に見せつけてきた！
+  message2: 下着をTaroに見せつけてきた！
   description: MP
   name: 胸触らせ
   occasion: 0
@@ -2890,7 +2890,7 @@
   name: 耳はむはむ
   occasion: 0
   icon_index: 122
-  message1: は\N[1]の首の後ろに両手をまわし、
+  message1: はTaroの首の後ろに両手をまわし、
   scope: 1
   animation_id: 54
   note: ""
@@ -2919,7 +2919,7 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Skill
-  message2: 下着を\n[1]に見せつけてきた！
+  message2: 下着をTaroに見せつけてきた！
   description: ""
   name: 激しいキス
   occasion: 0
@@ -2963,12 +2963,12 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Skill
-  message2: \N[1]の口内に舌を入れてきた！
+  message2: Taroの口内に舌を入れてきた！
   description: ""
   name: 足コキ
   occasion: 0
   icon_index: 122
-  message1: は\N[1]の口を自分の唇で塞ぎ
+  message1: はTaroの口を自分の唇で塞ぎ
   scope: 1
   animation_id: 56
   note: ""
@@ -2997,12 +2997,12 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Skill
-  message2: \N[1]の口内に舌を入れてきた！
+  message2: Taroの口内に舌を入れてきた！
   description: ""
   name: キス＆素股
   occasion: 0
   icon_index: 122
-  message1: は\N[1]の口を自分の唇で塞ぎ
+  message1: はTaroの口を自分の唇で塞ぎ
   scope: 1
   animation_id: 54
   note: ""
@@ -3031,12 +3031,12 @@
   repeats: 4
   tp_gain: 0
 - !ruby/object:RPG::Skill
-  message2: \N[1]の口内に舌を入れてきた！
+  message2: Taroの口内に舌を入れてきた！
   description: ""
   name: キス＆素股
   occasion: 0
   icon_index: 122
-  message1: は\N[1]の口を自分の唇で塞ぎ
+  message1: はTaroの口を自分の唇で塞ぎ
   scope: 1
   animation_id: 54
   note: ""
@@ -3075,12 +3075,12 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Skill
-  message2: \N[1]の口内に舌を入れてきた！
+  message2: Taroの口内に舌を入れてきた！
   description: ""
   name: 足コキ
   occasion: 0
   icon_index: 122
-  message1: は\N[1]の口を自分の唇で塞ぎ
+  message1: はTaroの口を自分の唇で塞ぎ
   scope: 1
   animation_id: 56
   note: とどめ
@@ -3226,7 +3226,7 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Skill
-  message2: 下着を\n[1]に見せつけてきた！
+  message2: 下着をTaroに見せつけてきた！
   description: MP
   name: 踏み踏み
   occasion: 0
@@ -3260,7 +3260,7 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Skill
-  message2: 下着を\n[1]に見せつけてきた！
+  message2: 下着をTaroに見せつけてきた！
   description: ""
   name: 激しいキス
   occasion: 0
@@ -3299,12 +3299,12 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Skill
-  message2: \N[1]の口内に舌を入れてきた！
+  message2: Taroの口内に舌を入れてきた！
   description: ""
   name: パフパフ
   occasion: 0
   icon_index: 122
-  message1: は\N[1]の口を自分の唇で塞ぎ
+  message1: はTaroの口を自分の唇で塞ぎ
   scope: 1
   animation_id: 54
   note: ""
@@ -3333,12 +3333,12 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Skill
-  message2: \N[1]の口内に舌を入れてきた！
+  message2: Taroの口内に舌を入れてきた！
   description: ""
   name: おっぱい吸わせ
   occasion: 0
   icon_index: 122
-  message1: は\N[1]の口を自分の唇で塞ぎ
+  message1: はTaroの口を自分の唇で塞ぎ
   scope: 1
   animation_id: 54
   note: ""
@@ -3372,7 +3372,7 @@
   name: 抱きつき
   occasion: 0
   icon_index: 0
-  message1: は\N[1]を両手で
+  message1: はTaroを両手で
   scope: 1
   animation_id: 0
   note: ""
@@ -3450,7 +3450,7 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Skill
-  message2: 下着を\n[1]に見せつけてきた！
+  message2: 下着をTaroに見せつけてきた！
   description: ""
   name: 激しいキス
   occasion: 0
@@ -3489,12 +3489,12 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Skill
-  message2: \N[1]の口内に舌を入れてきた！
+  message2: Taroの口内に舌を入れてきた！
   description: ""
   name: キス＆素股
   occasion: 0
   icon_index: 122
-  message1: は\N[1]の口を自分の唇で塞ぎ
+  message1: はTaroの口を自分の唇で塞ぎ
   scope: 1
   animation_id: 54
   note: ""
@@ -3523,7 +3523,7 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Skill
-  message2: 下着を\n[1]に見せつけてきた！
+  message2: 下着をTaroに見せつけてきた！
   description: MP
   name: 脚触らせ
   occasion: 0
@@ -3557,12 +3557,12 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Skill
-  message2: \N[1]の口内に舌を入れてきた！
+  message2: Taroの口内に舌を入れてきた！
   description: ""
   name: 授乳手コキ
   occasion: 0
   icon_index: 122
-  message1: は\N[1]の口を自分の唇で塞ぎ
+  message1: はTaroの口を自分の唇で塞ぎ
   scope: 1
   animation_id: 54
   note: ""
@@ -3591,12 +3591,12 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Skill
-  message2: \N[1]の口内に舌を入れてきた！
+  message2: Taroの口内に舌を入れてきた！
   description: ""
   name: 授乳手コキ
   occasion: 0
   icon_index: 122
-  message1: は\N[1]の口を自分の唇で塞ぎ
+  message1: はTaroの口を自分の唇で塞ぎ
   scope: 1
   animation_id: 54
   note: ""
@@ -3625,12 +3625,12 @@
   repeats: 4
   tp_gain: 0
 - !ruby/object:RPG::Skill
-  message2: \N[1]の口内に舌を入れてきた！
+  message2: Taroの口内に舌を入れてきた！
   description: ""
   name: 尻コキ
   occasion: 0
   icon_index: 122
-  message1: は\N[1]の口を自分の唇で塞ぎ
+  message1: はTaroの口を自分の唇で塞ぎ
   scope: 1
   animation_id: 56
   note: ""
@@ -3659,12 +3659,12 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Skill
-  message2: \N[1]の口内に舌を入れてきた！
+  message2: Taroの口内に舌を入れてきた！
   description: ""
   name: 尻コキ
   occasion: 0
   icon_index: 122
-  message1: は\N[1]の口を自分の唇で塞ぎ
+  message1: はTaroの口を自分の唇で塞ぎ
   scope: 1
   animation_id: 56
   note: ""
@@ -3693,12 +3693,12 @@
   repeats: 4
   tp_gain: 0
 - !ruby/object:RPG::Skill
-  message2: \N[1]の口内に舌を入れてきた！
+  message2: Taroの口内に舌を入れてきた！
   description: ""
   name: フェラ
   occasion: 0
   icon_index: 122
-  message1: は\N[1]の口を自分の唇で塞ぎ
+  message1: はTaroの口を自分の唇で塞ぎ
   scope: 1
   animation_id: 56
   note: ""
@@ -3727,12 +3727,12 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Skill
-  message2: \N[1]の口内に舌を入れてきた！
+  message2: Taroの口内に舌を入れてきた！
   description: ""
   name: フェラ
   occasion: 0
   icon_index: 122
-  message1: は\N[1]の口を自分の唇で塞ぎ
+  message1: はTaroの口を自分の唇で塞ぎ
   scope: 1
   animation_id: 56
   note: ""
@@ -3810,7 +3810,7 @@
   name: キス
   occasion: 0
   icon_index: 122
-  message1: は\N[1]の首の後ろに両手をまわし、
+  message1: はTaroの首の後ろに両手をまわし、
   scope: 1
   animation_id: 54
   note: ""
@@ -3844,7 +3844,7 @@
   name: ペロペロ
   occasion: 0
   icon_index: 122
-  message1: は\N[1]の首の後ろに両手をまわし、
+  message1: はTaroの首の後ろに両手をまわし、
   scope: 1
   animation_id: 54
   note: ""
@@ -3878,7 +3878,7 @@
   name: 耳はむはむ
   occasion: 0
   icon_index: 122
-  message1: は\N[1]の首の後ろに両手をまわし、
+  message1: はTaroの首の後ろに両手をまわし、
   scope: 1
   animation_id: 54
   note: ""
@@ -3907,12 +3907,12 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Skill
-  message2: \N[1]の口内に舌を入れてきた！
+  message2: Taroの口内に舌を入れてきた！
   description: ""
   name: ペロペロ
   occasion: 0
   icon_index: 122
-  message1: は\N[1]の口を自分の唇で塞ぎ
+  message1: はTaroの口を自分の唇で塞ぎ
   scope: 1
   animation_id: 54
   note: ""
@@ -3941,12 +3941,12 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Skill
-  message2: \N[1]の口内に舌を入れてきた！
+  message2: Taroの口内に舌を入れてきた！
   description: ""
   name: ペロペロ尻尾コキ
   occasion: 0
   icon_index: 122
-  message1: は\N[1]の口を自分の唇で塞ぎ
+  message1: はTaroの口を自分の唇で塞ぎ
   scope: 1
   animation_id: 54
   note: ""
@@ -3975,7 +3975,7 @@
   repeats: 4
   tp_gain: 0
 - !ruby/object:RPG::Skill
-  message2: 下着を\n[1]に見せつけてきた！
+  message2: 下着をTaroに見せつけてきた！
   description: ""
   name: キス
   occasion: 0
@@ -4014,12 +4014,12 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Skill
-  message2: \N[1]の口内に舌を入れてきた！
+  message2: Taroの口内に舌を入れてきた！
   description: ""
   name: 踏みつけ
   occasion: 0
   icon_index: 122
-  message1: は\N[1]の口を自分の唇で塞ぎ
+  message1: はTaroの口を自分の唇で塞ぎ
   scope: 1
   animation_id: 54
   note: ""
@@ -4048,12 +4048,12 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Skill
-  message2: \N[1]の口内に舌を入れてきた！
+  message2: Taroの口内に舌を入れてきた！
   description: ""
   name: 踏みつけ
   occasion: 0
   icon_index: 122
-  message1: は\N[1]の口を自分の唇で塞ぎ
+  message1: はTaroの口を自分の唇で塞ぎ
   scope: 1
   animation_id: 54
   note: とどめ
@@ -4121,7 +4121,7 @@
   name: 顔踏みつけ
   occasion: 0
   icon_index: 0
-  message1: は\N[1]を両手で
+  message1: はTaroを両手で
   scope: 1
   animation_id: 0
   note: ""
@@ -4165,12 +4165,12 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Skill
-  message2: \N[1]の口内に舌を入れてきた！
+  message2: Taroの口内に舌を入れてきた！
   description: ""
   name: 顔騎擦り付け
   occasion: 0
   icon_index: 122
-  message1: は\N[1]の口を自分の唇で塞ぎ
+  message1: はTaroの口を自分の唇で塞ぎ
   scope: 1
   animation_id: 56
   note: ""
@@ -4199,12 +4199,12 @@
   repeats: 4
   tp_gain: 0
 - !ruby/object:RPG::Skill
-  message2: \N[1]の口内に舌を入れてきた！
+  message2: Taroの口内に舌を入れてきた！
   description: ""
   name: 顔騎擦り付け
   occasion: 0
   icon_index: 122
-  message1: は\N[1]の口を自分の唇で塞ぎ
+  message1: はTaroの口を自分の唇で塞ぎ
   scope: 1
   animation_id: 56
   note: ""
@@ -4238,12 +4238,12 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Skill
-  message2: \N[1]の口内に舌を入れてきた！
+  message2: Taroの口内に舌を入れてきた！
   description: ""
   name: おっぱい触らせ
   occasion: 0
   icon_index: 122
-  message1: は\N[1]の口を自分の唇で塞ぎ
+  message1: はTaroの口を自分の唇で塞ぎ
   scope: 1
   animation_id: 54
   note: ""
@@ -4272,12 +4272,12 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Skill
-  message2: \N[1]の口内に舌を入れてきた！
+  message2: Taroの口内に舌を入れてきた！
   description: ""
   name: ペロペロ
   occasion: 0
   icon_index: 122
-  message1: は\N[1]の口を自分の唇で塞ぎ
+  message1: はTaroの口を自分の唇で塞ぎ
   scope: 1
   animation_id: 58
   note: ムム
@@ -4306,12 +4306,12 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Skill
-  message2: \N[1]の口内に舌を入れてきた！
+  message2: Taroの口内に舌を入れてきた！
   description: ""
   name: フェラ
   occasion: 0
   icon_index: 122
-  message1: は\N[1]の口を自分の唇で塞ぎ
+  message1: はTaroの口を自分の唇で塞ぎ
   scope: 1
   animation_id: 58
   note: ムム
@@ -4340,12 +4340,12 @@
   repeats: 1
   tp_gain: 0
 - !ruby/object:RPG::Skill
-  message2: \N[1]の口内に舌を入れてきた！
+  message2: Taroの口内に舌を入れてきた！
   description: ""
   name: フェラ
   occasion: 0
   icon_index: 122
-  message1: は\N[1]の口を自分の唇で塞ぎ
+  message1: はTaroの口を自分の唇で塞ぎ
   scope: 1
   animation_id: 58
   note: ムム
@@ -4379,7 +4379,7 @@
   name: 挿入
   occasion: 0
   icon_index: 122
-  message1: は\N[1]のペニスを片手で掴みながら
+  message1: はTaroのペニスを片手で掴みながら
   scope: 1
   animation_id: 54
   note: ""

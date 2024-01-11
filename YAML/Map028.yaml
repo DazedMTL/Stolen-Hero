@@ -575,7 +575,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 1,
               c: 401,
-              p: ['　\n[1]先生？ど、どうして女子寮に！？'],
+              p: ['　Taro先生？ど、どうして女子寮に！？'],
             }
           - !ruby/object:RPG::EventCommand { i: 1, c: 235, p: [20] }
           - !ruby/object:RPG::EventCommand { i: 1, c: 213, p: [-1, 8, true] }
@@ -583,7 +583,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 1,
               c: 401,
-              p: ['\n[1]は噂の調査に来たこと'],
+              p: ['Taroは噂の調査に来たこと'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 1,
@@ -1332,7 +1332,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['\n[1]は悪い事をする生徒の調査と説得にきたことを'],
+              p: ['Taroは悪い事をする生徒の調査と説得にきたことを'],
             }
           - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [彼女に伝えた…] }
           - !ruby/object:RPG::EventCommand { i: 0, c: 213, p: [19, 1, false] }
@@ -3681,7 +3681,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['\n[1]は彼女に精液とお金を搾り取られてしまった…'],
+              p: ['Taroは彼女に精液とお金を搾り取られてしまった…'],
             }
           - !ruby/object:RPG::EventCommand { i: 0, c: 111, p: [7, 30000, 2] }
           - !ruby/object:RPG::EventCommand { i: 1, c: 101, p: ["", 0, 1, 1] }
@@ -3693,7 +3693,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 1,
               c: 401,
-              p: ['\n[6]のテクニックで完全に骨抜きにされた\n[1]は'],
+              p: ['\n[6]のテクニックで完全に骨抜きにされたTaroは'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 1,
@@ -3743,7 +3743,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 1,
               c: 401,
-              p: ['\n[1]は力を振り絞って起き上がり家路についた…'],
+              p: ['Taroは力を振り絞って起き上がり家路についた…'],
             }
           - !ruby/object:RPG::EventCommand
             i: 1
@@ -3765,7 +3765,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 1,
               c: 401,
-              p: ['そして\n[1]は家につくとぐったりとベッドに横たわった…'],
+              p: ['そしてTaroは家につくとぐったりとベッドに横たわった…'],
             }
           - !ruby/object:RPG::EventCommand { i: 1, c: 121, p: [189, 189, 1] }
           - !ruby/object:RPG::EventCommand {
@@ -3971,7 +3971,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['\n[1]は彼女に精液とお金を搾り取られてしまった…'],
+              p: ['Taroは彼女に精液とお金を搾り取られてしまった…'],
             }
           - !ruby/object:RPG::EventCommand { i: 0, c: 111, p: [7, 30000, 2] }
           - !ruby/object:RPG::EventCommand { i: 1, c: 101, p: ["", 0, 1, 1] }
@@ -3983,7 +3983,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 1,
               c: 401,
-              p: ['\n[6]のテクニックで完全に骨抜きにされた\n[1]は'],
+              p: ['\n[6]のテクニックで完全に骨抜きにされたTaroは'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 1,
@@ -4033,7 +4033,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 1,
               c: 401,
-              p: ['\n[1]は力を振り絞って起き上がり家路についた…'],
+              p: ['Taroは力を振り絞って起き上がり家路についた…'],
             }
           - !ruby/object:RPG::EventCommand
             i: 1
@@ -4055,7 +4055,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 1,
               c: 401,
-              p: ['そして\n[1]は家につくとぐったりとベッドに横たわった…'],
+              p: ['そしてTaroは家につくとぐったりとベッドに横たわった…'],
             }
           - !ruby/object:RPG::EventCommand { i: 1, c: 121, p: [189, 189, 1] }
           - !ruby/object:RPG::EventCommand {
@@ -4233,13 +4233,13 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['\n[1]はついに彼女に筆おろしまでされてしまった…'],
+              p: ['Taroはついに彼女に筆おろしまでされてしまった…'],
             }
           - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 1, 1] }
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['何度も\n[6]に膣内射精させられた\n[1]は'],
+              p: ['何度も\n[6]に膣内射精させられたTaroは'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
@@ -4441,13 +4441,13 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['\n[1]はついに彼女に筆おろしまでされてしまった…'],
+              p: ['Taroはついに彼女に筆おろしまでされてしまった…'],
             }
           - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 1, 1] }
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['何度も\n[6]に膣内射精させられた\n[1]は'],
+              p: ['何度も\n[6]に膣内射精させられたTaroは'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
@@ -4832,7 +4832,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['「あ、\N[1]先生…'],
+              p: ['「あ、Taro先生…'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
@@ -4927,7 +4927,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['　\N[1]先生もそうお考えですか？'],
+              p: ['　Taro先生もそうお考えですか？'],
             }
           - !ruby/object:RPG::EventCommand { i: 0, c: 0, p: [] }
   12: !ruby/object:RPG::Event
@@ -5442,7 +5442,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['\n[1]は彼女に精液とお金を搾り取られてしまった…'],
+              p: ['Taroは彼女に精液とお金を搾り取られてしまった…'],
             }
           - !ruby/object:RPG::EventCommand { i: 0, c: 111, p: [7, 30000, 2] }
           - !ruby/object:RPG::EventCommand { i: 1, c: 101, p: ["", 0, 1, 1] }
@@ -5454,7 +5454,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 1,
               c: 401,
-              p: ['\n[6]のテクニックで完全に骨抜きにされた\n[1]は'],
+              p: ['\n[6]のテクニックで完全に骨抜きにされたTaroは'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 1,
@@ -5490,7 +5490,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 1,
               c: 401,
-              p: ['\n[1]は力を振り絞って起き上がり家路についた…'],
+              p: ['Taroは力を振り絞って起き上がり家路についた…'],
             }
           - !ruby/object:RPG::EventCommand
             i: 1
@@ -5512,7 +5512,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 1,
               c: 401,
-              p: ['そして\n[1]は家につくとぐったりとベッドに横たわった…'],
+              p: ['そしてTaroは家につくとぐったりとベッドに横たわった…'],
             }
           - !ruby/object:RPG::EventCommand { i: 1, c: 121, p: [189, 189, 1] }
           - !ruby/object:RPG::EventCommand {
@@ -5708,13 +5708,13 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['\n[1]はついに彼女に筆おろしまでされてしまった…'],
+              p: ['Taroはついに彼女に筆おろしまでされてしまった…'],
             }
           - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 1, 1] }
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['何度も\n[6]に膣内射精させられた\n[1]は'],
+              p: ['何度も\n[6]に膣内射精させられたTaroは'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,

@@ -275,12 +275,12 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['この少女は\N[1]のクラスの女の子で'],
+              p: ['この少女はTaroのクラスの女の子で'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['\N[1]に懐いていて一番真面目に授業を聞いてくれる'],
+              p: ['Taroに懐いていて一番真面目に授業を聞いてくれる'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
@@ -296,7 +296,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['\n[1]のことをデートに誘って困らせてくる'],
+              p: ['Taroのことをデートに誘って困らせてくる'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
@@ -445,7 +445,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 1,
               c: 401,
-              p: ['ルミは\N[1]に抱きついてきた！'],
+              p: ['ルミはTaroに抱きついてきた！'],
             }
           - !ruby/object:RPG::EventCommand { i: 1, c: 213, p: [-1, 7, true] }
           - !ruby/object:RPG::EventCommand { i: 1, c: 101, p: ["", 0, 0, 2] }
@@ -1104,7 +1104,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['\N[1]がアルバイトを始めたのは2年前で'],
+              p: ['Taroがアルバイトを始めたのは2年前で'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
@@ -1522,7 +1522,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['「あら\N[1]先生、お疲れ様です。'],
+              p: ['「あらTaro先生、お疲れ様です。'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
@@ -1540,12 +1540,12 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['「生徒達からよく\N[1]先生の事を聞かれるんです。'],
+              p: ['「生徒達からよくTaro先生の事を聞かれるんです。'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['　でも\N[1]先生がエレメントクラスの担当で'],
+              p: ['　でもTaro先生がエレメントクラスの担当で'],
             }
           - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [　良かった。] }
           - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
@@ -1587,7 +1587,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['「\N[1]先生、今度時間があれば'],
+              p: ['「Taro先生、今度時間があれば'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
@@ -1650,7 +1650,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['「\N[1]先生、生徒達の噂についての調査、'],
+              p: ['「Taro先生、生徒達の噂についての調査、'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
@@ -1705,7 +1705,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['村で生まれた\N[1]だが'],
+              p: ['村で生まれたTaroだが'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
@@ -1726,12 +1726,12 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['\N[1]に勇者の力を村だけの秘密にするように指示し'],
+              p: ['Taroに勇者の力を村だけの秘密にするように指示し'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['\N[1]は普通の青年として月日を過ごした…'],
+              p: ['Taroは普通の青年として月日を過ごした…'],
             }
           - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 1, 1] }
           - !ruby/object:RPG::EventCommand {
@@ -1769,7 +1769,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['\N[1]は勇者の力を隠しながら魔法学校で'],
+              p: ['Taroは勇者の力を隠しながら魔法学校で'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
@@ -1786,7 +1786,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['\N[1]は魔法学校のエレメントクラス、'],
+              p: ['Taroは魔法学校のエレメントクラス、'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
@@ -1821,7 +1821,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['学校の中にも後々\n[1]を襲ってくる女の子が数人います。'],
+              p: ['学校の中にも後々Taroを襲ってくる女の子が数人います。'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
@@ -2113,7 +2113,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['\n[1]のクラスの女の子だ'],
+              p: ['Taroのクラスの女の子だ'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
@@ -2134,7 +2134,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['\n[1]や他の大人にも生意気な態度をとる'],
+              p: ['Taroや他の大人にも生意気な態度をとる'],
             }
           - !ruby/object:RPG::EventCommand { i: 0, c: 123, p: [A, 0] }
           - !ruby/object:RPG::EventCommand { i: 0, c: 0, p: [] }
@@ -2185,7 +2185,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['「あっ、\N[1]センセー！'],
+              p: ['「あっ、Taroセンセー！'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
@@ -2579,12 +2579,12 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['「\N[1]先生、お疲れ様です！'],
+              p: ['「Taro先生、お疲れ様です！'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['　自分も\N[1]先生のような優秀な魔法使いを'],
+              p: ['　自分もTaro先生のような優秀な魔法使いを'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
@@ -2600,7 +2600,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['勇者の力を隠している\N[1]だが'],
+              p: ['勇者の力を隠しているTaroだが'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
@@ -2801,12 +2801,12 @@ events:
               c: 401,
               p: [ジュニアクラスの女の子で],
             }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: ['\N[1]の妹だ'] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: ['Taroの妹だ'] }
           - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 1, 1] }
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['勇者である\N[1]の寝室は女性厳禁であり、'],
+              p: ['勇者であるTaroの寝室は女性厳禁であり、'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
@@ -2817,7 +2817,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['\N[1]が唯一の家族で'],
+              p: ['Taroが唯一の家族で'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
@@ -3189,18 +3189,18 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['\N[1]の村の住人'],
+              p: ['Taroの村の住人'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['\N[1]を兄の様に慕っている'],
+              p: ['Taroを兄の様に慕っている'],
             }
           - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 1, 1] }
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['\N[1]の素性を秘密にする為に'],
+              p: ['Taroの素性を秘密にする為に'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
@@ -3227,7 +3227,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['「あ、\N[1]お兄ちゃ…じゃなくて、'],
+              p: ['「あ、Taroお兄ちゃ…じゃなくて、'],
             }
           - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [　センセー！] }
           - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
@@ -3327,7 +3327,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['　ユイ、\N[1]お兄ちゃんのクラスがいいな♪'],
+              p: ['　ユイ、Taroお兄ちゃんのクラスがいいな♪'],
             }
           - !ruby/object:RPG::EventCommand { i: 0, c: 235, p: [20] }
           - !ruby/object:RPG::EventCommand { i: 0, c: 0, p: [] }

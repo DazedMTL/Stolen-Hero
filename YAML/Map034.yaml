@@ -255,7 +255,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['\n[1]は牢屋に囚われている魔王の監視を頼まれていた…'],
+              p: ['Taroは牢屋に囚われている魔王の監視を頼まれていた…'],
             }
           - !ruby/object:RPG::EventCommand { i: 0, c: 222, p: [] }
           - !ruby/object:RPG::EventCommand
@@ -940,7 +940,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['\n[1]は魔王を退けた功績はもちろんのこと'],
+              p: ['Taroは魔王を退けた功績はもちろんのこと'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
@@ -1226,7 +1226,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['\n[1]を倒し力を奪った後もマオは牢屋に残り'],
+              p: ['Taroを倒し力を奪った後もマオは牢屋に残り'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
@@ -1242,7 +1242,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['奴隷となってしまった\n[1]は'],
+              p: ['奴隷となってしまったTaroは'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,

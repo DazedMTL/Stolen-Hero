@@ -775,13 +775,13 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 1,
               c: 401,
-              p: ['\n[1]は肉食女子の娘にペロっと食べられてしまった…'],
+              p: ['Taroは肉食女子の娘にペロっと食べられてしまった…'],
             }
           - !ruby/object:RPG::EventCommand { i: 1, c: 101, p: ["", 0, 0, 2] }
           - !ruby/object:RPG::EventCommand {
               i: 1,
               c: 401,
-              p: ['\n[1]が目覚めた頃には日が暮れていて'],
+              p: ['Taroが目覚めた頃には日が暮れていて'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 1,
@@ -851,13 +851,13 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 1,
               c: 401,
-              p: ['\n[1]は結局すぐに襲われて食べられてしまった…'],
+              p: ['Taroは結局すぐに襲われて食べられてしまった…'],
             }
           - !ruby/object:RPG::EventCommand { i: 1, c: 101, p: ["", 0, 0, 2] }
           - !ruby/object:RPG::EventCommand {
               i: 1,
               c: 401,
-              p: ['\n[1]が目覚めた頃には日が暮れていて'],
+              p: ['Taroが目覚めた頃には日が暮れていて'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 1,
@@ -927,7 +927,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 1,
               c: 401,
-              p: ['\n[1]は\n[6]に湖に沈められて'],
+              p: ['Taroは\n[6]に湖に沈められて'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 1,
@@ -949,7 +949,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 1,
               c: 401,
-              p: ['体力も精も尽きた\n[1]は'],
+              p: ['体力も精も尽きたTaroは'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 1,

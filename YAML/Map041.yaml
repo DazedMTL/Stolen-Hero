@@ -86,13 +86,13 @@ events:
               p: [20, Fia悲しい, 1, 0, 540, 380, 100, 100, 255, 0],
             }
           - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: ['\n[2]'] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: ['Jane'] }
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
               p: [「うぅ…い、一体何が…],
             }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: ['　\n[1]…？'] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: ['　Taro…？'] }
           - !ruby/object:RPG::EventCommand { i: 0, c: 235, p: [20] }
           - !ruby/object:RPG::EventCommand { i: 0, c: 213, p: [4, 1, false] }
           - !ruby/object:RPG::EventCommand
@@ -147,7 +147,7 @@ events:
               p: [20, Fia真剣, 1, 0, 540, 380, 100, 100, 255, 0],
             }
           - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: ['\n[2]'] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: ['Jane'] }
           - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [「何これ…] }
           - !ruby/object:RPG::EventCommand {
               i: 0,
@@ -157,7 +157,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['　\n[1]が守ってくれたの…？'],
+              p: ['　Taroが守ってくれたの…？'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
@@ -265,7 +265,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['　\n[1]さんを殺さないでっ！'],
+              p: ['　Taroさんを殺さないでっ！'],
             }
           - !ruby/object:RPG::EventCommand { i: 0, c: 235, p: [20] }
           - !ruby/object:RPG::EventCommand { i: 0, c: 212, p: [3, 82, false] }
@@ -362,7 +362,7 @@ events:
               p: [20, Fia怒る２, 1, 0, 540, 380, 100, 100, 255, 0],
             }
           - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: ['\n[2]'] }
+          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: ['Jane'] }
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
@@ -371,7 +371,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['　私は\n[1]を守るんだからっ！'],
+              p: ['　私はTaroを守るんだからっ！'],
             }
           - !ruby/object:RPG::EventCommand { i: 0, c: 117, p: [474] }
           - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
@@ -1089,7 +1089,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['「\n[2]さんと…'],
+              p: ['「Janeさんと…'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
@@ -1111,7 +1111,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['「\n[1]さん達は私達を傷つける気はないし'],
+              p: ['「Taroさん達は私達を傷つける気はないし'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
@@ -1189,7 +1189,7 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['\n[1]は魔王を含む夢魔達と和解することに成功し'],
+              p: ['Taroは魔王を含む夢魔達と和解することに成功し'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
@@ -1429,12 +1429,12 @@ events:
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['\n[1]の魂は娘に吸い取られその意識は永遠に失われた…'],
+              p: ['Taroの魂は娘に吸い取られその意識は永遠に失われた…'],
             }
           - !ruby/object:RPG::EventCommand {
               i: 0,
               c: 401,
-              p: ['その後世界がどうなったのか\n[1]が知ることはない…'],
+              p: ['その後世界がどうなったのかTaroが知ることはない…'],
             }
           - !ruby/object:RPG::EventCommand { i: 0, c: 353, p: [] }
           - !ruby/object:RPG::EventCommand { i: 0, c: 354, p: [] }
