@@ -7,83 +7,83 @@
 
 module Vocab
 
-  # ショップ画面
-  ShopBuy         = "購入する"
-  ShopSell        = "売却する"
-  ShopCancel      = "やめる"
-  Possession      = "持っている数"
+  # Shop Screen
+  ShopBuy         = "Buy"
+  ShopSell        = "Sell"
+  ShopCancel      = "Cancel"
+  Possession      = "Number Owned"
 
-  # ステータス画面
-  ExpTotal        = "現在の経験値"
-  ExpNext         = "次の%sまで"
+  # Status Screen
+  ExpTotal        = "Current Experience"
+  ExpNext         = "To next %s"
 
-  # セーブ／ロード画面
-  SaveMessage     = "どのファイルにセーブしますか？"
-  LoadMessage     = "どのファイルをロードしますか？"
-  File            = "ファイル"
+  # Save/Load Screen
+  SaveMessage     = "Which file would you like to save to?"
+  LoadMessage     = "Which file would you like to load?"
+  File            = "File"
 
-  # 複数メンバーの場合の表示
-  PartyName       = "%sたち"
+  # Display for multiple members
+  PartyName       = "%s and others"
 
-  # 戦闘基本メッセージ
-  Emerge          = "%sが出現！"
-  Preemptive      = "%sは先手を取った！"
-  Surprise        = "%sは不意をつかれた！"
-  EscapeStart     = "%sは逃げ出した！"
-  EscapeFailure   = "しかし逃げることはできなかった！"
+  # Battle Basic Messages
+  Emerge          = "%s has appeared!"
+  Preemptive      = "%s has the advantage!"
+  Surprise        = "%s is caught off guard!"
+  EscapeStart     = "%s has started to escape!"
+  EscapeFailure   = "However, escape was not possible!"
 
-  # 戦闘終了メッセージ
-  Victory         = "%sの勝利！"
-  Defeat          = "%sは戦いに敗れた。"
-  ObtainExp       = "%s の経験値を獲得！"
-  ObtainGold      = "お金を %s\\G 手に入れた！"
-  ObtainItem      = "%sを手に入れた！"
-  LevelUp         = "%sは%s %s に上がった！"
-  ObtainSkill     = "%sを覚えた！"
+  # Battle End Messages
+  Victory         = "Victory for %s!"
+  Defeat          = "%s has been defeated."
+  ObtainExp       = "Gained %s experience points!"
+  ObtainGold      = "Obtained %s\\G in money!"
+  ObtainItem      = "Obtained %s!"
+  LevelUp         = "%s has reached level %s %s!"
+  ObtainSkill     = "Learned %s!"
 
-  # アイテム使用
-  UseItem         = "%sは%sを使った！"
+  # Item Use
+  UseItem         = "%s used %s!"
 
-  # クリティカルヒット
-  CriticalToEnemy = "会心の一撃！！"
-  CriticalToActor = "クリティカルヒット！！"
+  # Critical Hit
+  CriticalToEnemy = "A critical hit!!"
+  CriticalToActor = "A critical hit!!"
 
-  # アクター対象の行動結果
-  ActorDamage     = "%sは %s の快感を受けた！"
-  ActorRecovery   = "%sの%sが %s 回復した！"
-  ActorGain       = "%sの%sが %s 増えた！"
-  ActorLoss       = "%sの%sが %s 減った！"
-  ActorDrain      = "%sは%sを %s 奪われた！"
-  ActorNoDamage   = "%sには反応がない"
-  ActorNoHit      = "ミス！　%sはダメージを受けていない！"
+  # Action Results for Actor Target
+  ActorDamage     = "%s has taken %s damage!"
+  ActorRecovery   = "%s's %s has recovered by %s!"
+  ActorGain       = "%s's %s increased by %s!"
+  ActorLoss       = "%s's %s decreased by %s!"
+  ActorDrain      = "%s has been drained of %s by %s!"
+  ActorNoDamage   = "%s had no effect"
+  ActorNoHit      = "Miss! %s took no damage!"
 
-  # 敵キャラ対象の行動結果
-  EnemyDamage     = "%sに %s のダメージを与えた！"
-  EnemyRecovery   = "%sの%sが %s 回復した！"
-  EnemyGain       = "%sの%sが %s 上がった！"
-  EnemyLoss       = "%sの%sが %s 減った！"
-  EnemyDrain      = "%sの%sを %s 奪った！"
-  EnemyNoDamage   = "%sは不思議そうにしてる"
-  EnemyNoHit      = "ミス！　%sにダメージを与えられない！"
+  # Action Results for Enemy Target
+  EnemyDamage     = "Dealt %s damage to %s!"
+  EnemyRecovery   = "%s's %s has recovered by %s!"
+  EnemyGain       = "%s's %s increased by %s!"
+  EnemyLoss       = "%s's %s decreased by %s!"
+  EnemyDrain      = "Drained %s of %s by %s!"
+  EnemyNoDamage   = "%s looks puzzled"
+  EnemyNoHit      = "Miss! Didn't damage %s!"
 
-  # 回避／反射
-  Evasion         = "%sは攻撃をかわした！"
-  MagicEvasion    = "%sは魔法を打ち消した！"
-  MagicReflection = "%sは魔法を跳ね返した！"
-  CounterAttack   = "%sの反撃！"
-  Substitute      = "%sが%sをかばった！"
+  # Evasion/Reflection
+  Evasion         = "%s dodged the attack!"
+  MagicEvasion    = "%s nullified the magic!"
+  MagicReflection = "%s reflected the magic!"
+  CounterAttack   = "%s's counterattack!"
+  Substitute      = "%s protected %s!"
 
-  # 能力強化／弱体
-  BuffAdd         = "%sの%sが上がった！"
-  DebuffAdd       = "%sの%sが下がった！"
-  BuffRemove      = "%sの%sが元に戻った！"
+  # Ability Enhancement/Weakening
+  BuffAdd         = "%s's %s has increased!"
+  DebuffAdd       = "%s's %s has decreased!"
+  BuffRemove      = "%s's %s has returned to normal!"
 
-  # スキル、アイテムの効果がなかった
-  ActionFailure   = "%sには効かなかった！"
+  # Skill, Item Effect Failure
+  ActionFailure   = "It had no effect on %s!"
 
-  # エラーメッセージ
-  PlayerPosError  = "プレイヤーの初期位置が設定されていません。"
-  EventOverflow   = "コモンイベントの呼び出しが上限を超えました。"
+  # Error Messages
+  PlayerPosError  = "The player's starting position has not been set."
+  EventOverflow   = "The call to the common event has exceeded the limit."
 
   # 基本ステータス
   def self.basic(basic_id)
