@@ -12,6 +12,7 @@
 !*.ks
 !*.tjs
 !*.yaml
+!*.rvdata2
 !version.dll
 !.gitignore
 !patch.bat
