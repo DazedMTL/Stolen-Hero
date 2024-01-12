@@ -58,8 +58,8 @@
           - &1 !ruby/object:RPG::MoveCommand {'code': !!int '29', 'parameters': [!!int '5']}
           - !ruby/object:RPG::MoveCommand {'code': !!int '0', 'parameters': []}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '505', 'p': [*1]}
-      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '7', 'せんせー']}
-      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '8', 'せんせぇ']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '7', 'Sensei']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '8', 'Sensei']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '122', 'p': [!!int '100', !!int '100', !!int '0', !!int '0', !!int '8']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '122', 'p': [!!int '16', !!int '16', !!int '0', !!int '0', !!int '99']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '121', 'p': [!!int '1', !!int '999', !!int '1']}

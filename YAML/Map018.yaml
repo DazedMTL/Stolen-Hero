@@ -1568,9 +1568,9 @@
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '126', 'p': [!!int '21', !!int '1', !!int '0', !!int '99']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '0', 'p': []}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '412', 'p': []}
-      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '111', 'p': [!!int '4', !!int '7', !!int '1', '先生']}
-      - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '320', 'p': [!!int '7', 'せんせー']}
-      - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '320', 'p': [!!int '8', 'せんせぇ']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '111', 'p': [!!int '4', !!int '7', !!int '1', 'Sensei']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '320', 'p': [!!int '7', 'Sensei']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '320', 'p': [!!int '8', 'Sensei']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '0', 'p': []}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '412', 'p': []}
       - !ruby/object:RPG::EventCommand
