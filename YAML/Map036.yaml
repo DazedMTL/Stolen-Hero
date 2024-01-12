@@ -531,8 +531,8 @@
             though you''re a teacher, don''t you? You pervert♡"']}
       - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '0', 'p': []}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '411', 'p': []}
-      - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '355', 'p': ['$game_actors[7].name ="せんせー"']}
-      - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '355', 'p': ['$game_actors[8].name = "せんせぇ"']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '355', 'p': ['$game_actors[7].name ="Sensei"']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '355', 'p': ['$game_actors[8].name = "Sensei"']}
       - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '231', 'p': [!!int '20', 'Rumi 笑顔', !!int '1', !!int '0', !!int '560', !!int '340', !!int '100', !!int '100', !!int '255', !!int '0']}
       - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
       - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '401', 'p': ['Rumi: "Come to think of it, you were my teacher,
@@ -556,8 +556,8 @@
             \n[7]-♡"']}
       - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '0', 'p': []}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '411', 'p': []}
-      - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '355', 'p': ['$game_actors[7].name ="お兄ちゃん"']}
-      - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '355', 'p': ['$game_actors[8].name = "おにぃちゃん"']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '355', 'p': ['$game_actors[7].name ="Oniichan"']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '355', 'p': ['$game_actors[8].name = "Oniichan"']}
       - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '231', 'p': [!!int '20', 'Rumi 笑顔', !!int '1', !!int '0', !!int '560', !!int '340', !!int '100', !!int '100', !!int '255', !!int '0']}
       - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
       - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '401', 'p': ['Rumi: "Then from now on, I''ll call you \n[7]♡. I''m
