@@ -4,7 +4,7 @@
 'events':
   !!int '4': !ruby/object:RPG::Event
     'id': !!int '4'
-    'name': 'ユイ'
+    'name': 'Yui'
     'x': !!int '17'
     'y': !!int '5'
     'pages':

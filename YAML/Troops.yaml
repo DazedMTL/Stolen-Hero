@@ -31,7 +31,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '9']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '355', 'p': ['$game_actors[1].battler_name = "Hero D"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '121', 'p': [!!int '110', !!int '110', !!int '1']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'ユイ']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'Yui']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '10']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '30']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '121', 'p': [!!int '108', !!int '108', !!int '0']}
@@ -100,7 +100,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '339', 'p': [!!int '0', !!int '0', !!int '29', !!int '-1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '6']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['N[6]''s intense onslaught forces \N[1] to ejaculate
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\N[6]''s intense onslaught forces \N[1] to ejaculate
 
           repeatedly, draining him of his seed until he can
 
@@ -133,7 +133,7 @@
     'hidden': !!bool 'false'
     'x': !!int '272'
     'enemy_id': !!int '1'
-  'name': 'ユイ'
+  'name': 'Yui'
   'pages':
   - !ruby/object:RPG::Troop::Page
     'list':
@@ -158,7 +158,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '122', 'p': [!!int '20', !!int '20', !!int '0', !!int '1', !!int '31']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '9']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '121', 'p': [!!int '110', !!int '110', !!int '1']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'ユイ']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'Yui']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '10']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '30']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
@@ -573,7 +573,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '122', 'p': [!!int '20', !!int '20', !!int '0', !!int '1', !!int '31']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '9']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '121', 'p': [!!int '110', !!int '110', !!int '1']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'ユイ']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'Yui']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '10']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '30']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
@@ -712,7 +712,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '121', 'p': [!!int '84', !!int '84', !!int '0']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '122', 'p': [!!int '20', !!int '20', !!int '0', !!int '1', !!int '31']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '9']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'ユイ']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'Yui']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '10']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '355', 'p': ['$game_troop.members[0].screen_x = 329']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '355', 'p': ['$game_troop.members[0].screen_y = 461']}
@@ -955,7 +955,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '483']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '122', 'p': [!!int '20', !!int '20', !!int '0', !!int '1', !!int '31']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '9']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'ユイ']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'Yui']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '10']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '355', 'p': ['$game_troop.members[0].screen_x = 329']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '355', 'p': ['$game_troop.members[0].screen_y = 461']}

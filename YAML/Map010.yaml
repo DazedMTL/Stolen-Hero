@@ -1084,7 +1084,7 @@
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '0', 'p': []}
   !!int '10': !ruby/object:RPG::Event
     'id': !!int '10'
-    'name': 'ユイ'
+    'name': 'Yui'
     'x': !!int '17'
     'y': !!int '5'
     'pages':

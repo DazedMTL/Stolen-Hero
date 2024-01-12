@@ -1048,7 +1048,7 @@
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['Yui: "Whose level should we raise?♪"']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '20']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '102', 'p': [['Yui', 'Rumi', 'Aya', 'Alice'], !!int '0']}
-      - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '402', 'p': [!!int '0', 'ユイ']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '402', 'p': [!!int '0', 'Yui']}
       - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '111', 'p': [!!int '0', !!int '15', !!int '0']}
       - !ruby/object:RPG::EventCommand {'i': !!int '3', 'c': !!int '231', 'p': [!!int '20', 'Yui Sad Std', !!int '1', !!int '0', !!int '500', !!int '500', !!int '100', !!int '100', !!int '255', !!int '0']}
       - !ruby/object:RPG::EventCommand {'i': !!int '3', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
