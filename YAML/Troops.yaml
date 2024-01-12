@@ -66,13 +66,13 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '6']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '63']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['N[6]: "A weak dick that cums and surrenders right
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "A weak dick that cums and surrenders right
 
           away deserves a punishment♡ Here I go-♪"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '0', !!int '1', !!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '339', 'p': [!!int '0', !!int '0', !!int '58', !!int '-1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['N[6] is riding \N[1] in the cowgirl position, her
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6] is riding \N[1] in the cowgirl position, her
 
           long, silky hair swinging wildly!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '122', 'p': [!!int '90', !!int '90', !!int '1', !!int '0', !!int '10']}
@@ -86,7 +86,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '0', !!int '1', !!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '339', 'p': [!!int '0', !!int '0', !!int '58', !!int '-1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['N[6] smiles as she feels \N[1]''s ejaculation, and
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6] smiles as she feels \N[1]''s ejaculation, and
 
           without minding his penis still spurting, she
 
@@ -107,7 +107,7 @@
           no longer move...']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '61']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['N[6]: "Ahaha♡ \N[1] Onii-chan, you''re so weak♡
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "Ahaha♡ \N[1] Onii-chan, you''re so weak♡
 
           Twitching under \N[6], it''s so lewd♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '0', 'p': []}
@@ -287,7 +287,7 @@
     'list':
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '122', 'p': [!!int '20', !!int '20', !!int '0', !!int '1', !!int '54']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '9']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'ハニィ']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'Honey']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '10']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '30']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
@@ -459,7 +459,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '111', 'p': [!!int '0', !!int '124', !!int '0']}
     - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '117', 'p': [!!int '110']}
     - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '401', 'p': ['n[6] "Could it be that I''m the type of girl Hero-
+    - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '401', 'p': ['\n[6] "Could it be that I''m the type of girl Hero-
 
           sama likes...? Instead of just being forgiven, I
 
@@ -468,12 +468,12 @@
           me♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '117', 'p': [!!int '111']}
     - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '401', 'p': ['n[6] "Hero-sama♡ If you forgive me, I''ll do
+    - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '401', 'p': ['\n[6] "Hero-sama♡ If you forgive me, I''ll do
 
           anything♡ You can do whatever you like with me♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '117', 'p': [!!int '108']}
     - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '401', 'p': ['n[6] has gained confidence in seducing \N[1]! It
+    - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '401', 'p': ['\n[6] has gained confidence in seducing \N[1]! It
 
           seems she''s no longer afraid of him...']}
     - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '313', 'p': [!!int '0', !!int '0', !!int '0', !!int '12']}
@@ -846,13 +846,13 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '121', 'p': [!!int '137', !!int '137', !!int '0']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '122', 'p': [!!int '20', !!int '20', !!int '0', !!int '1', !!int '54']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '9']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'ハニィ']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'Honey']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '10']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6] is attacking!']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6] is attacking!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '111']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['N[6]: "Let''s get undressed♡ \N[1]-san♡"']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "Let''s get undressed♡ \N[1]-san♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '108']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '339', 'p': [!!int '0', !!int '0', !!int '17', !!int '-1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '355', 'p': ['$game_actors[1].battler_name = "Hero DN"']}
@@ -987,7 +987,7 @@
 
           you up inside Yui''s pussy right away...♡']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] grabbed \N[1]''s dick with one hand and
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6] grabbed \N[1]''s dick with one hand and
 
           directed it towards her genitals, then slowly
 
@@ -1019,7 +1019,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '121', 'p': [!!int '77', !!int '77', !!int '0']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '186']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] pinned \N[1] down and started moving her hips
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6] pinned \N[1] down and started moving her hips
 
           up and down vigorously!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '6']}
@@ -1029,7 +1029,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '122', 'p': [!!int '43', !!int '43', !!int '1', !!int '0', !!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '187']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] felt \N[1]''s ejaculation and immediately
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6] felt \N[1]''s ejaculation and immediately
 
           kissed him!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
@@ -1038,21 +1038,21 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '42']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '190']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "Mmm...♡ \N[1] Onii-chan...♡']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "Mmm...♡ \N[1] Onii-chan...♡']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '193']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "Ehehe...♡ You came right away when I said
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "Ehehe...♡ You came right away when I said
 
           it''s okay...♡ Yui was surprised♡']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '43']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '188']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "\N[1] Onii-chan... you were surprised by how
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "\N[1] Onii-chan... you were surprised by how
 
           intense it suddenly got, weren''t you? Sorry?']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '192']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "But we''ll have sex tomorrow and the day
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "But we''ll have sex tomorrow and the day
 
           after too... Let''s study a lot together and grow
 
@@ -1064,7 +1064,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '48']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "But just for today, let Yui do as she
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "But just for today, let Yui do as she
 
           pleases♡ I want to finish before \N[2] Onee-san
 
@@ -1080,7 +1080,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '121', 'p': [!!int '77', !!int '77', !!int '0']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '186']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] held down the defenseless \N[1] with both
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6] held down the defenseless \N[1] with both
 
           hands and started grinding her hips fiercely!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '39']}
@@ -1092,7 +1092,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '122', 'p': [!!int '43', !!int '43', !!int '1', !!int '0', !!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '192']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] silenced \N[1], who was writhing from
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6] silenced \N[1], who was writhing from
 
           continuous ejaculation, with a kiss while
 
@@ -1102,16 +1102,16 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '121', 'p': [!!int '77', !!int '77', !!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '193']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "Mmm... hehe...♡ \N[1] Onii-chan... you came
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "Mmm... hehe...♡ \N[1] Onii-chan... you came
 
           so much...♡']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '42']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '192']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "Hoo...♡ Is that the end?']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "Hoo...♡ Is that the end?']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "If a girl gets serious, boys are so easy♪
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "If a girl gets serious, boys are so easy♪
 
           Ehehe...♡']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '221', 'p': []}
@@ -1159,27 +1159,27 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '177']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "I''ll warm up \N[1]''s dick with Yui''s freshly
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "I''ll warm up \N[1]''s dick with Yui''s freshly
 
           taken off panties♡']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '180']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] placed the freshly taken off panties on top
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6] placed the freshly taken off panties on top
 
           of \N[1]''s dick!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '183']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "Ehehe...♡ Now that I''ve caught \N[1] Onii-
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "Ehehe...♡ Now that I''ve caught \N[1] Onii-
 
           chan, I''ve also caught this with my panties♡']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '184']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "I''ll teach your body that \N[1] Onii-chan''s
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "I''ll teach your body that \N[1] Onii-chan''s
 
           home is inside Yui''s panties♡']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "So much that you won''t even think about
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "So much that you won''t even think about
 
           leaving Yui anymore... right♡']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '10']}
@@ -1188,7 +1188,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '185']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '177']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] gripped \N[1]''s dick with the panties and then
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6] gripped \N[1]''s dick with the panties and then
 
           started jerking it up and down fiercely!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '108', 'p': ['少し回復']}
@@ -1200,12 +1200,12 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '122', 'p': [!!int '43', !!int '43', !!int '1', !!int '0', !!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '184']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] smiled happily upon seeing \N[1]''s ejaculation
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6] smiled happily upon seeing \N[1]''s ejaculation
 
           and continued to jerk off the remaining semen!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '183']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "Hehe♡ You came so much just after putting
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "Hehe♡ You came so much just after putting
 
           it on-♡']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '108', 'p': ['少し回復']}
@@ -1213,12 +1213,12 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '179']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "But we don''t know when \N[2] Onee-san will
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "But we don''t know when \N[2] Onee-san will
 
           come back... so I''ll squeeze out more-♡']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "Come on, come on♪ Let it all out-♡']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "Come on, come on♪ Let it all out-♡']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '30']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '6']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
@@ -1226,7 +1226,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '48']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] talked cheerfully while mercilessly jerking
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6] talked cheerfully while mercilessly jerking
 
           off \N[1]''s dick, which had just ejaculated!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '30']}
@@ -1237,19 +1237,19 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '122', 'p': [!!int '43', !!int '43', !!int '1', !!int '0', !!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '184']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] kept jerking off \N[1], who was writhing from
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6] kept jerking off \N[1], who was writhing from
 
           continuous ejaculation, while looking at him with
 
           a grin!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '180']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "Hehe♡ You came so much-♡ Is that
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "Hehe♡ You came so much-♡ Is that
 
           everything?♡']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "It''s so messy now I can''t wear it anymore♪
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "It''s so messy now I can''t wear it anymore♪
 
           Maybe I''ll give it to \N[2] Onee-san as a boast♡
 
@@ -1491,24 +1491,24 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '9']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '10']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '30']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'アヤ']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'Aya']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6] is attacking!']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6] is attacking!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '296']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "\N[1]-sensei... um... what should I do...']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "\N[1]-sensei... um... what should I do...']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '111', 'p': [!!int '8', !!int '15']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '292']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "Huh... Sensei, is that...']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "Huh... Sensei, is that...']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '294']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "A ticket to buy a student sold by a senior!
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "A ticket to buy a student sold by a senior!
 
           To buy such a thing, that''s the worst!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '296']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "But this has made up my mind...! Just as
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "But this has made up my mind...! Just as
 
           you wished, I, in my uniform, will make you
 
@@ -1641,17 +1641,17 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '9']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '10']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '30']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'アヤ']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'Aya']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6] is attacking!']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6] is attacking!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '293']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "Teacher, how should I make you cum...♡
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "Teacher, how should I make you cum...♡
 
           Hehe♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '296']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "I wouldn''t mind having real sex with you,
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "I wouldn''t mind having real sex with you,
 
           Teacher...♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '235', 'p': [!!int '1']}
@@ -1770,17 +1770,17 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '122', 'p': [!!int '20', !!int '20', !!int '0', !!int '1', !!int '101']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '9']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '10']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'アヤ']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'Aya']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6] is attacking!']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6] is attacking!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '293']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "Teacher, how should I make you cum...♡
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "Teacher, how should I make you cum...♡
 
           Hehe♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '295']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "First, I''ll take off your clothes for
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "First, I''ll take off your clothes for
 
           you-♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '235', 'p': [!!int '1']}
@@ -1789,14 +1789,14 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '230', 'p': [!!int '45']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '296']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "Ehehe♡ Are you already this excited? If you
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "Ehehe♡ Are you already this excited? If you
 
           expect too much, I''ll get nervous♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '111', 'p': [!!int '0', !!int '108', !!int '0']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '111', 'p': [!!int '0', !!int '51', !!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '117', 'p': [!!int '293']}
     - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '401', 'p': ['n[6]: "I''m getting in the mood too♡ Maybe I''ll
+    - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '401', 'p': ['\n[6]: "I''m getting in the mood too♡ Maybe I''ll
 
           take mine off♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '235', 'p': [!!int '1']}
@@ -1914,16 +1914,16 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '9']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '10']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '30']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'アヤ']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'Aya']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6] is attacking!']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6] is attacking!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '231', 'p': [!!int '1', 'Aya1 Smile', !!int '1', !!int '0', !!int '560', !!int '330', !!int '100', !!int '100', !!int '255', !!int '0']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "\N[1]-sensei... um... what should I do...?"']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "\N[1]-sensei... um... what should I do...?"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '6']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '224']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "Eh...?"']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "Eh...?"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '176']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '0', 'p': []}
@@ -2030,12 +2030,12 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '122', 'p': [!!int '20', !!int '20', !!int '0', !!int '1', !!int '101']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '9']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '10']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'アヤ']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'Aya']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6] has attacked!']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6] has attacked!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '293']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "The things men want to do with their lovers
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "The things men want to do with their lovers
 
           are naughty things, right? With this, we''ll
 
@@ -2061,7 +2061,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '412', 'p': []}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] grabbed \N[1]''s dick with one hand and aimed
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6] grabbed \N[1]''s dick with one hand and aimed
 
           it at her genitals, then slowly lowered her hips!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
@@ -2073,22 +2073,22 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '42']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '354']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "Ehehe...♡ Can you see, teacher♡ I''ve taken
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "Ehehe...♡ Can you see, teacher♡ I''ve taken
 
           your first time♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '357']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "I''m glad it seems to feel good♡ It''s my
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "I''m glad it seems to feel good♡ It''s my
 
           first time being on top of a man...♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '354']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "Well then... I''m going to move♡ Don''t be
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "Well then... I''m going to move♡ Don''t be
 
           mad if you cum, you can do it anytime♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] pinned \N[1] down and started moving her hips
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6] pinned \N[1] down and started moving her hips
 
           up and down vigorously!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '341']}
@@ -2102,25 +2102,25 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '122', 'p': [!!int '43', !!int '43', !!int '1', !!int '0', !!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '356']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "Ah...♡ It''s still twitching inside my
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "Ah...♡ It''s still twitching inside my
 
           pussy...♡ You came so quickly...♡ That''s cute♡
 
           Fufu♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '357']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "And you came inside me so much... This
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "And you came inside me so much... This
 
           means... you''re okay with marrying me, right?♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '354']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "Of course, I''m okay with it too♡ But later,
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "Of course, I''m okay with it too♡ But later,
 
           you have to propose properly, okay?♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '43']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '357']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "Fufu♡ I''m so happy, maybe I''ll try even
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "Fufu♡ I''m so happy, maybe I''ll try even
 
           harder...♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
@@ -2130,7 +2130,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '48']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] pinned down the defenseless \N[1] and started
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6] pinned down the defenseless \N[1] and started
 
           grinding her hips fiercely!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '341']}
@@ -2143,7 +2143,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '266']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] smiled at \N[1] writhing from consecutive
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6] smiled at \N[1] writhing from consecutive
 
           ejaculations and continued to shake her hips
 
@@ -2158,12 +2158,12 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '42']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '356']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "Ehehe...♡ It makes me happy to see you
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "Ehehe...♡ It makes me happy to see you
 
           cumming so much♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '353']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "Ah... but your dick has gotten smaller
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "Ah... but your dick has gotten smaller
 
           inside me... Maybe you''ve already passed out...?"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
@@ -2208,29 +2208,29 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '0', 'p': []}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '412', 'p': []}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6] straddled \N[1] and trapped his dick with her
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6] straddled \N[1] and trapped his dick with her
 
           butt!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '346']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "I''ll use my special technique to defeat
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "I''ll use my special technique to defeat
 
           you, teacher, and make you all melty♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '349']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "I really want to start with a kiss and take
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "I really want to start with a kiss and take
 
           it slow, but it''s embarrassing to do it
 
           outside..."']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '348']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "So I''ll finish up quickly♡ And I''ll do lots
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "So I''ll finish up quickly♡ And I''ll do lots
 
           more with you when we get back...♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] trapped \N[1]''s dick with her butt and then
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6] trapped \N[1]''s dick with her butt and then
 
           started to jerk it up and down fiercely!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '15']}
@@ -2239,7 +2239,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '350']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '344']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] smiled happily seeing \N[1]''s ejaculation and
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6] smiled happily seeing \N[1]''s ejaculation and
 
           continued to jerk off the remaining semen!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '108', 'p': ['少し回復']}
@@ -2252,22 +2252,22 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '122', 'p': [!!int '43', !!int '43', !!int '1', !!int '0', !!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '347']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "Wow♡ Do they always cum this much?"']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "Wow♡ Do they always cum this much?"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '346']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "But with this, it looks like we can finish
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "But with this, it looks like we can finish
 
           up really quickly♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '349']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "I feel a little bad for teacher, but I''ll
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "I feel a little bad for teacher, but I''ll
 
           make you cum more and finish this quickly♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '108', 'p': ['少し回復']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '48']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] talked cheerfully while mercilessly jerking
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6] talked cheerfully while mercilessly jerking
 
           off \N[1]''s just-ejaculated dick with her butt!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '341']}
@@ -2277,7 +2277,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '48']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] continued to jerk off \N[1] with her butt
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6] continued to jerk off \N[1] with her butt
 
           while smiling at him writhing from consecutive
 
@@ -2289,10 +2289,10 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '122', 'p': [!!int '43', !!int '43', !!int '1', !!int '0', !!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '348']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "Fufu♡ I really finished it up quickly♡"']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "Fufu♡ I really finished it up quickly♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '349']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "Maybe even someone like me can have my way
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "Maybe even someone like me can have my way
 
           with an easy guy like teacher...♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
@@ -2444,7 +2444,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '0', 'p': []}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '412', 'p': []}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '122', 'p': [!!int '20', !!int '20', !!int '0', !!int '1', !!int '65']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'ルミ']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'Rumi']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '10']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '30']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
@@ -2458,12 +2458,12 @@
           and they both ended up falling on their butts...']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '207']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]"Ah... Did you hug me to make sure I wouldn''t
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]"Ah... Did you hug me to make sure I wouldn''t
 
           get hurt?\N[7] You''re so kind...♡']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '212']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]"But you can''t move from this position, okay?
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]"But you can''t move from this position, okay?
 
           If you don''t listen to what I say, I''ll scream out
 
@@ -2593,13 +2593,13 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '121', 'p': [!!int '84', !!int '84', !!int '0']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '122', 'p': [!!int '20', !!int '20', !!int '0', !!int '1', !!int '65']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '9']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'ルミ']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'Rumi']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '10']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6] is attacking!']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6] is attacking!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '207']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "\N[8]...♡ You''re getting excited, how cute♡
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "\N[8]...♡ You''re getting excited, how cute♡
 
           I''ll undress you♡ Just like that-♡']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '235', 'p': [!!int '1']}
@@ -2608,12 +2608,12 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '230', 'p': [!!int '45']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '208']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "Ahaha♡ \N[7]''s dick is all ready, isn''t it♡']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "Ahaha♡ \N[7]''s dick is all ready, isn''t it♡']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '111', 'p': [!!int '0', !!int '108', !!int '0']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '111', 'p': [!!int '0', !!int '51', !!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '117', 'p': [!!int '207']}
     - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '401', 'p': ['n[6]: "I''m going to undress too♡ You can watch me
+    - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '401', 'p': ['\n[6]: "I''m going to undress too♡ You can watch me
 
           take it off- okay♡ Hehe♡']}
     - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '235', 'p': [!!int '1']}
@@ -2737,14 +2737,14 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '0', 'p': []}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '412', 'p': []}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '122', 'p': [!!int '20', !!int '20', !!int '0', !!int '1', !!int '65']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'ルミ']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'Rumi']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '10']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '30']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Rumi is attacking!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '207']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]"What should I do with you today-♡ My
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]"What should I do with you today-♡ My
 
           collection is going to increase again♪ Fufu♡']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '235', 'p': [!!int '1']}
@@ -2864,7 +2864,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '121', 'p': [!!int '184', !!int '184', !!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '121', 'p': [!!int '216', !!int '216', !!int '0']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '9']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'ルミ']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'Rumi']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '10']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '30']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '111', 'p': [!!int '0', !!int '200', !!int '0']}
@@ -2885,10 +2885,10 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '121', 'p': [!!int '84', !!int '84', !!int '0']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '122', 'p': [!!int '20', !!int '20', !!int '0', !!int '1', !!int '65']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6] is attacking!']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6] is attacking!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '208']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "\N[8]...♡ You''re getting excited, how cute♡
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "\N[8]...♡ You''re getting excited, how cute♡
 
           I''ll take it off for you now♡']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '235', 'p': [!!int '1']}
@@ -2898,14 +2898,14 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '230', 'p': [!!int '45']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '207']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "Wow♡ This is \N[7]''s dick...♡ I wonder if
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "Wow♡ This is \N[7]''s dick...♡ I wonder if
 
           it will fit entirely inside me♡']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '111', 'p': [!!int '0', !!int '108', !!int '0']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '111', 'p': [!!int '0', !!int '51', !!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '117', 'p': [!!int '207']}
     - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '401', 'p': ['n[6]: "I''m going to take mine off too♡ You can
+    - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '401', 'p': ['\n[6]: "I''m going to take mine off too♡ You can
 
           watch me undress if you want-♡ Hehe♡']}
     - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '235', 'p': [!!int '1']}
@@ -3033,10 +3033,10 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '122', 'p': [!!int '20', !!int '20', !!int '0', !!int '1', !!int '65']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '9']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '121', 'p': [!!int '192', !!int '192', !!int '0']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'ルミ']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'Rumi']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '10']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6] attacked!']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6] attacked!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '111', 'p': [!!int '0', !!int '105', !!int '0']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '108', 'p': ['本番即死']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '111', 'p': [!!int '0', !!int '108', !!int '0']}
@@ -3048,10 +3048,10 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '412', 'p': []}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '207']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "I''ll insert it...♡ Watch, \n[7]♡']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "I''ll insert it...♡ Watch, \n[7]♡']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] grabbed \N[1]''s dick with one hand and aimed
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6] grabbed \N[1]''s dick with one hand and aimed
 
           it at her genitals, then slowly lowered her hips!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
@@ -3062,20 +3062,20 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '14']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '263']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "Mmm♡ It''s in♡ Your lolicon dick is all
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "Mmm♡ It''s in♡ Your lolicon dick is all
 
           inside my pussy♡']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '227']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '260']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "You''re probably going to cum soon anyway,
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "You''re probably going to cum soon anyway,
 
           but just to be sure, I''ll make you ejaculate
 
           first♡']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] hugged \N[1]''s body tightly and started moving
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6] hugged \N[1]''s body tightly and started moving
 
           her hips up and down vigorously!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '18']}
@@ -3086,7 +3086,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '121', 'p': [!!int '77', !!int '77', !!int '0']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '257']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] felt \N[1]''s ejaculation and smiled slyly,
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6] felt \N[1]''s ejaculation and smiled slyly,
 
           kissing him while swallowing his penis even deeper
 
@@ -3098,24 +3098,24 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '122', 'p': [!!int '43', !!int '43', !!int '1', !!int '0', !!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '263']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "Mmm... hehe♡ \n[8]... so fast...♡']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "Mmm... hehe♡ \n[8]... so fast...♡']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '121', 'p': [!!int '79', !!int '79', !!int '0']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '121', 'p': [!!int '77', !!int '77', !!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '42']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '259']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "Ah-ah♡ You came instantly♡ Did my pussy
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "Ah-ah♡ You came instantly♡ Did my pussy
 
           feel that good? I''m so happy♡']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '260']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "I wish the people \n[7] brought with him
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "I wish the people \n[7] brought with him
 
           would come back soon♪']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '263']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "I want to show them how \n[7] gets made to
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "I want to show them how \n[7] gets made to
 
           cum by me and melts into a puddle♡']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
@@ -3125,7 +3125,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '48']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] talked happily while hugging \N[1]''s body and
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6] talked happily while hugging \N[1]''s body and
 
           then started grinding her hips intensely!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '18']}
@@ -3141,7 +3141,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '121', 'p': [!!int '77', !!int '77', !!int '0']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '257']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] kept moving her hips fiercely to silence
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6] kept moving her hips fiercely to silence
 
           \N[1]''s continuous ejaculations with kisses!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '18']}
@@ -3153,18 +3153,18 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '122', 'p': [!!int '43', !!int '43', !!int '1', !!int '0', !!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '263']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "Mmm... chu...♡ \n[8]... love it...♡']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "Mmm... chu...♡ \n[8]... love it...♡']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '121', 'p': [!!int '79', !!int '79', !!int '0']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '121', 'p': [!!int '77', !!int '77', !!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '263']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "Huh-? Did you faint because it felt too
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "Huh-? Did you faint because it felt too
 
           good?']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '260']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "If I knew this would happen, I would have
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "If I knew this would happen, I would have
 
           taken my time and savored eating you up more♡
 
@@ -3214,31 +3214,31 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '412', 'p': []}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '212']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "A masochistic lolicon like \n[7] is
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "A masochistic lolicon like \n[7] is
 
           satisfied just with feet, right?♡']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '248']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] firmly trapped \N[1]''s dick between her feet!']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6] firmly trapped \N[1]''s dick between her feet!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '251']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "Yay-♡ Caught \n[7]''s dick♡']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "Yay-♡ Caught \n[7]''s dick♡']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '224']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '250']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "I''m going to take a commemorative photo of
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "I''m going to take a commemorative photo of
 
           making \n[7] mine-♪ Look this way♡']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '223']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '251']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "Ehehe♡ \n[7], you''re making such a cute
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "Ehehe♡ \n[7], you''re making such a cute
 
           face♡ I love that expression so much♡']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '254']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "I''d love to tease you more thoroughly, but
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "I''d love to tease you more thoroughly, but
 
           we might be short on time, so I''ll just make you
 
@@ -3246,12 +3246,12 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '227']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '251']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "Let''s cum while looking at me, you
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "Let''s cum while looking at me, you
 
           perverted \n[7]♡']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] grabbed \N[1]''s just-ejaculated dick with her
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6] grabbed \N[1]''s just-ejaculated dick with her
 
           feet and mercilessly jerked it up and down!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '13']}
@@ -3259,7 +3259,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '6']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '256']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] felt \N[1]''s ejaculation and smiled slyly,
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6] felt \N[1]''s ejaculation and smiled slyly,
 
           continuing to milk the remaining semen with her
 
@@ -3274,14 +3274,14 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '122', 'p': [!!int '43', !!int '43', !!int '1', !!int '0', !!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '255']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "Ah-ah♡ Made you cum in a flash♡ \n[7], that
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "Ah-ah♡ Made you cum in a flash♡ \n[7], that
 
           was too quick-♡']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '224']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '250']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "I''m taking a commemorative photo of
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "I''m taking a commemorative photo of
 
           defeating a masochistic, lolicon, premature
 
@@ -3289,7 +3289,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '223']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '251']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "You''re making such a happy face even though
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "You''re making such a happy face even though
 
           you''re being ridiculed by a student, \n[7]♡ You
 
@@ -3298,14 +3298,14 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '111', 'p': [!!int '0', !!int '51', !!int '0']}
     - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '117', 'p': [!!int '255']}
     - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '401', 'p': ['n[6]: "Oh, don''t be shy-♪ Keep making that face?
+    - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '401', 'p': ['\n[6]: "Oh, don''t be shy-♪ Keep making that face?
 
           I''m taking pictures after all♡']}
     - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '0', 'p': []}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '411', 'p': []}
     - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '117', 'p': [!!int '255']}
     - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '401', 'p': ['n[6]: "Oh, sorry! You can''t see inside the skirt
+    - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '401', 'p': ['\n[6]: "Oh, sorry! You can''t see inside the skirt
 
           when I''m holding the camera, right?♡']}
     - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '0', 'p': []}
@@ -3315,12 +3315,12 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '48']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '254']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "As an apology, I''ll make you cum even more♡
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "As an apology, I''ll make you cum even more♡
 
           Come on, let it out♡']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] talked happily while jerking off \N[1]''s
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6] talked happily while jerking off \N[1]''s
 
           freshly ejaculated dick with both feet without
 
@@ -3332,7 +3332,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '48']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] kept jerking off \N[1]''s dick with her feet
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6] kept jerking off \N[1]''s dick with her feet
 
           while smiling slyly at his continuous
 
@@ -3345,16 +3345,16 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '227']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '251']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "Hehe♡ Making \n[7] cum is so easy♡']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "Hehe♡ Making \n[7] cum is so easy♡']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '249']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "Huh-? Did you faint because it felt too
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "Huh-? Did you faint because it felt too
 
           good?']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '254']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "It''s such a waste that I couldn''t show this
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "It''s such a waste that I couldn''t show this
 
           to those two as well-♡']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
@@ -3499,23 +3499,23 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '9']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '10']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '30']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'アリス']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'Alice']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6] attacked!']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6] attacked!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '383']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "A virgin like Sensei would be instantly
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "A virgin like Sensei would be instantly
 
           defeated by my techniques♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '111', 'p': [!!int '8', !!int '15']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '387']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "Huh? Sensei, did you by any chance buy a
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "Huh? Sensei, did you by any chance buy a
 
           ticket?"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '385']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "I knew it, Sensei is in the mood too, huh?
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "I knew it, Sensei is in the mood too, huh?
 
           I''ll milk you of plenty of semen and money with my
 
@@ -3650,12 +3650,12 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '9']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '10']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '30']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'アリス']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'Alice']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6] is attacking!']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6] is attacking!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '383']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "I''ll fuck you so thoroughly you''ll want to
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "I''ll fuck you so thoroughly you''ll want to
 
           become a slave on your own♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '235', 'p': [!!int '1']}
@@ -3780,12 +3780,12 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '122', 'p': [!!int '20', !!int '20', !!int '0', !!int '1', !!int '121']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '9']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '10']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'アリス']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'Alice']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6] is attacking!']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6] is attacking!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '383']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "It''s a hassle, so let''s skip the kissing
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "It''s a hassle, so let''s skip the kissing
 
           and just make you cum quickly♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '235', 'p': [!!int '1']}
@@ -3794,7 +3794,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '230', 'p': [!!int '45']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '387']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "I won''t hold back making you cum, but you
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "I won''t hold back making you cum, but you
 
           better still go to work after this♪"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '111', 'p': [!!int '0', !!int '108', !!int '0']}
@@ -3915,12 +3915,12 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '122', 'p': [!!int '20', !!int '20', !!int '0', !!int '1', !!int '121']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '9']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '10']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'アリス']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'Alice']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6] has attacked!']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6] has attacked!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '383']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "I''ll strip you down quickly and make you
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "I''ll strip you down quickly and make you
 
           cum in a flash♪"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '235', 'p': [!!int '1']}
@@ -3932,7 +3932,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '417']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '387']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "Doing it with my hand might be the fastest,
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "Doing it with my hand might be the fastest,
 
           but I''ll make sure you never think of escaping by
 
@@ -3945,7 +3945,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '412', 'p': []}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] grabbed \N[1]''s dick with one hand and aimed
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6] grabbed \N[1]''s dick with one hand and aimed
 
           it at her genitals, then slowly lowered her hips!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
@@ -3957,12 +3957,12 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '417']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '414']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "Fufu♡ Even a virgin''s small dick will feel
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "Fufu♡ Even a virgin''s small dick will feel
 
           tight inside a young girl''s pussy, right♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '413']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "Ah, since it''s your first time, you
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "Ah, since it''s your first time, you
 
           wouldn''t know how it feels with other women,
 
@@ -3972,14 +3972,14 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '418']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '412']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "You''ve never worn a condom before, so
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "You''ve never worn a condom before, so
 
           you''re going to cum inside raw, right♡ And all
 
           while being dominated by a girl♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] pinned \N[1] down and started moving her hips
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6] pinned \N[1] down and started moving her hips
 
           up and down intensely!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '438']}
@@ -3993,17 +3993,17 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '122', 'p': [!!int '43', !!int '43', !!int '1', !!int '0', !!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '410']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "Huh? Did you already cum?"']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "Huh? Did you already cum?"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '417']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '413']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "Ahaha♪ Sorry, sorry, it was so quick I
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "Ahaha♪ Sorry, sorry, it was so quick I
 
           didn''t notice♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '418']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '412']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "But ending it now would be meaningless,
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "But ending it now would be meaningless,
 
           right? Let''s pretend I didn''t notice and I''ll milk
 
@@ -4015,7 +4015,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '48']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] pinned down the defenseless \N[1] and grinded
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6] pinned down the defenseless \N[1] and grinded
 
           her hips intensely!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '438']}
@@ -4025,7 +4025,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '48']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] smiled as she watched \N[1] writhe from
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6] smiled as she watched \N[1] writhe from
 
           consecutive ejaculations and continued to shake
 
@@ -4040,7 +4040,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '122', 'p': [!!int '43', !!int '43', !!int '1', !!int '0', !!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '412']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "Oh? Even though I extended it for you, you
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "Oh? Even though I extended it for you, you
 
           came again so quickly♡ You''re too sensitive,
 
@@ -4048,7 +4048,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '417']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '414']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "Well, it''s easier for me and I''m grateful
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "Well, it''s easier for me and I''m grateful
 
           for that♪ Now I''m also rich♡ That was easy♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
@@ -4094,22 +4094,22 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '412', 'p': []}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6] pushed \N[1] down and trapped his erect penis
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6] pushed \N[1] down and trapped his erect penis
 
           between her large breasts!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '405']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "With this, I''m good at making men cum♪ The
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "With this, I''m good at making men cum♪ The
 
           little kids in Sensei''s class can''t imitate this♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '406']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "Even though you''re a student, your body is
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "Even though you''re a student, your body is
 
           an adult''s♡ I''ll teach that to Sensei too♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] trapped \N[1]''s penis between her breasts and
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6] trapped \N[1]''s penis between her breasts and
 
           started to jerk it up and down fiercely!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '12']}
@@ -4117,7 +4117,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '6']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '407']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] continued to jerk off \N[1]''s penis even as he
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6] continued to jerk off \N[1]''s penis even as he
 
           ejaculated!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '108', 'p': ['少し回復']}
@@ -4129,12 +4129,12 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '122', 'p': [!!int '43', !!int '43', !!int '1', !!int '0', !!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '405']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "Ah-ah♡ Too fast♪ It was so quick I didn''t
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "Ah-ah♡ Too fast♪ It was so quick I didn''t
 
           even realize you were cumming♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '406']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "But well, it''s cold here and this outfit is
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "But well, it''s cold here and this outfit is
 
           tough, so I''ll make you cum quickly and take you
 
@@ -4143,7 +4143,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '48']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] talked cheerfully while mercilessly jerking
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6] talked cheerfully while mercilessly jerking
 
           off \N[1]''s penis that had just cum!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '438']}
@@ -4153,7 +4153,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '48']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] grinned as she watched \N[1] writhe from
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6] grinned as she watched \N[1] writhe from
 
           consecutive ejaculations and kept jerking him off
 
@@ -4165,15 +4165,15 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '122', 'p': [!!int '43', !!int '43', !!int '1', !!int '0', !!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '405']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "Fufu♡ Such an easy-to-handle man♪"']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "Fufu♡ Such an easy-to-handle man♪"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '406']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "I got the castle so easily, and now I''ve
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "I got the castle so easily, and now I''ve
 
           got a slave called Sensei too♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '403']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "I have to thank the Demon Queen-chan for
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "I have to thank the Demon Queen-chan for
 
           this♡ And also Sensei for coming all this way,
 
@@ -4315,9 +4315,9 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '9']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '10']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '30']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'メア']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'Mare']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6] is attacking!']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6] is attacking!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '111', 'p': [!!int '0', !!int '311', !!int '0']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '121', 'p': [!!int '325', !!int '325', !!int '0']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '111', 'p': [!!int '0', !!int '102', !!int '0']}
@@ -4328,7 +4328,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '355', 'p': ['$game_actors[1].battler_name = "Hero D"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '496']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "Ehehe...♡ Well then, without further ado,
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "Ehehe...♡ Well then, without further ado,
 
           please show me that of yours, \N[1]-san...♡']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
@@ -4338,12 +4338,12 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '230', 'p': [!!int '45']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '494']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "Fufu♡ Just hearing that you''ll be getting
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "Fufu♡ Just hearing that you''ll be getting
 
           off with my help made you this hard?']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '498']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "Getting excited so easily... You''re such a
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "Getting excited so easily... You''re such a
 
           naughty boy, \N[1]-san♡ I''ll have to train you a
 
@@ -4351,7 +4351,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '111', 'p': [!!int '0', !!int '108', !!int '0']}
     - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '117', 'p': [!!int '496']}
     - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '401', 'p': ['n[6]: "Since you''re already so excited, I''ll show
+    - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '401', 'p': ['\n[6]: "Since you''re already so excited, I''ll show
 
           you my naked body♡ Make sure you get used to a
 
@@ -4365,7 +4365,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '411', 'p': []}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '494']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "Please let me suck you off nicely and
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "Please let me suck you off nicely and
 
           quietly, \N[1]-san♡']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '0', 'p': []}
@@ -4482,12 +4482,12 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '9']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '10']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '30']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'メア']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'Mare']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6] is attacking!']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6] is attacking!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '494']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "I''ll train you thoroughly so you won''t get
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "I''ll train you thoroughly so you won''t get
 
           excited by my small body, \N[1]-san♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '235', 'p': [!!int '1']}
@@ -4604,12 +4604,12 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '122', 'p': [!!int '20', !!int '20', !!int '0', !!int '1', !!int '165']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '9']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '10']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'メア']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'Mare']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6] is attacking!']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6] is attacking!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '494']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "Well then, first I''ll let \N[1]-san''s out
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "Well then, first I''ll let \N[1]-san''s out
 
           into the open♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '235', 'p': [!!int '1']}
@@ -4618,7 +4618,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '230', 'p': [!!int '45']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '496']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "We don''t have much time, but rest assured,
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "We don''t have much time, but rest assured,
 
           I''ll milk you until you''re completely empty♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '111', 'p': [!!int '0', !!int '108', !!int '0']}
@@ -4738,9 +4738,9 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '9']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '10']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '30']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'メア']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'Mare']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6] has attacked!']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6] has attacked!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '111', 'p': [!!int '0', !!int '311', !!int '0']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '121', 'p': [!!int '325', !!int '325', !!int '0']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '111', 'p': [!!int '0', !!int '102', !!int '0']}
@@ -4751,7 +4751,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '355', 'p': ['$game_actors[1].battler_name = "Hero D"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '496']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "Ehehe...♡ Then, without further ado, please
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "Ehehe...♡ Then, without further ado, please
 
           show me that of yours, \N[1]-san...♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
@@ -4761,12 +4761,12 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '230', 'p': [!!int '45']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '494']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "Fufu♡ Just hearing that you''ll get to be
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "Fufu♡ Just hearing that you''ll get to be
 
           drained by me made you this excited?']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '498']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "Getting excited so easily... You''re such a
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "Getting excited so easily... You''re such a
 
           naughty boy, \N[1]-san♡ I''ll have to train you a
 
@@ -4774,7 +4774,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '111', 'p': [!!int '0', !!int '108', !!int '0']}
     - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '117', 'p': [!!int '496']}
     - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '401', 'p': ['n[6]: "Since you''re already fully excited, I''ll
+    - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '401', 'p': ['\n[6]: "Since you''re already fully excited, I''ll
 
           show you my naked body♡ Make sure you get used to
 
@@ -4788,7 +4788,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '411', 'p': []}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '494']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "Please let me drain you nicely while you
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\n[6]: "Please let me drain you nicely while you
 
           stay quiet, \N[1]-san♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '0', 'p': []}
@@ -4905,12 +4905,12 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '9']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '10']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '30']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'メア']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'Mare']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6] is attacking!']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6] is attacking!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '494']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "I''ll thoroughly train you not to get
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "I''ll thoroughly train you not to get
 
           excited by my small body, \N[1]-san♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '235', 'p': [!!int '1']}
@@ -5027,12 +5027,12 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '122', 'p': [!!int '20', !!int '20', !!int '0', !!int '1', !!int '165']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '9']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '10']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'メア']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'Mare']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6] is attacking!']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6] is attacking!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '494']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "Well then, first I''ll let \N[1]-san''s out in
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "Well then, first I''ll let \N[1]-san''s out in
 
           the open♡']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '235', 'p': [!!int '1']}
@@ -5041,7 +5041,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '230', 'p': [!!int '45']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '496']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "We don''t have much time, but I''ll make sure
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "We don''t have much time, but I''ll make sure
 
           to milk you until you''re completely empty, so
 
@@ -5164,20 +5164,20 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '122', 'p': [!!int '20', !!int '20', !!int '0', !!int '1', !!int '165']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '9']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '10']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'メア']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'Mare']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '121', 'p': [!!int '53', !!int '53', !!int '0']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '523']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6] is attacking!']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6] is attacking!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '121', 'p': [!!int '53', !!int '53', !!int '0']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '121', 'p': [!!int '78', !!int '78', !!int '0']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '531']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '523']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6] is attacking!']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6] is attacking!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '494']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "Well then, first I''ll take out \N[1]-san''s,
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "Well then, first I''ll take out \N[1]-san''s,
 
           outside♡']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '235', 'p': [!!int '1']}
@@ -5186,7 +5186,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '230', 'p': [!!int '45']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '496']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "We don''t have much time, but rest assured,
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "We don''t have much time, but rest assured,
 
           I''ll milk you until you''re completely empty♡']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '111', 'p': [!!int '0', !!int '108', !!int '0']}
@@ -5307,12 +5307,12 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '122', 'p': [!!int '20', !!int '20', !!int '0', !!int '1', !!int '165']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '9']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '10']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'メア']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'Mare']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6] is attacking!']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6] is attacking!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '494']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "Well then, first I''ll let \N[1]-san''s out
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "Well then, first I''ll let \N[1]-san''s out
 
           into the open♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '235', 'p': [!!int '1']}
@@ -5321,7 +5321,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '230', 'p': [!!int '45']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '496']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "We don''t have much time, but rest assured,
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "We don''t have much time, but rest assured,
 
           I''ll make sure to drain you until you''re
 
@@ -5443,37 +5443,37 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '9']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '10']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '30']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'メア']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'Mare']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '500']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6] is attacking!']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6] is attacking!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '488']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '516']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "This is a test 4♪"']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "This is a test 4♪"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '535']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '488']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '521']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '517']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "This is a test 5♪"']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "This is a test 5♪"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '512']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "This is a test 6♪"']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "This is a test 6♪"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '534']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '524']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "This is a test 7♪"']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "This is a test 7♪"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '534']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '121', 'p': [!!int '78', !!int '78', !!int '0']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '531']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '526']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "This is a test 8♪"']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "This is a test 8♪"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '535']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '527']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "This is a test 9♪"']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "This is a test 9♪"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '0', 'p': []}
     'span': !!int '0'
     'condition': !ruby/object:RPG::Troop::Page::Condition
@@ -5609,12 +5609,12 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '9']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '10']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '30']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'マオ']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'Mao']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6] is attacking!']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6] is attacking!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '471']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "You let your guard down, hero! I''ll settle
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "You let your guard down, hero! I''ll settle
 
           this here and now!"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '235', 'p': [!!int '1']}
@@ -5731,12 +5731,12 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '9']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '10']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '30']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'マオ']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'Mao']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6] is attacking!']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6] is attacking!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '471']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "You let your guard down, hero! I''ll settle
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "You let your guard down, hero! I''ll settle
 
           this here and now!"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '235', 'p': [!!int '1']}
@@ -5856,12 +5856,12 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '122', 'p': [!!int '20', !!int '20', !!int '0', !!int '1', !!int '183']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '9']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '10']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'マオ']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'Mao']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6] is attacking!']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6] is attacking!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '472']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "The reward is just a meal with a slave,
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "The reward is just a meal with a slave,
 
           let''s get started quickly♪"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '235', 'p': [!!int '1']}
@@ -5870,7 +5870,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '230', 'p': [!!int '45']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '471']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "I''ll treat you roughly, but rest assured,
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "I''ll treat you roughly, but rest assured,
 
           I''ll milk you dry until you can''t stand it...♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '111', 'p': [!!int '0', !!int '108', !!int '0']}
@@ -5993,12 +5993,12 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '122', 'p': [!!int '20', !!int '20', !!int '0', !!int '1', !!int '183']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '9']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '10']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'マオ']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'Mao']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6] is attacking!']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6] is attacking!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '472']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "The reward is just a meal with a slave,
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "The reward is just a meal with a slave,
 
           let''s get started quickly♪"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '235', 'p': [!!int '1']}
@@ -6007,7 +6007,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '230', 'p': [!!int '45']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '471']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "I''ll treat you roughly, but rest assured,
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "I''ll treat you roughly, but rest assured,
 
           I''ll milk you dry until you''re empty whether you
 
@@ -6130,41 +6130,41 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '122', 'p': [!!int '20', !!int '20', !!int '0', !!int '1', !!int '165']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '9']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '10']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'マオ']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'Mao']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6] is attacking!']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6] is attacking!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '476']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "Test1']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "Test1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '231', 'p': [!!int '21', 'マオ Siru Mune', !!int '1', !!int '0', !!int '320', !!int '260', !!int '100', !!int '100', !!int '255', !!int '0']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '231', 'p': [!!int '22', 'マオSiru Foot', !!int '1', !!int '0', !!int '320', !!int '260', !!int '100', !!int '100', !!int '255', !!int '0']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "Test']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "Test']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '612']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "Test2']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "Test2']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '624']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "Test3']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "Test3']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '594']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '624']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "Test4']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "Test4']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '121', 'p': [!!int '78', !!int '78', !!int '0']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '624']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "Test5']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "Test5']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '595']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '624']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "Test6']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "Test6']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '121', 'p': [!!int '381', !!int '381', !!int '0']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '624']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "Test7']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "Test7']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '0', 'p': []}
     'span': !!int '0'
     'condition': !ruby/object:RPG::Troop::Page::Condition
@@ -6297,19 +6297,19 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '355', 'p': ['$game_troop.members[0].screen_x = 329']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '355', 'p': ['$game_troop.members[0].screen_y = 401']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '122', 'p': [!!int '20', !!int '20', !!int '0', !!int '1', !!int '203']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'プリン']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'Pudding']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '10']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '30']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6] is attacking!']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6] is attacking!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '684']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "Not listening to your daughter''s pleas, you
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "Not listening to your daughter''s pleas, you
 
           lack awareness as a father!"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '676']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "But since you''re still a virgin, it can''t
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "But since you''re still a virgin, it can''t
 
           be helped, can it?♪ I''ll make sure to educate you
 
@@ -6441,20 +6441,20 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '121', 'p': [!!int '84', !!int '84', !!int '0']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '122', 'p': [!!int '20', !!int '20', !!int '0', !!int '1', !!int '203']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '9']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'プリン']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'Pudding']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '10']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6] is attacking!']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6] is attacking!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '683']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "Ehehe...♡ Managing Daddy''s excitement is my
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "Ehehe...♡ Managing Daddy''s excitement is my
 
           job♡ I''ll be giving you lots of education today
 
           too♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '676']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "If you don''t get excited by your daughter
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "If you don''t get excited by your daughter
 
           undressing you, then you''re a wholesome Daddy, but
 
@@ -6465,7 +6465,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '230', 'p': [!!int '45']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '682']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "Fufu♡ As expected, you''re getting excited
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "Fufu♡ As expected, you''re getting excited
 
           by your daughter undressing you♡ This means it''s
 
@@ -6584,19 +6584,19 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '355', 'p': ['$game_troop.members[0].screen_x = 329']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '355', 'p': ['$game_troop.members[0].screen_y = 401']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '122', 'p': [!!int '20', !!int '20', !!int '0', !!int '1', !!int '203']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'プリン']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'Pudding']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '10']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '30']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6] is attacking!']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6] is attacking!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '684']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "Not listening to your daughter''s pleas, you
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "Not listening to your daughter''s pleas, you
 
           lack awareness as a father!"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '676']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "But since you''re still a virgin, it can''t
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "But since you''re still a virgin, it can''t
 
           be helped, right?♪ I''ll make sure to educate you
 
@@ -6728,20 +6728,20 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '121', 'p': [!!int '84', !!int '84', !!int '0']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '122', 'p': [!!int '20', !!int '20', !!int '0', !!int '1', !!int '203']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '9']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'プリン']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'Pudding']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '10']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6] is attacking!']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6] is attacking!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '683']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "Ehehe...♡ Managing Daddy''s excitement is my
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "Ehehe...♡ Managing Daddy''s excitement is my
 
           job♡ I''ll be giving you lots of education today
 
           too♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '676']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "If you don''t get excited by your daughter
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "If you don''t get excited by your daughter
 
           undressing you, then you''re a wholesome Daddy, but
 
@@ -6752,7 +6752,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '230', 'p': [!!int '45']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '682']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "Fufu♡ As I thought, getting undressed by
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "Fufu♡ As I thought, getting undressed by
 
           your daughter makes you excited♡ That means it''s
 
@@ -6889,7 +6889,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '355', 'p': ['$game_troop.members[0].screen_y = 401']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '355', 'p': ['$game_troop.members[0].battler_name = "Mumu0oko"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '122', 'p': [!!int '20', !!int '20', !!int '0', !!int '1', !!int '212']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'ムム']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'Mumu']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '10']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '30']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '111', 'p': [!!int '0', !!int '106', !!int '0']}
@@ -6898,10 +6898,10 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '0', 'p': []}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '412', 'p': []}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6] is attacking!']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6] is attacking!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '764']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "You just want any girl, don''t you? In that
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "You just want any girl, don''t you? In that
 
           case, I''ll suck you to death♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '235', 'p': [!!int '1']}
@@ -7031,24 +7031,24 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '121', 'p': [!!int '84', !!int '84', !!int '0']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '122', 'p': [!!int '20', !!int '20', !!int '0', !!int '1', !!int '203']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '9']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'プリン']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'Pudding']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '10']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6] is attacking!']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6] is attacking!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '231', 'p': [!!int '21', 'Mumu2 Siru', !!int '1', !!int '0', !!int '280', !!int '242', !!int '100', !!int '100', !!int '255', !!int '0']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '792']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6] is attacking!']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6] is attacking!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '789']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '781']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "Ehehe...♡ Managing Daddy''s excitement is my
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "Ehehe...♡ Managing Daddy''s excitement is my
 
           job♡ I''m going to educate you a lot today too♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '780']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '231', 'p': [!!int '1', 'Mumu HNPC Doya', !!int '1', !!int '1', !!int '81', !!int '82', !!int '100', !!int '100', !!int '255', !!int '0']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "If you don''t get excited by your daughter
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "If you don''t get excited by your daughter
 
           undressing you, then you''re a wholesome Daddy, but
 
@@ -7059,7 +7059,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '230', 'p': [!!int '45']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '682']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "Fufu♡ As expected, you''re getting excited
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "Fufu♡ As expected, you''re getting excited
 
           by your daughter undressing you♡ This means it''s
 
@@ -7183,18 +7183,18 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '121', 'p': [!!int '84', !!int '84', !!int '0']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '122', 'p': [!!int '20', !!int '20', !!int '0', !!int '1', !!int '212']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '9']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'ムム']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '320', 'p': [!!int '6', 'Mumu']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '10']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6] is attacking!']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6] is attacking!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '766']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "I''ll sneak a little taste of Daddy without
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "I''ll sneak a little taste of Daddy without
 
           Mommy knowing♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '767']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "I want to make it in time for dinner, so
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "I want to make it in time for dinner, so
 
           let''s skip the lovey-dovey time and get you
 
@@ -7205,7 +7205,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '230', 'p': [!!int '45']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '771']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "Ehehe...♡ It''s good to see that Daddy is
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\n[6]: "Ehehe...♡ It''s good to see that Daddy is
 
           also ready♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '235', 'p': [!!int '1']}

@@ -1693,17 +1693,17 @@
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '412', 'p': []}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '111', 'p': [!!int '0', !!int '91', !!int '0']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '320', 'p': [!!int '15', 'ルミ']}
-      - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '320', 'p': [!!int '6', 'ルミ']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '320', 'p': [!!int '6', 'Rumi']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '0', 'p': []}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '412', 'p': []}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '111', 'p': [!!int '0', !!int '92', !!int '0']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '320', 'p': [!!int '15', 'アヤ']}
-      - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '320', 'p': [!!int '6', 'アヤ']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '320', 'p': [!!int '6', 'Aya']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '0', 'p': []}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '412', 'p': []}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '111', 'p': [!!int '0', !!int '93', !!int '0']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '320', 'p': [!!int '15', 'アリス']}
-      - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '320', 'p': [!!int '6', 'アリス']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '320', 'p': [!!int '6', 'Alice']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '0', 'p': []}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '412', 'p': []}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '111', 'p': [!!int '0', !!int '119', !!int '0']}
