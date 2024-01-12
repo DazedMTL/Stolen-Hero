@@ -1,308 +1,350 @@
----
--
+- !!null 'null'
 - !ruby/object:RPG::Actor
-  name: ユシア
-  face_index: 0
-  character_index: 0
-  initial_level: 99
-  face_name: Hero
-  class_id: 1
-  character_name: ""
-  id: 1
-  features: []
-  note: ""
-  equips:
-    - 1
-    - 0
-    - 0
-    - 8
-    - 0
-  nickname: 勇者
-  description: ""
-  max_level: 99
+  'name': 'Yushia'
+  'face_index': !!int '0'
+  'character_index': !!int '0'
+  'initial_level': !!int '99'
+  'face_name': 'Hero'
+  'class_id': !!int '1'
+  'character_name': ''
+  'id': !!int '1'
+  'features': []
+  'note': ''
+  'equips':
+  - !!int '1'
+  - !!int '0'
+  - !!int '0'
+  - !!int '8'
+  - !!int '0'
+  'nickname': 'Hero'
+  'description': ''
+  'max_level': !!int '99'
+  'profile': ''
 - !ruby/object:RPG::Actor
-  name: フィア
-  face_index: 1
-  character_index: 0
-  initial_level: 1
-  face_name: ""
-  class_id: 2
-  character_name: Heroin
-  id: 2
-  features: []
-  note: ""
-  equips:
-    - 0
-    - 0
-    - 0
-    - 0
-    - 0
-  nickname: 紅蓮の迅雷
-  description: "暗殺拳の達人を祖父にもつ少女。幼少のころからその技の\r\nすべてを叩き込まれている格闘術のエキスパート。"
-  max_level: 99
+  'name': 'Fia'
+  'face_index': !!int '1'
+  'character_index': !!int '0'
+  'initial_level': !!int '1'
+  'face_name': ''
+  'class_id': !!int '2'
+  'character_name': 'Heroin'
+  'id': !!int '2'
+  'features': []
+  'note': ''
+  'equips':
+  - !!int '0'
+  - !!int '0'
+  - !!int '0'
+  - !!int '0'
+  - !!int '0'
+  'nickname': 'Crimson Lightning'
+  'description': "暗殺拳の達人を祖父にもつ少女。幼少のころからその技の\r\nすべてを叩き込まれている格闘術のエキスパート。"
+  'max_level': !!int '99'
+  'profile': 'A girl who has a master of the assassination fist as her grandfather.
+
+    She''s an expert in martial arts, having been thoroughly trained in
+
+    those techniques from a young age.'
 - !ruby/object:RPG::Actor
-  name: ムム呼び方
-  face_index: 2
-  character_index: 0
-  initial_level: 1
-  face_name: ""
-  class_id: 3
-  character_name: Actor3
-  id: 3
-  features: []
-  note: ""
-  equips:
-    - 0
-    - 46
-    - 0
-    - 0
-    - 0
-  nickname: 流浪の聖騎士
-  description: "謀略により地位を剥奪された聖騎士。真の騎士道を極めるため\r\n各地をさまよい修練を重ねている。"
-  max_level: 99
+  'name': 'Mumu''s way of calling'
+  'face_index': !!int '2'
+  'character_index': !!int '0'
+  'initial_level': !!int '1'
+  'face_name': ''
+  'class_id': !!int '3'
+  'character_name': 'Actor3'
+  'id': !!int '3'
+  'features': []
+  'note': ''
+  'equips':
+  - !!int '0'
+  - !!int '46'
+  - !!int '0'
+  - !!int '0'
+  - !!int '0'
+  'nickname': 'Wandering Holy Knight'
+  'description': "謀略により地位を剥奪された聖騎士。真の騎士道を極めるため\r\n各地をさまよい修練を重ねている。"
+  'max_level': !!int '99'
+  'profile': 'A holy knight stripped of his position by intrigue. To master true
+
+    chivalry, he wanders various lands, continuing his training.'
 - !ruby/object:RPG::Actor
-  name: ムム呼び方甘え
-  face_index: 2
-  character_index: 0
-  initial_level: 1
-  face_name: ""
-  class_id: 3
-  character_name: Actor3
-  id: 4
-  features: []
-  note: ""
-  equips:
-    - 0
-    - 46
-    - 0
-    - 0
-    - 0
-  nickname: 流浪の聖騎士
-  description: "謀略により地位を剥奪された聖騎士。真の騎士道を極めるため\r\n各地をさまよい修練を重ねている。"
-  max_level: 99
+  'name': 'Mumu, that''s a sweet way to call me.'
+  'face_index': !!int '2'
+  'character_index': !!int '0'
+  'initial_level': !!int '1'
+  'face_name': ''
+  'class_id': !!int '3'
+  'character_name': 'Actor3'
+  'id': !!int '4'
+  'features': []
+  'note': ''
+  'equips':
+  - !!int '0'
+  - !!int '46'
+  - !!int '0'
+  - !!int '0'
+  - !!int '0'
+  'nickname': 'The Wandering Holy Knight'
+  'description': "謀略により地位を剥奪された聖騎士。真の騎士道を極めるため\r\n各地をさまよい修練を重ねている。"
+  'max_level': !!int '99'
+  'profile': 'A holy knight stripped of his position by conspiracy. To master true
+
+    chivalry, he wanders various lands, continuing his training.'
 - !ruby/object:RPG::Actor
-  name: ムム一人称
-  face_index: 2
-  character_index: 0
-  initial_level: 1
-  face_name: ""
-  class_id: 3
-  character_name: Actor3
-  id: 5
-  features: []
-  note: ""
-  equips:
-    - 0
-    - 46
-    - 0
-    - 0
-    - 0
-  nickname: 流浪の聖騎士
-  description: "謀略により地位を剥奪された聖騎士。真の騎士道を極めるため\r\n各地をさまよい修練を重ねている。"
-  max_level: 99
+  'name': 'Mumu''s first-person perspective'
+  'face_index': !!int '2'
+  'character_index': !!int '0'
+  'initial_level': !!int '1'
+  'face_name': ''
+  'class_id': !!int '3'
+  'character_name': 'Actor3'
+  'id': !!int '5'
+  'features': []
+  'note': ''
+  'equips':
+  - !!int '0'
+  - !!int '46'
+  - !!int '0'
+  - !!int '0'
+  - !!int '0'
+  'nickname': 'Wandering Holy Knight'
+  'description': "謀略により地位を剥奪された聖騎士。真の騎士道を極めるため\r\n各地をさまよい修練を重ねている。"
+  'max_level': !!int '99'
+  'profile': 'A holy knight stripped of his position by conspiracy. To master the
+
+    true way of knighthood, he wanders various lands, continuing his
+
+    training.'
 - !ruby/object:RPG::Actor
-  name: 敵ID
-  face_index: 1
-  character_index: 1
-  initial_level: 1
-  face_name: ""
-  class_id: 6
-  character_name: ""
-  id: 6
-  features: []
-  note: ""
-  equips:
-    - 31
-    - 0
-    - 0
-    - 0
-    - 0
-  nickname: 深緑の護り手
-  description: "森の精霊に育てられた少女。自然を愛し、森の平穏を乱す者を\r\n許さない。都会での生活にちょっとだけ憧れている。"
-  max_level: 99
+  'name': 'Enemy ID'
+  'face_index': !!int '1'
+  'character_index': !!int '1'
+  'initial_level': !!int '1'
+  'face_name': ''
+  'class_id': !!int '6'
+  'character_name': ''
+  'id': !!int '6'
+  'features': []
+  'note': ''
+  'equips':
+  - !!int '31'
+  - !!int '0'
+  - !!int '0'
+  - !!int '0'
+  - !!int '0'
+  'nickname': 'Protector of the Deep Green'
+  'description': "森の精霊に育てられた少女。自然を愛し、森の平穏を乱す者を\r\n許さない。都会での生活にちょっとだけ憧れている。"
+  'max_level': !!int '99'
+  'profile': 'A girl raised by the forest spirits. She loves nature and will not
+
+    forgive those who disturb the peace of the forest. She harbors a
+
+    slight longing for city life.'
 - !ruby/object:RPG::Actor
-  name: るみ呼び方
-  face_index: 2
-  character_index: 2
-  initial_level: 1
-  face_name: Actor5
-  class_id: 7
-  character_name: Actor5
-  id: 7
-  features: []
-  note: ""
-  equips:
-    - 37
-    - 37
-    - 0
-    - 0
-    - 0
-  nickname: 見えざる疾風
-  description: "束縛されることが嫌いな自称義賊の青年。軽口ばかり叩くが\r\n仲間のためなら命も張れる熱血漢。"
-  max_level: 99
+  'name': 'Rumi''s way of calling'
+  'face_index': !!int '2'
+  'character_index': !!int '2'
+  'initial_level': !!int '1'
+  'face_name': 'Actor5'
+  'class_id': !!int '7'
+  'character_name': 'Actor5'
+  'id': !!int '7'
+  'features': []
+  'note': ''
+  'equips':
+  - !!int '37'
+  - !!int '37'
+  - !!int '0'
+  - !!int '0'
+  - !!int '0'
+  'nickname': 'Invisible Gale'
+  'description': "束縛されることが嫌いな自称義賊の青年。軽口ばかり叩くが\r\n仲間のためなら命も張れる熱血漢。"
+  'max_level': !!int '99'
+  'profile': 'A self-proclaimed righteous thief who hates being tied down. He''s
+
+    always cracking jokes, but he''s a hot-blooded guy who would risk his
+
+    life for his friends.'
 - !ruby/object:RPG::Actor
-  name: るみ呼び方２
-  face_index: 2
-  character_index: 2
-  initial_level: 1
-  face_name: Actor5
-  class_id: 7
-  character_name: Actor5
-  id: 8
-  features: []
-  note: ""
-  equips:
-    - 37
-    - 37
-    - 0
-    - 0
-    - 0
-  nickname: 見えざる疾風
-  description: "束縛されることが嫌いな自称義賊の青年。軽口ばかり叩くが\r\n仲間のためなら命も張れる熱血漢。"
-  max_level: 99
+  'name': 'Rumi''s second way of calling'
+  'face_index': !!int '2'
+  'character_index': !!int '2'
+  'initial_level': !!int '1'
+  'face_name': 'Actor5'
+  'class_id': !!int '7'
+  'character_name': 'Actor5'
+  'id': !!int '8'
+  'features': []
+  'note': ''
+  'equips':
+  - !!int '37'
+  - !!int '37'
+  - !!int '0'
+  - !!int '0'
+  - !!int '0'
+  'nickname': 'Invisible Gale'
+  'description': "束縛されることが嫌いな自称義賊の青年。軽口ばかり叩くが\r\n仲間のためなら命も張れる熱血漢。"
+  'max_level': !!int '99'
+  'profile': 'A self-proclaimed righteous thief who hates being tied down. He''s
+
+    always cracking jokes, but he''s a hot-blooded guy who would risk his
+
+    life for his comrades.'
 - !ruby/object:RPG::Actor
-  name: るみ呼び方３
-  face_index: 2
-  character_index: 2
-  initial_level: 1
-  face_name: Actor5
-  class_id: 7
-  character_name: Actor5
-  id: 9
-  features: []
-  note: ""
-  equips:
-    - 37
-    - 37
-    - 0
-    - 0
-    - 0
-  nickname: 見えざる疾風
-  description: "束縛されることが嫌いな自称義賊の青年。軽口ばかり叩くが\r\n仲間のためなら命も張れる熱血漢。"
-  max_level: 99
+  'name': 'Rumi''s third way to call her'
+  'face_index': !!int '2'
+  'character_index': !!int '2'
+  'initial_level': !!int '1'
+  'face_name': 'Actor5'
+  'class_id': !!int '7'
+  'character_name': 'Actor5'
+  'id': !!int '9'
+  'features': []
+  'note': ''
+  'equips':
+  - !!int '37'
+  - !!int '37'
+  - !!int '0'
+  - !!int '0'
+  - !!int '0'
+  'nickname': 'Invisible Gale'
+  'description': "束縛されることが嫌いな自称義賊の青年。軽口ばかり叩くが\r\n仲間のためなら命も張れる熱血漢。"
+  'max_level': !!int '99'
+  'profile': 'A self-proclaimed righteous thief who hates being tied down. He''s
+
+    always cracking jokes, but he''s a hot-blooded guy who would risk his
+
+    life for his friends.'
 - !ruby/object:RPG::Actor
-  name: ムム呼び方ママ
-  face_index: 0
-  character_index: 0
-  initial_level: 1
-  face_name: ""
-  class_id: 1
-  character_name: ""
-  id: 10
-  features: []
-  note: ""
-  equips:
-    - 0
-    - 0
-    - 0
-    - 0
-    - 0
-  nickname: ""
-  description: ""
-  max_level: 99
-  icon_index: 0
+  'name': 'Mumu, call me Mama.'
+  'face_index': !!int '0'
+  'character_index': !!int '0'
+  'initial_level': !!int '1'
+  'face_name': ''
+  'class_id': !!int '1'
+  'character_name': ''
+  'id': !!int '10'
+  'features': []
+  'note': ''
+  'equips':
+  - !!int '0'
+  - !!int '0'
+  - !!int '0'
+  - !!int '0'
+  - !!int '0'
+  'nickname': ''
+  'description': ''
+  'max_level': !!int '99'
+  'icon_index': !!int '0'
+  'profile': ''
 - !ruby/object:RPG::Actor
-  name: ""
-  face_index: 0
-  character_index: 0
-  initial_level: 1
-  face_name: ""
-  class_id: 1
-  character_name: ""
-  id: 11
-  features: []
-  note: ""
-  equips:
-    - 0
-    - 0
-    - 0
-    - 0
-    - 0
-  nickname: ""
-  description: ""
-  max_level: 99
-  icon_index: 0
+  'name': ''
+  'face_index': !!int '0'
+  'character_index': !!int '0'
+  'initial_level': !!int '1'
+  'face_name': ''
+  'class_id': !!int '1'
+  'character_name': ''
+  'id': !!int '11'
+  'features': []
+  'note': ''
+  'equips':
+  - !!int '0'
+  - !!int '0'
+  - !!int '0'
+  - !!int '0'
+  - !!int '0'
+  'nickname': ''
+  'description': ''
+  'max_level': !!int '99'
+  'icon_index': !!int '0'
+  'profile': ''
 - !ruby/object:RPG::Actor
-  name: ""
-  face_index: 0
-  character_index: 0
-  initial_level: 1
-  face_name: ""
-  class_id: 1
-  character_name: ""
-  id: 12
-  features: []
-  note: ""
-  equips:
-    - 0
-    - 0
-    - 0
-    - 0
-    - 0
-  nickname: ""
-  description: ""
-  max_level: 99
-  icon_index: 0
+  'name': ''
+  'face_index': !!int '0'
+  'character_index': !!int '0'
+  'initial_level': !!int '1'
+  'face_name': ''
+  'class_id': !!int '1'
+  'character_name': ''
+  'id': !!int '12'
+  'features': []
+  'note': ''
+  'equips':
+  - !!int '0'
+  - !!int '0'
+  - !!int '0'
+  - !!int '0'
+  - !!int '0'
+  'nickname': ''
+  'description': ''
+  'max_level': !!int '99'
+  'icon_index': !!int '0'
+  'profile': ''
 - !ruby/object:RPG::Actor
-  name: ""
-  face_index: 0
-  character_index: 0
-  initial_level: 1
-  face_name: ""
-  class_id: 1
-  character_name: ""
-  id: 13
-  features: []
-  note: ""
-  equips:
-    - 0
-    - 0
-    - 0
-    - 0
-    - 0
-  nickname: ""
-  description: ""
-  max_level: 99
-  icon_index: 0
+  'name': ''
+  'face_index': !!int '0'
+  'character_index': !!int '0'
+  'initial_level': !!int '1'
+  'face_name': ''
+  'class_id': !!int '1'
+  'character_name': ''
+  'id': !!int '13'
+  'features': []
+  'note': ''
+  'equips':
+  - !!int '0'
+  - !!int '0'
+  - !!int '0'
+  - !!int '0'
+  - !!int '0'
+  'nickname': ''
+  'description': ''
+  'max_level': !!int '99'
+  'icon_index': !!int '0'
+  'profile': ''
 - !ruby/object:RPG::Actor
-  name: ""
-  face_index: 0
-  character_index: 0
-  initial_level: 1
-  face_name: ""
-  class_id: 1
-  character_name: ""
-  id: 14
-  features: []
-  note: ""
-  equips:
-    - 0
-    - 0
-    - 0
-    - 0
-    - 0
-  nickname: ""
-  description: ""
-  max_level: 99
-  icon_index: 0
+  'name': ''
+  'face_index': !!int '0'
+  'character_index': !!int '0'
+  'initial_level': !!int '1'
+  'face_name': ''
+  'class_id': !!int '1'
+  'character_name': ''
+  'id': !!int '14'
+  'features': []
+  'note': ''
+  'equips':
+  - !!int '0'
+  - !!int '0'
+  - !!int '0'
+  - !!int '0'
+  - !!int '0'
+  'nickname': ''
+  'description': ''
+  'max_level': !!int '99'
+  'icon_index': !!int '0'
+  'profile': ''
 - !ruby/object:RPG::Actor
-  name: ""
-  face_index: 0
-  character_index: 0
-  initial_level: 1
-  face_name: ""
-  class_id: 1
-  character_name: ""
-  id: 15
-  features: []
-  note: ""
-  equips:
-    - 0
-    - 0
-    - 0
-    - 0
-    - 0
-  nickname: ""
-  description: ""
-  max_level: 99
-  icon_index: 0
+  'name': ''
+  'face_index': !!int '0'
+  'character_index': !!int '0'
+  'initial_level': !!int '1'
+  'face_name': ''
+  'class_id': !!int '1'
+  'character_name': ''
+  'id': !!int '15'
+  'features': []
+  'note': ''
+  'equips':
+  - !!int '0'
+  - !!int '0'
+  - !!int '0'
+  - !!int '0'
+  - !!int '0'
+  'nickname': ''
+  'description': ''
+  'max_level': !!int '99'
+  'icon_index': !!int '0'
+  'profile': ''
