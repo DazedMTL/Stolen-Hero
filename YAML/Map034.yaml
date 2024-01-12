@@ -1,1427 +1,906 @@
----
 !ruby/object:RPG::Map
-parallax_name: ""
-height: 17
-events:
-  1: !ruby/object:RPG::Event
-    id: 1
-    name: ドア
-    x: 11
-    y: 9
-    pages:
-      - !ruby/object:RPG::Event::Page
-        condition: !ruby/object:RPG::Event::Page::Condition
-          switch1_valid: false
-          switch2_valid: false
-          variable_valid: false
-          self_switch_valid: false
-          item_valid: false
-          actor_valid: false
-          switch1_id: 1
-          switch2_id: 1
-          variable_id: 1
-          variable_value: 0
-          self_switch_ch: A
-          item_id: 1
-          actor_id: 1
-        graphic: !ruby/object:RPG::Event::Page::Graphic
-          tile_id: 0
-          character_name: "!Door3"
-          character_index: 0
-          direction: 2
-          pattern: 0
-        move_type: 0
-        move_speed: 3
-        move_frequency: 3
-        move_route: !ruby/object:RPG::MoveRoute
-          repeat: true
-          skippable: false
-          wait: false
-          list:
-            - !ruby/object:RPG::MoveCommand { code: 0, parameters: [] }
-        walk_anime: true
-        step_anime: false
-        direction_fix: true
-        through: false
-        priority_type: 1
-        trigger: 0
-        list:
-          - !ruby/object:RPG::EventCommand { i: 0, c: 0, p: [] }
-      - !ruby/object:RPG::Event::Page
-        condition: !ruby/object:RPG::Event::Page::Condition
-          switch1_valid: true
-          switch2_valid: false
-          variable_valid: false
-          self_switch_valid: false
-          item_valid: false
-          actor_valid: false
-          switch1_id: 355
-          switch2_id: 1
-          variable_id: 1
-          variable_value: 0
-          self_switch_ch: A
-          item_id: 1
-          actor_id: 1
-        graphic: !ruby/object:RPG::Event::Page::Graphic
-          tile_id: 0
-          character_name: ""
-          character_index: 0
-          direction: 2
-          pattern: 0
-        move_type: 0
-        move_speed: 3
-        move_frequency: 3
-        move_route: !ruby/object:RPG::MoveRoute
-          repeat: true
-          skippable: false
-          wait: false
-          list:
-            - !ruby/object:RPG::MoveCommand { code: 0, parameters: [] }
-        walk_anime: true
-        step_anime: false
-        direction_fix: false
-        through: false
-        priority_type: 0
-        trigger: 0
-        list:
-          - !ruby/object:RPG::EventCommand { i: 0, c: 0, p: [] }
-  2: !ruby/object:RPG::Event
-    id: 2
-    name: EV002
-    x: 22
-    y: 9
-    pages:
-      - !ruby/object:RPG::Event::Page
-        condition: !ruby/object:RPG::Event::Page::Condition
-          switch1_valid: false
-          switch2_valid: false
-          variable_valid: false
-          self_switch_valid: false
-          item_valid: false
-          actor_valid: false
-          switch1_id: 1
-          switch2_id: 1
-          variable_id: 1
-          variable_value: 0
-          self_switch_ch: A
-          item_id: 1
-          actor_id: 1
-        graphic: !ruby/object:RPG::Event::Page::Graphic
-          tile_id: 0
-          character_name: "!Door3"
-          character_index: 0
-          direction: 2
-          pattern: 0
-        move_type: 0
-        move_speed: 3
-        move_frequency: 3
-        move_route: !ruby/object:RPG::MoveRoute
-          repeat: true
-          skippable: false
-          wait: false
-          list:
-            - !ruby/object:RPG::MoveCommand { code: 0, parameters: [] }
-        walk_anime: true
-        step_anime: false
-        direction_fix: true
-        through: false
-        priority_type: 1
-        trigger: 0
-        list:
-          - !ruby/object:RPG::EventCommand { i: 0, c: 0, p: [] }
-  3: !ruby/object:RPG::Event
-    id: 3
-    name: マオ
-    x: 7
-    y: 6
-    pages:
-      - !ruby/object:RPG::Event::Page
-        condition: !ruby/object:RPG::Event::Page::Condition
-          switch1_valid: false
-          switch2_valid: false
-          variable_valid: false
-          self_switch_valid: false
-          item_valid: false
-          actor_valid: false
-          switch1_id: 1
-          switch2_id: 1
-          variable_id: 1
-          variable_value: 0
-          self_switch_ch: A
-          item_id: 1
-          actor_id: 1
-        graphic: !ruby/object:RPG::Event::Page::Graphic
-          tile_id: 0
-          character_name: Mao
-          character_index: 0
-          direction: 2
-          pattern: 1
-        move_type: 0
-        move_speed: 3
-        move_frequency: 3
-        move_route: !ruby/object:RPG::MoveRoute
-          repeat: true
-          skippable: false
-          wait: false
-          list:
-            - !ruby/object:RPG::MoveCommand { code: 0, parameters: [] }
-        walk_anime: true
-        step_anime: false
-        direction_fix: false
-        through: true
-        priority_type: 2
-        trigger: 3
-        list:
-          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [このまま魔王のマオと戦闘に入るので、],
-            }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [弱点変更やセーブを事前に出来ます。],
-            }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 352, p: [] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 118, p: [選択肢0] }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 102,
-              p: [[選択肢, 弱点変更する, しない], 0],
-            }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 402, p: [0, 選択肢] }
-          - !ruby/object:RPG::EventCommand { i: 1, c: 119, p: [選択肢0] }
-          - !ruby/object:RPG::EventCommand { i: 1, c: 0, p: [] }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 402,
-              p: [1, 弱点変更する],
-            }
-          - !ruby/object:RPG::EventCommand { i: 1, c: 117, p: [27] }
-          - !ruby/object:RPG::EventCommand { i: 1, c: 0, p: [] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 402, p: [2, しない] }
-          - !ruby/object:RPG::EventCommand { i: 1, c: 0, p: [] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 404, p: [] }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 241,
-              p:
-                [
-                  !ruby/object:RPG::BGM {
-                    name: Dungeon1,
-                    volume: 100,
-                    pitch: 100,
-                  },
-                ],
-            }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 111, p: [0, 119, 0] }
-          - !ruby/object:RPG::EventCommand { i: 1, c: 101, p: ["", 0, 0, 2] }
-          - !ruby/object:RPG::EventCommand {
-              i: 1,
-              c: 401,
-              p: [イベントをスキップしますか？],
-            }
-          - !ruby/object:RPG::EventCommand { i: 1, c: 118, p: [選択肢１] }
-          - !ruby/object:RPG::EventCommand {
-              i: 1,
-              c: 102,
-              p: [[選択肢, はい, いいえ], 0],
-            }
-          - !ruby/object:RPG::EventCommand { i: 1, c: 402, p: [0, 選択肢] }
-          - !ruby/object:RPG::EventCommand { i: 2, c: 119, p: [選択肢１] }
-          - !ruby/object:RPG::EventCommand { i: 2, c: 0, p: [] }
-          - !ruby/object:RPG::EventCommand { i: 1, c: 402, p: [1, はい] }
-          - !ruby/object:RPG::EventCommand { i: 2, c: 222, p: [] }
-          - !ruby/object:RPG::EventCommand {
-              i: 2,
-              c: 201,
-              p: [0, 34, 9, 6, 4, 0],
-            }
-          - !ruby/object:RPG::EventCommand { i: 2, c: 203, p: [3, 0, 8, 6, 6] }
-          - !ruby/object:RPG::EventCommand { i: 2, c: 119, p: [End] }
-          - !ruby/object:RPG::EventCommand { i: 2, c: 0, p: [] }
-          - !ruby/object:RPG::EventCommand { i: 1, c: 402, p: [2, いいえ] }
-          - !ruby/object:RPG::EventCommand { i: 2, c: 0, p: [] }
-          - !ruby/object:RPG::EventCommand { i: 1, c: 404, p: [] }
-          - !ruby/object:RPG::EventCommand { i: 1, c: 0, p: [] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 412, p: [] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 1, 1] }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [魔王を捕えてから数日後…],
-            }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: ['Taroは牢屋に囚われている魔王の監視を頼まれていた…'],
-            }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 222, p: [] }
-          - !ruby/object:RPG::EventCommand
-            i: 0
-            c: 205
-            p:
-              - -1
-              - !ruby/object:RPG::MoveRoute
-                repeat: false
-                skippable: false
-                wait: false
-                list:
-                  - !ruby/object:RPG::MoveCommand &1 {
-                      code: 29,
-                      parameters: [3],
-                    }
-                  - !ruby/object:RPG::MoveCommand &2 { code: 3, parameters: [] }
-                  - !ruby/object:RPG::MoveCommand &3 { code: 3, parameters: [] }
-                  - !ruby/object:RPG::MoveCommand &4 { code: 3, parameters: [] }
-                  - !ruby/object:RPG::MoveCommand &5 { code: 3, parameters: [] }
-                  - !ruby/object:RPG::MoveCommand &6 { code: 3, parameters: [] }
-                  - !ruby/object:RPG::MoveCommand &7 { code: 3, parameters: [] }
-                  - !ruby/object:RPG::MoveCommand &8 {
-                      code: 19,
-                      parameters: [],
-                    }
-                  - !ruby/object:RPG::MoveCommand &9 {
-                      code: 29,
-                      parameters: [5],
-                    }
-                  - !ruby/object:RPG::MoveCommand { code: 0, parameters: [] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 505, p: [*1] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 505, p: [*2] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 505, p: [*3] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 505, p: [*4] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 505, p: [*5] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 505, p: [*6] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 505, p: [*7] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 505, p: [*8] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 505, p: [*9] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 230, p: [60] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 213, p: [3, 1, false] }
-          - !ruby/object:RPG::EventCommand
-            i: 0
-            c: 205
-            p:
-              - 3
-              - !ruby/object:RPG::MoveRoute
-                repeat: false
-                skippable: false
-                wait: true
-                list:
-                  - !ruby/object:RPG::MoveCommand &10 {
-                      code: 15,
-                      parameters: [10],
-                    }
-                  - !ruby/object:RPG::MoveCommand &11 {
-                      code: 3,
-                      parameters: [],
-                    }
-                  - !ruby/object:RPG::MoveCommand &12 {
-                      code: 3,
-                      parameters: [],
-                    }
-                  - !ruby/object:RPG::MoveCommand &13 {
-                      code: 3,
-                      parameters: [],
-                    }
-                  - !ruby/object:RPG::MoveCommand &14 {
-                      code: 3,
-                      parameters: [],
-                    }
-                  - !ruby/object:RPG::MoveCommand &15 {
-                      code: 16,
-                      parameters: [],
-                    }
-                  - !ruby/object:RPG::MoveCommand { code: 0, parameters: [] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 505, p: [*10] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 505, p: [*11] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 505, p: [*12] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 505, p: [*13] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 505, p: [*14] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 505, p: [*15] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 117, p: [478] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [マオ] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [「はぁ…] }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [　ご丁寧に食事まで運んで貰えるとは],
-            }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [　私も舐められたものだな…],
-            }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 121, p: [355, 355, 0] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 213, p: [-1, 8, false] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 117, p: [474] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [マオ] }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [「しかもドアも開けられて…],
-            }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [　勇者の前では私なんて],
-            }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [　人間や雑魚モンスターと変わらないか…],
-            }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 117, p: [470] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [マオ] }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [「そう言えばまだ名乗ってなかったな…],
-            }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [　私の名前はマオ…],
-            }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [　３代目魔王でメアの姉だ。],
-            }
-          - !ruby/object:RPG::EventCommand
-            i: 0
-            c: 205
-            p:
-              - 3
-              - !ruby/object:RPG::MoveRoute
-                repeat: false
-                skippable: false
-                wait: true
-                list:
-                  - !ruby/object:RPG::MoveCommand &16 {
-                      code: 17,
-                      parameters: [],
-                    }
-                  - !ruby/object:RPG::MoveCommand { code: 0, parameters: [] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 505, p: [*16] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 117, p: [476] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [マオ] }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [「少し話していかないか？],
-            }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [　お前には話しておきたいこともあるしな…],
-            }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 235, p: [20] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 221, p: [] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 230, p: [30] }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 201,
-              p: [0, 34, 9, 6, 4, 0],
-            }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 203, p: [0, 0, 7, 6, 2] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 222, p: [] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 117, p: [471] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [マオ] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [「そういえば…] }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [　以前メアの事を助けてくれたらしいな。],
-            }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [　姉として感謝する。],
-            }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 213, p: [-1, 3, false] }
-          - !ruby/object:RPG::EventCommand
-            i: 0
-            c: 205
-            p:
-              - 3
-              - !ruby/object:RPG::MoveRoute
-                repeat: false
-                skippable: false
-                wait: true
-                list:
-                  - !ruby/object:RPG::MoveCommand &17 {
-                      code: 18,
-                      parameters: [],
-                    }
-                  - !ruby/object:RPG::MoveCommand { code: 0, parameters: [] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 505, p: [*17] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 117, p: [474] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [マオ] }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [「人間達の生活は豊なんだな…],
-            }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [　牢屋だってのに綺麗だし],
-            }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [　敵である私に振る舞う食事もある。],
-            }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [マオ] }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [「それに加えて勇者様まで味方なんだ。],
-            }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [　少し不公平だと思わないか？],
-            }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 213, p: [-1, 8, false] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 117, p: [478] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [マオ] }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [「そこで提案したいことがあるんだが…],
-            }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 117, p: [475] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [マオ] }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [「メアの事を嫁に貰う気はないか？],
-            }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [　勇者さえ私達の味方なら],
-            }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [　私達だって人間を襲う理由はないし…],
-            }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 235, p: [20] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 213, p: [-1, 6, true] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 117, p: [474] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [マオ] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [「そ、そうか…] }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [　メア、可愛いとおもうけどなぁ…],
-            }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [　そういう問題じゃないかも知れんが…],
-            }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 117, p: [477] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [マオ] }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [「い、今なら私もセットで付けるぞ！],
-            }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [　私達が…魔物達が平和に暮らすには],
-            }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [　勇者の力が必要なんだ…！],
-            }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 235, p: [20] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 213, p: [-1, 1, true] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 117, p: [472] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [マオ] }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [「え？意外と手応えあるのか…？],
-            }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 117, p: [471] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [マオ] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [「そうだ！] }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [　ここは平和的に交渉しようじゃないか…！],
-            }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 117, p: [470] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [マオ] }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [「勇者が私達に付いてくれるなら],
-            }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [　争いは終わるし…],
-            }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 117, p: [475] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [マオ] }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [「そうしてくれるならメアでも私でも],
-            }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [　他の魔物娘でも],
-            }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [　好きなだけくれてやる♪],
-            }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 235, p: [20] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 213, p: [-1, 8, true] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 117, p: [471] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [マオ] }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [「まんざらでもなさそうだな♡],
-            }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [　よーし、それなら交渉スタートだ！],
-            }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 235, p: [20] }
-          - !ruby/object:RPG::EventCommand
-            i: 0
-            c: 205
-            p:
-              - 3
-              - !ruby/object:RPG::MoveRoute
-                repeat: false
-                skippable: false
-                wait: true
-                list:
-                  - !ruby/object:RPG::MoveCommand &18 {
-                      code: 37,
-                      parameters: [],
-                    }
-                  - !ruby/object:RPG::MoveCommand &19 {
-                      code: 3,
-                      parameters: [],
-                    }
-                  - !ruby/object:RPG::MoveCommand { code: 0, parameters: [] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 505, p: [*18] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 505, p: [*19] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 117, p: [472] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [マオ] }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [「もしお前が私を説得出来たら],
-            }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [　お前の言う事を聞こう！],
-            }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [　でも説得力がないなら…],
-            }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 117, p: [476] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [マオ] }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [「私達に婿入りしてもらうぞっ♡],
-            }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 235, p: [20] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 118, p: [End] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 213, p: [-1, 1, false] }
-          - !ruby/object:RPG::EventCommand
-            i: 0
-            c: 205
-            p:
-              - 3
-              - !ruby/object:RPG::MoveRoute
-                repeat: false
-                skippable: false
-                wait: true
-                list:
-                  - !ruby/object:RPG::MoveCommand &20 {
-                      code: 37,
-                      parameters: [],
-                    }
-                  - !ruby/object:RPG::MoveCommand &21 {
-                      code: 14,
-                      parameters: [1, 0],
-                    }
-                  - !ruby/object:RPG::MoveCommand { code: 0, parameters: [] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 505, p: [*20] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 505, p: [*21] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 111, p: [0, 86, 0] }
-          - !ruby/object:RPG::EventCommand {
-              i: 1,
-              c: 301,
-              p: [0, 37, false, false],
-            }
-          - !ruby/object:RPG::EventCommand { i: 1, c: 0, p: [] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 411, p: [] }
-          - !ruby/object:RPG::EventCommand {
-              i: 1,
-              c: 301,
-              p: [0, 38, false, false],
-            }
-          - !ruby/object:RPG::EventCommand { i: 1, c: 0, p: [] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 412, p: [] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 0, p: [] }
-      - !ruby/object:RPG::Event::Page
-        condition: !ruby/object:RPG::Event::Page::Condition
-          switch1_valid: true
-          switch2_valid: false
-          variable_valid: false
-          self_switch_valid: false
-          item_valid: false
-          actor_valid: false
-          switch1_id: 361
-          switch2_id: 1
-          variable_id: 1
-          variable_value: 0
-          self_switch_ch: A
-          item_id: 1
-          actor_id: 1
-        graphic: !ruby/object:RPG::Event::Page::Graphic
-          tile_id: 0
-          character_name: Mao
-          character_index: 0
-          direction: 6
-          pattern: 1
-        move_type: 0
-        move_speed: 3
-        move_frequency: 3
-        move_route: !ruby/object:RPG::MoveRoute
-          repeat: true
-          skippable: false
-          wait: false
-          list:
-            - !ruby/object:RPG::MoveCommand { code: 0, parameters: [] }
-        walk_anime: true
-        step_anime: false
-        direction_fix: false
-        through: false
-        priority_type: 2
-        trigger: 3
-        list:
-          - !ruby/object:RPG::EventCommand { i: 0, c: 321, p: [1, 1] }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 316,
-              p: [0, 0, 0, 1, 16, false],
-            }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 314, p: [0, 0] }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 241,
-              p:
-                [
-                  !ruby/object:RPG::BGM {
-                    name: Town1,
-                    volume: 100,
-                    pitch: 100,
-                  },
-                ],
-            }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 213, p: [3, 7, false] }
-          - !ruby/object:RPG::EventCommand
-            i: 0
-            c: 205
-            p:
-              - 3
-              - !ruby/object:RPG::MoveRoute
-                repeat: false
-                skippable: false
-                wait: true
-                list:
-                  - !ruby/object:RPG::MoveCommand &22 {
-                      code: 29,
-                      parameters: [3],
-                    }
-                  - !ruby/object:RPG::MoveCommand &23 {
-                      code: 13,
-                      parameters: [],
-                    }
-                  - !ruby/object:RPG::MoveCommand { code: 0, parameters: [] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 505, p: [*22] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 505, p: [*23] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 117, p: [474] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [マオ] }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [「うぅ…童貞も堕とせないなんて],
-            }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [　私は夢魔失格だな…],
-            }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 117, p: [478] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [マオ] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [「不本意だが] }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [　今はお前の言う事を信じるとしよう…],
-            }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 117, p: [471] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [マオ] }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [「だが私の保護など不要だ。],
-            }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [　私は残りの魔物達を連れて森に帰るとするよ。],
-            }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 117, p: [478] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [マオ] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [「保護するなら] }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [　メアを近くにおいてやってくれないか？],
-            }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 117, p: [474] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [マオ] }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [「あいつはお前の傍にいたいみたいだし],
-            }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [　よく人間の街に忍び込んだりして],
-            }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [　危なっかしいんだ…],
-            }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 235, p: [20] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 213, p: [-1, 8, true] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 117, p: [472] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [マオ] }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [「私の事なら心配ない…],
-            }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [　メアの近くくらいなら],
-            }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [　いつでも飛んでいけるからな。],
-            }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 117, p: [476] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [マオ] }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [「今度会う時までには],
-            }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [　人間に化ける術でも覚えておくよ。],
-            }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 117, p: [471] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [マオ] }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [「私に牢屋で襲われたから],
-            }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [　魔王を倒しておいたとでも],
-            }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [　説明しておいてくれ。],
-            }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 117, p: [472] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [マオ] }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [「ではさらばだ！],
-            }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [　メアのこと、よろしく頼んだぞ！],
-            }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 235, p: [20] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 212, p: [0, 82, true] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 212, p: [0, 76, false] }
-          - !ruby/object:RPG::EventCommand
-            i: 0
-            c: 205
-            p:
-              - 0
-              - !ruby/object:RPG::MoveRoute
-                repeat: false
-                skippable: false
-                wait: false
-                list:
-                  - !ruby/object:RPG::MoveCommand &24 {
-                      code: 41,
-                      parameters: ["", 0],
-                    }
-                  - !ruby/object:RPG::MoveCommand { code: 0, parameters: [] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 505, p: [*24] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 213, p: [-1, 8, false] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 230, p: [60] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 221, p: [] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 1, 1] }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [こうして魔王は人間の前から姿を消した…],
-            }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: ['Taroは魔王を退けた功績はもちろんのこと'],
-            }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [元々勇者の継承者は国のトップに立つべき存在である為],
-            }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [この国の王として人々を導くことになった…],
-            }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 1, 1] }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [魔王との約束通り、魔物達も人間の前から姿を消し],
-            }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [メアの協力もあって夢魔と化していた女性達も元に戻り],
-            }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [世界は平和を取り戻した…！],
-            }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 230, p: [60] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 111, p: [1, 29, 0, 0, 0] }
-          - !ruby/object:RPG::EventCommand { i: 1, c: 111, p: [1, 52, 0, 0, 0] }
-          - !ruby/object:RPG::EventCommand { i: 2, c: 111, p: [1, 63, 0, 0, 0] }
-          - !ruby/object:RPG::EventCommand {
-              i: 3,
-              c: 111,
-              p: [1, 113, 0, 0, 0],
-            }
-          - !ruby/object:RPG::EventCommand {
-              i: 4,
-              c: 111,
-              p: [1, 133, 0, 0, 0],
-            }
-          - !ruby/object:RPG::EventCommand {
-              i: 5,
-              c: 111,
-              p: [1, 163, 0, 0, 0],
-            }
-          - !ruby/object:RPG::EventCommand {
-              i: 6,
-              c: 111,
-              p: [1, 181, 0, 0, 0],
-            }
-          - !ruby/object:RPG::EventCommand {
-              i: 7,
-              c: 111,
-              p: [1, 201, 0, 0, 0],
-            }
-          - !ruby/object:RPG::EventCommand { i: 8, c: 121, p: [399, 399, 0] }
-          - !ruby/object:RPG::EventCommand { i: 8, c: 0, p: [] }
-          - !ruby/object:RPG::EventCommand { i: 7, c: 412, p: [] }
-          - !ruby/object:RPG::EventCommand { i: 7, c: 0, p: [] }
-          - !ruby/object:RPG::EventCommand { i: 6, c: 412, p: [] }
-          - !ruby/object:RPG::EventCommand { i: 6, c: 0, p: [] }
-          - !ruby/object:RPG::EventCommand { i: 5, c: 412, p: [] }
-          - !ruby/object:RPG::EventCommand { i: 5, c: 0, p: [] }
-          - !ruby/object:RPG::EventCommand { i: 4, c: 412, p: [] }
-          - !ruby/object:RPG::EventCommand { i: 4, c: 0, p: [] }
-          - !ruby/object:RPG::EventCommand { i: 3, c: 412, p: [] }
-          - !ruby/object:RPG::EventCommand { i: 3, c: 0, p: [] }
-          - !ruby/object:RPG::EventCommand { i: 2, c: 412, p: [] }
-          - !ruby/object:RPG::EventCommand { i: 2, c: 0, p: [] }
-          - !ruby/object:RPG::EventCommand { i: 1, c: 412, p: [] }
-          - !ruby/object:RPG::EventCommand { i: 1, c: 0, p: [] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 412, p: [] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 121, p: [400, 400, 0] }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 241,
-              p:
-                [
-                  !ruby/object:RPG::BGM {
-                    name: Scene5,
-                    volume: 100,
-                    pitch: 100,
-                  },
-                ],
-            }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 201,
-              p: [0, 35, 11, 19, 2, 0],
-            }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 222, p: [] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 0, p: [] }
-      - !ruby/object:RPG::Event::Page
-        condition: !ruby/object:RPG::Event::Page::Condition
-          switch1_valid: true
-          switch2_valid: false
-          variable_valid: false
-          self_switch_valid: false
-          item_valid: false
-          actor_valid: false
-          switch1_id: 371
-          switch2_id: 1
-          variable_id: 1
-          variable_value: 0
-          self_switch_ch: A
-          item_id: 1
-          actor_id: 1
-        graphic: !ruby/object:RPG::Event::Page::Graphic
-          tile_id: 0
-          character_name: Mao
-          character_index: 0
-          direction: 6
-          pattern: 1
-        move_type: 0
-        move_speed: 3
-        move_frequency: 3
-        move_route: !ruby/object:RPG::MoveRoute
-          repeat: true
-          skippable: false
-          wait: false
-          list:
-            - !ruby/object:RPG::MoveCommand { code: 0, parameters: [] }
-        walk_anime: true
-        step_anime: false
-        direction_fix: false
-        through: false
-        priority_type: 2
-        trigger: 3
-        list:
-          - !ruby/object:RPG::EventCommand
-            i: 0
-            c: 205
-            p:
-              - -1
-              - !ruby/object:RPG::MoveRoute
-                repeat: false
-                skippable: false
-                wait: false
-                list:
-                  - !ruby/object:RPG::MoveCommand &25 {
-                      code: 41,
-                      parameters: ["", 0],
-                    }
-                  - !ruby/object:RPG::MoveCommand { code: 0, parameters: [] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 505, p: [*25] }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 241,
-              p:
-                [
-                  !ruby/object:RPG::BGM {
-                    name: Dungeon2,
-                    volume: 100,
-                    pitch: 100,
-                  },
-                ],
-            }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 117, p: [6] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 213, p: [0, 4, true] }
-          - !ruby/object:RPG::EventCommand
-            i: 0
-            c: 205
-            p:
-              - 0
-              - !ruby/object:RPG::MoveRoute
-                repeat: false
-                skippable: false
-                wait: true
-                list:
-                  - !ruby/object:RPG::MoveCommand &26 {
-                      code: 29,
-                      parameters: [2],
-                    }
-                  - !ruby/object:RPG::MoveCommand &27 {
-                      code: 37,
-                      parameters: [],
-                    }
-                  - !ruby/object:RPG::MoveCommand &28 {
-                      code: 35,
-                      parameters: [],
-                    }
-                  - !ruby/object:RPG::MoveCommand &29 {
-                      code: 2,
-                      parameters: [],
-                    }
-                  - !ruby/object:RPG::MoveCommand &30 {
-                      code: 36,
-                      parameters: [],
-                    }
-                  - !ruby/object:RPG::MoveCommand { code: 0, parameters: [] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 505, p: [*26] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 505, p: [*27] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 505, p: [*28] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 505, p: [*29] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 505, p: [*30] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 117, p: [472] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [マオ] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [「フフ…♡] }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [　まさかこんな簡単にいくとはな！],
-            }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 117, p: [471] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [マオ] }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [「これが勇者の力か…],
-            }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [　これさえあれば人間達を今すぐにでも],
-            }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [　制圧することができる…！],
-            }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 117, p: [478] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [マオ] }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [「だが今すぐ私がここを飛び出してしまっては],
-            }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [　人間達は蜘蛛の子のように],
-            }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [　逃げ出してしまうか…],
-            }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 117, p: [476] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [マオ] }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [「なるべく多くの人間を],
-            }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [　捕えて奴隷にしなくては],
-            }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [　我々の生活も楽にはならないし…],
-            }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 117, p: [471] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 0, 2] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 401, p: [マオ] }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [「ここはこの状況を利用して],
-            }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [　人間達を一人も逃がさず捕える作戦を],
-            }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [　考えなくてはな…フフフ…],
-            }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 235, p: [20] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 117, p: [652] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 230, p: [60] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 221, p: [] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 1, 1] }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: ['Taroを倒し力を奪った後もマオは牢屋に残り'],
-            }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [裁判の日を大人しく待っていた…],
-            }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 101, p: ["", 0, 1, 1] }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [彼女の邪悪な計画を知りつつも],
-            }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: ['奴隷となってしまったTaroは'],
-            }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 401,
-              p: [その計画を手伝うことになってしまった…],
-            }
-          - !ruby/object:RPG::EventCommand
-            i: 0
-            c: 205
-            p:
-              - -1
-              - !ruby/object:RPG::MoveRoute
-                repeat: false
-                skippable: false
-                wait: true
-                list:
-                  - !ruby/object:RPG::MoveCommand &31 {
-                      code: 38,
-                      parameters: [],
-                    }
-                  - !ruby/object:RPG::MoveCommand &32 {
-                      code: 36,
-                      parameters: [],
-                    }
-                  - !ruby/object:RPG::MoveCommand &33 {
-                      code: 41,
-                      parameters: [Hero, 0],
-                    }
-                  - !ruby/object:RPG::MoveCommand &34 {
-                      code: 29,
-                      parameters: [5],
-                    }
-                  - !ruby/object:RPG::MoveCommand { code: 0, parameters: [] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 505, p: [*31] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 505, p: [*32] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 505, p: [*33] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 505, p: [*34] }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 121, p: [373, 373, 0] }
-          - !ruby/object:RPG::EventCommand {
-              i: 0,
-              c: 201,
-              p: [0, 37, 6, 10, 6, 0],
-            }
-          - !ruby/object:RPG::EventCommand { i: 0, c: 0, p: [] }
-  4: !ruby/object:RPG::Event
-    id: 4
-    name: EV004
-    x: 9
-    y: 6
-    pages:
-      - !ruby/object:RPG::Event::Page
-        condition: !ruby/object:RPG::Event::Page::Condition
-          switch1_valid: true
-          switch2_valid: false
-          variable_valid: false
-          self_switch_valid: false
-          item_valid: false
-          actor_valid: false
-          switch1_id: 371
-          switch2_id: 1
-          variable_id: 1
-          variable_value: 0
-          self_switch_ch: A
-          item_id: 1
-          actor_id: 1
-        graphic: !ruby/object:RPG::Event::Page::Graphic
-          tile_id: 0
-          character_name: Damage1
-          character_index: 0
-          direction: 2
-          pattern: 0
-        move_type: 0
-        move_speed: 3
-        move_frequency: 3
-        move_route: !ruby/object:RPG::MoveRoute
-          repeat: true
-          skippable: false
-          wait: false
-          list:
-            - !ruby/object:RPG::MoveCommand { code: 0, parameters: [] }
-        walk_anime: true
-        step_anime: false
-        direction_fix: false
-        through: false
-        priority_type: 1
-        trigger: 0
-        list:
-          - !ruby/object:RPG::EventCommand { i: 0, c: 0, p: [] }
-parallax_sx: 0
-bgm: !ruby/object:RPG::BGM { name: "", volume: 100, pitch: 100 }
-tileset_id: 3
-encounter_step: 30
-width: 34
-data: !ruby/object:Table
-  dim: 3
-  x: 34
-  y: 17
-  z: 4
-  data:
-    - 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600
-    - 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600
-    - 0600 0600 1d53 1d51 1d51 1d51 1d47 1d51 1d51 1d51 1d51 1d51 1d51 1d51 1d51 1d51 1d47 1d51 1d51 1d51 1d51 1d51 1d51 1d51 1d51 1d51 1d47 1d51 1d51 1d51 1d51 1d55 0600 0600
-    - 0600 0600 1d50 1eb2 1eb2 1eb2 1d50 1eb2 1eb2 1eb2 1eb2 1eb2 1eb2 1eb2 1eb2 1eb2 1d50 1eb2 1eb2 1eb2 1eb2 1eb2 1eb2 1eb2 1eb2 1eb2 1d50 1eb2 1eb2 1eb2 1eb2 1d50 0600 0600
-    - 0600 0600 1d50 1eb8 1eb8 1eb8 1d50 1eb8 1eb8 1eb8 1eb8 1eb8 1eb8 1eb8 1eb8 1eb8 1d50 1eb8 1eb8 1eb8 1eb8 1eb8 1eb8 1eb8 1eb8 1eb8 1d50 1eb8 1eb8 1eb8 1eb8 1d50 0600 0600
-    - 0600 0600 1d50 0e22 0e14 0e24 1d50 0e22 0e14 0e14 0e14 0e14 0e14 0e14 0e14 0e24 1d50 0e22 0e14 0e14 0e14 0e14 0e14 0e14 0e14 0e24 1d50 0e22 0e14 0e14 0e24 1d50 0600 0600
-    - 0600 0600 1d50 0e10 0e00 0e18 1d50 0e10 0e00 0e00 0e00 0e00 0e00 0e00 0e00 0e18 1d50 0e10 0e00 0e00 0e00 0e00 0e00 0e00 0e00 0e18 1d50 0e10 0e00 0e00 0e18 1d50 0600 0600
-    - 0600 0600 1d50 0e10 0e00 0e18 1d5c 0e10 0e00 0e00 0e00 0e00 0e00 0e00 0e00 0e18 1d5c 0e10 0e00 0e00 0e00 0e00 0e00 0e00 0e00 0e18 1d5c 0e10 0e00 0e00 0e18 1d50 0600 0600
-    - 0600 0600 1d50 0e10 0e00 0e18 1eb7 0e10 0e00 0e00 0e00 0e00 0e00 0e00 0e00 0e18 1eb7 0e10 0e00 0e00 0e00 0e00 0e00 0e00 0e00 0e18 1eb7 0e10 0e00 0e00 0e18 1d50 0600 0600
-    - 0600 0600 1d50 0e10 0e00 0e18 1ebd 0e10 0e00 0e00 0e00 0e00 0e00 0e00 0e00 0e18 1ebd 0e10 0e00 0e00 0e00 0e00 0e00 0e00 0e00 0e18 1ebd 0e10 0e00 0e00 0e18 1d50 0600 0600
-    - 0600 0600 1d50 0e10 0e00 0e02 0e14 0e01 0e00 0e00 0e00 0e00 0e00 0e00 0e00 0e02 0e14 0e01 0e00 0e00 0e00 0e00 0e00 0e00 0e00 0e02 0e14 0e01 0e00 0e00 0e18 1d50 0600 0600
-    - 0600 0600 1d50 0e28 0e1c 0e1c 0e1c 0e1c 0e1c 0e1c 0e1c 0e1c 0e1c 0e1c 0e1c 0e1c 0e1c 0e1c 0e1c 0e1c 0e1c 0e1c 0e1c 0e1c 0e1c 0e1c 0e1c 0e1c 0e1c 0e1c 0e26 1d50 0600 0600
-    - 0600 0600 1d59 1d51 1d51 1d51 1d51 1d51 1d51 1d51 1d51 1d51 1d51 1d51 1d51 1d51 1d51 1d51 1d51 1d51 1d51 1d51 1d51 1d51 1d51 1d51 1d51 1d51 1d51 1d51 1d51 1d57 0600 0600
-    - 0600 0600 1883 1882 1882 1882 1882 1882 1882 1882 1882 1882 1882 1882 1882 1882 1882 1882 1882 1882 1882 1882 1882 1882 1882 1882 1882 1882 1882 1882 1882 1886 0600 0600
-    - 0600 0600 1889 1888 1888 1888 1888 1888 1888 1888 1888 1888 1888 1888 1888 1888 1888 1888 1888 1888 1888 1888 1888 1888 1888 1888 1888 1888 1888 1888 1888 188c 0600 0600
-    - 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600
-    - 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600
-    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
-    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
-    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
-    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
-    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
-    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
-    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
-    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
-    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
-    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
-    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
-    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
-    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
-    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
-    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
-    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
-    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
-    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
-    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
-    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
-    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0026 0000 0000 0000 0026 0000 0000 0000 0000 0000 0026 0000 0000 0000 0026 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
-    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 002e 0000 00f2 0000 0036 0037 0045 0000 0000 0000 002e 0000 00f2 0000 0036 0037 0045 0000 0000 0000 0000 0000 0000 0000 0000
-    - 0000 0000 0000 0002 0000 0000 0000 0053 0000 0000 0000 00fa 00f9 003e 003f 004d 0000 0053 0000 0000 0000 00fa 00f9 003e 003f 004d 0000 0000 0000 0000 0001 0000 0000 0000
-    - 0000 0000 0000 0000 0000 0000 0000 005b 0000 0000 0000 0000 0000 0000 0068 0060 0000 005b 0000 0000 0000 0000 0000 0000 0068 0060 0000 0000 0000 0000 0000 0000 0000 0000
-    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
-    - 0000 0000 0000 0000 0000 0000 0000 00f5 00f6 00f6 00f7 0000 00f5 00f6 00f6 00f6 0000 00f6 00f6 00f6 00f6 00f7 0000 00f5 00f6 00f6 0000 0000 0000 0000 0000 0000 0000 0000
-    - 0000 0000 0000 0000 0000 0000 0000 00fd 00fe 00fe 00ff 0000 00fd 00fe 00fe 00fe 0000 00fe 00fe 00fe 00fe 00ff 0000 00fd 00fe 00fe 0000 0000 0000 0000 0000 0000 0000 0000
-    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
-    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
-    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
-    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
-    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
-    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
-    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
-    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
-    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
-    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
-    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0005 0000
-    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0005 0000
-    - 0000 0000 0000 0005 0000 0000 0000 0005 0000 0000 0000 0000 0000 0000 0000 0000 0000 0005 0000 0000 0000 0000 0000 0000 0000 0000 0000 0005 0000 0000 0000 0000 0005 0000
-    - 0000 0000 0000 0005 0000 0000 0000 0005 0000 0000 0000 0000 0000 0000 0000 0000 0000 0005 0000 0000 0000 0000 0000 0000 0000 0000 0000 0005 0000 0000 0000 0000 0005 0000
-    - 0000 0000 0000 0005 0000 0000 0000 0005 0000 0000 0000 0000 0000 0000 0000 0000 0000 0005 0000 0000 0000 0000 0000 0000 0000 0000 0000 0005 0000 0000 0000 0000 0005 0000
-    - 0000 0000 0000 0005 0000 0000 0000 0005 0000 0000 0000 0000 0000 0000 0000 0000 0000 0005 0000 0000 0000 0000 0000 0000 0000 0000 0000 0005 0000 0000 0000 0000 0005 0000
-    - 0000 0000 0000 0005 0000 0000 0000 0005 0000 0000 0000 0000 0000 0000 0000 0000 0000 0005 0000 0000 0000 0000 0000 0000 0000 0000 0000 0005 0000 0000 0000 0000 0005 0000
-    - 0000 0000 0000 0005 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0005 0000
-    - 0000 0000 0000 0005 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0005 0000
-    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0005 0000
-    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0005 0000
-    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0005 0000
-    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
-    - 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000
-bgs: !ruby/object:RPG::BGS { name: "", volume: 80, pitch: 100 }
-parallax_loop_y: false
-autoplay_bgm: false
-encounter_list: []
-autoplay_bgs: false
-parallax_show: false
-scroll_type: 0
-parallax_loop_x: false
-disable_dashing: false
-parallax_sy: 0
-display_name: ""
-specify_battleback: true
-note: ""
-battleback1_name: Castle
-battleback2_name: Stone2
+'parallax_name': ''
+'height': !!int '17'
+'events':
+  !!int '1': !ruby/object:RPG::Event
+    'id': !!int '1'
+    'name': 'ドア'
+    'x': !!int '11'
+    'y': !!int '9'
+    'pages':
+    - !ruby/object:RPG::Event::Page
+      'condition': !ruby/object:RPG::Event::Page::Condition
+        'switch1_valid': !!bool 'false'
+        'switch2_valid': !!bool 'false'
+        'variable_valid': !!bool 'false'
+        'self_switch_valid': !!bool 'false'
+        'item_valid': !!bool 'false'
+        'actor_valid': !!bool 'false'
+        'switch1_id': !!int '1'
+        'switch2_id': !!int '1'
+        'variable_id': !!int '1'
+        'variable_value': !!int '0'
+        'self_switch_ch': 'A'
+        'item_id': !!int '1'
+        'actor_id': !!int '1'
+      'graphic': !ruby/object:RPG::Event::Page::Graphic
+        'tile_id': !!int '0'
+        'character_name': '!Door3'
+        'character_index': !!int '0'
+        'direction': !!int '2'
+        'pattern': !!int '0'
+      'move_type': !!int '0'
+      'move_speed': !!int '3'
+      'move_frequency': !!int '3'
+      'move_route': !ruby/object:RPG::MoveRoute
+        'repeat': !!bool 'true'
+        'skippable': !!bool 'false'
+        'wait': !!bool 'false'
+        'list':
+        - !ruby/object:RPG::MoveCommand {'code': !!int '0', 'parameters': []}
+      'walk_anime': !!bool 'true'
+      'step_anime': !!bool 'false'
+      'direction_fix': !!bool 'true'
+      'through': !!bool 'false'
+      'priority_type': !!int '1'
+      'trigger': !!int '0'
+      'list':
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '0', 'p': []}
+    - !ruby/object:RPG::Event::Page
+      'condition': !ruby/object:RPG::Event::Page::Condition
+        'switch1_valid': !!bool 'true'
+        'switch2_valid': !!bool 'false'
+        'variable_valid': !!bool 'false'
+        'self_switch_valid': !!bool 'false'
+        'item_valid': !!bool 'false'
+        'actor_valid': !!bool 'false'
+        'switch1_id': !!int '355'
+        'switch2_id': !!int '1'
+        'variable_id': !!int '1'
+        'variable_value': !!int '0'
+        'self_switch_ch': 'A'
+        'item_id': !!int '1'
+        'actor_id': !!int '1'
+      'graphic': !ruby/object:RPG::Event::Page::Graphic
+        'tile_id': !!int '0'
+        'character_name': ''
+        'character_index': !!int '0'
+        'direction': !!int '2'
+        'pattern': !!int '0'
+      'move_type': !!int '0'
+      'move_speed': !!int '3'
+      'move_frequency': !!int '3'
+      'move_route': !ruby/object:RPG::MoveRoute
+        'repeat': !!bool 'true'
+        'skippable': !!bool 'false'
+        'wait': !!bool 'false'
+        'list':
+        - !ruby/object:RPG::MoveCommand {'code': !!int '0', 'parameters': []}
+      'walk_anime': !!bool 'true'
+      'step_anime': !!bool 'false'
+      'direction_fix': !!bool 'false'
+      'through': !!bool 'false'
+      'priority_type': !!int '0'
+      'trigger': !!int '0'
+      'list':
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '0', 'p': []}
+  !!int '2': !ruby/object:RPG::Event
+    'id': !!int '2'
+    'name': 'EV002'
+    'x': !!int '22'
+    'y': !!int '9'
+    'pages':
+    - !ruby/object:RPG::Event::Page
+      'condition': !ruby/object:RPG::Event::Page::Condition
+        'switch1_valid': !!bool 'false'
+        'switch2_valid': !!bool 'false'
+        'variable_valid': !!bool 'false'
+        'self_switch_valid': !!bool 'false'
+        'item_valid': !!bool 'false'
+        'actor_valid': !!bool 'false'
+        'switch1_id': !!int '1'
+        'switch2_id': !!int '1'
+        'variable_id': !!int '1'
+        'variable_value': !!int '0'
+        'self_switch_ch': 'A'
+        'item_id': !!int '1'
+        'actor_id': !!int '1'
+      'graphic': !ruby/object:RPG::Event::Page::Graphic
+        'tile_id': !!int '0'
+        'character_name': '!Door3'
+        'character_index': !!int '0'
+        'direction': !!int '2'
+        'pattern': !!int '0'
+      'move_type': !!int '0'
+      'move_speed': !!int '3'
+      'move_frequency': !!int '3'
+      'move_route': !ruby/object:RPG::MoveRoute
+        'repeat': !!bool 'true'
+        'skippable': !!bool 'false'
+        'wait': !!bool 'false'
+        'list':
+        - !ruby/object:RPG::MoveCommand {'code': !!int '0', 'parameters': []}
+      'walk_anime': !!bool 'true'
+      'step_anime': !!bool 'false'
+      'direction_fix': !!bool 'true'
+      'through': !!bool 'false'
+      'priority_type': !!int '1'
+      'trigger': !!int '0'
+      'list':
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '0', 'p': []}
+  !!int '3': !ruby/object:RPG::Event
+    'id': !!int '3'
+    'name': 'マオ'
+    'x': !!int '7'
+    'y': !!int '6'
+    'pages':
+    - !ruby/object:RPG::Event::Page
+      'condition': !ruby/object:RPG::Event::Page::Condition
+        'switch1_valid': !!bool 'false'
+        'switch2_valid': !!bool 'false'
+        'variable_valid': !!bool 'false'
+        'self_switch_valid': !!bool 'false'
+        'item_valid': !!bool 'false'
+        'actor_valid': !!bool 'false'
+        'switch1_id': !!int '1'
+        'switch2_id': !!int '1'
+        'variable_id': !!int '1'
+        'variable_value': !!int '0'
+        'self_switch_ch': 'A'
+        'item_id': !!int '1'
+        'actor_id': !!int '1'
+      'graphic': !ruby/object:RPG::Event::Page::Graphic
+        'tile_id': !!int '0'
+        'character_name': 'Mao'
+        'character_index': !!int '0'
+        'direction': !!int '2'
+        'pattern': !!int '1'
+      'move_type': !!int '0'
+      'move_speed': !!int '3'
+      'move_frequency': !!int '3'
+      'move_route': !ruby/object:RPG::MoveRoute
+        'repeat': !!bool 'true'
+        'skippable': !!bool 'false'
+        'wait': !!bool 'false'
+        'list':
+        - !ruby/object:RPG::MoveCommand {'code': !!int '0', 'parameters': []}
+      'walk_anime': !!bool 'true'
+      'step_anime': !!bool 'false'
+      'direction_fix': !!bool 'false'
+      'through': !!bool 'true'
+      'priority_type': !!int '2'
+      'trigger': !!int '3'
+      'list':
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['You can change weaknesses and save before entering
+
+            the battle with the Demon Lord Mao.']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '352', 'p': []}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '118', 'p': ['選択肢0']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '102', 'p': [['Choices', 'Change weaknesses', 'Don''t do it'], !!int '0']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '402', 'p': [!!int '0', '選択肢']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '119', 'p': ['選択肢0']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '0', 'p': []}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '402', 'p': [!!int '1', '弱点変更する']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '27']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '0', 'p': []}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '402', 'p': [!!int '2', 'しない']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '0', 'p': []}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '404', 'p': []}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '241', 'p': [!ruby/object:RPG::BGM {'name': 'Dungeon1', 'volume': !!int '100', 'pitch': !!int '100'}]}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '111', 'p': [!!int '0', !!int '119', !!int '0']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['Would you like to skip the event?']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '118', 'p': ['選択肢１']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '102', 'p': [['Choices', 'Yes', 'No'], !!int '0']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '402', 'p': [!!int '0', '選択肢']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '119', 'p': ['選択肢１']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '0', 'p': []}
+      - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '402', 'p': [!!int '1', 'はい']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '222', 'p': []}
+      - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '201', 'p': [!!int '0', !!int '34', !!int '9', !!int '6', !!int '4', !!int '0']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '203', 'p': [!!int '3', !!int '0', !!int '8', !!int '6', !!int '6']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '119', 'p': ['End']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '0', 'p': []}
+      - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '402', 'p': [!!int '2', 'いいえ']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '0', 'p': []}
+      - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '404', 'p': []}
+      - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '0', 'p': []}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '412', 'p': []}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '1', !!int '1']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Several days after capturing the Demon Lord...
+
+            Taro was asked to watch over the imprisoned Demon
+
+            Lord in the cell...']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '222', 'p': []}
+      - !ruby/object:RPG::EventCommand
+        'i': !!int '0'
+        'c': !!int '205'
+        'p':
+        - !!int '-1'
+        - !ruby/object:RPG::MoveRoute
+          'repeat': !!bool 'false'
+          'skippable': !!bool 'false'
+          'wait': !!bool 'false'
+          'list':
+          - &1 !ruby/object:RPG::MoveCommand {'code': !!int '29', 'parameters': [!!int '3']}
+          - &2 !ruby/object:RPG::MoveCommand {'code': !!int '3', 'parameters': []}
+          - &3 !ruby/object:RPG::MoveCommand {'code': !!int '3', 'parameters': []}
+          - &4 !ruby/object:RPG::MoveCommand {'code': !!int '3', 'parameters': []}
+          - &5 !ruby/object:RPG::MoveCommand {'code': !!int '3', 'parameters': []}
+          - &6 !ruby/object:RPG::MoveCommand {'code': !!int '3', 'parameters': []}
+          - &7 !ruby/object:RPG::MoveCommand {'code': !!int '3', 'parameters': []}
+          - &8 !ruby/object:RPG::MoveCommand {'code': !!int '19', 'parameters': []}
+          - &9 !ruby/object:RPG::MoveCommand {'code': !!int '29', 'parameters': [!!int '5']}
+          - !ruby/object:RPG::MoveCommand {'code': !!int '0', 'parameters': []}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '505', 'p': [*1]}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '505', 'p': [*2]}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '505', 'p': [*3]}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '505', 'p': [*4]}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '505', 'p': [*5]}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '505', 'p': [*6]}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '505', 'p': [*7]}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '505', 'p': [*8]}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '505', 'p': [*9]}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '230', 'p': [!!int '60']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '213', 'p': [!!int '3', !!int '1', !!bool 'false']}
+      - !ruby/object:RPG::EventCommand
+        'i': !!int '0'
+        'c': !!int '205'
+        'p':
+        - !!int '3'
+        - !ruby/object:RPG::MoveRoute
+          'repeat': !!bool 'false'
+          'skippable': !!bool 'false'
+          'wait': !!bool 'true'
+          'list':
+          - &10 !ruby/object:RPG::MoveCommand {'code': !!int '15', 'parameters': [!!int '10']}
+          - &11 !ruby/object:RPG::MoveCommand {'code': !!int '3', 'parameters': []}
+          - &12 !ruby/object:RPG::MoveCommand {'code': !!int '3', 'parameters': []}
+          - &13 !ruby/object:RPG::MoveCommand {'code': !!int '3', 'parameters': []}
+          - &14 !ruby/object:RPG::MoveCommand {'code': !!int '3', 'parameters': []}
+          - &15 !ruby/object:RPG::MoveCommand {'code': !!int '16', 'parameters': []}
+          - !ruby/object:RPG::MoveCommand {'code': !!int '0', 'parameters': []}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '505', 'p': [*10]}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '505', 'p': [*11]}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '505', 'p': [*12]}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '505', 'p': [*13]}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '505', 'p': [*14]}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '505', 'p': [*15]}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '478']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mao: "Hah... To think I''d even be served meals
+
+            with such courtesy, I must be underestimated..."']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '121', 'p': [!!int '355', !!int '355', !!int '0']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '213', 'p': [!!int '-1', !!int '8', !!bool 'false']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '474']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mao: "Moreover, even the door is unlocked... In
+
+            front of the hero, I''m no different than a human
+
+            or a lowly monster..."']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '470']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mao: "Now that I think about it, I haven''t
+
+            introduced myself yet... My name is Mao... the
+
+            third Demon Lord and Mare''s sister."']}
+      - !ruby/object:RPG::EventCommand
+        'i': !!int '0'
+        'c': !!int '205'
+        'p':
+        - !!int '3'
+        - !ruby/object:RPG::MoveRoute
+          'repeat': !!bool 'false'
+          'skippable': !!bool 'false'
+          'wait': !!bool 'true'
+          'list':
+          - &16 !ruby/object:RPG::MoveCommand {'code': !!int '17', 'parameters': []}
+          - !ruby/object:RPG::MoveCommand {'code': !!int '0', 'parameters': []}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '505', 'p': [*16]}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '476']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mao: "Won''t you talk for a bit? There are things I
+
+            want to discuss with you..."']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '235', 'p': [!!int '20']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '221', 'p': []}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '230', 'p': [!!int '30']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '201', 'p': [!!int '0', !!int '34', !!int '9', !!int '6', !!int '4', !!int '0']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '203', 'p': [!!int '0', !!int '0', !!int '7', !!int '6', !!int '2']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '222', 'p': []}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '471']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mao: "By the way... It seems you helped Mare
+
+            before. As her sister, I thank you."']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '213', 'p': [!!int '-1', !!int '3', !!bool 'false']}
+      - !ruby/object:RPG::EventCommand
+        'i': !!int '0'
+        'c': !!int '205'
+        'p':
+        - !!int '3'
+        - !ruby/object:RPG::MoveRoute
+          'repeat': !!bool 'false'
+          'skippable': !!bool 'false'
+          'wait': !!bool 'true'
+          'list':
+          - &17 !ruby/object:RPG::MoveCommand {'code': !!int '18', 'parameters': []}
+          - !ruby/object:RPG::MoveCommand {'code': !!int '0', 'parameters': []}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '505', 'p': [*17]}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '474']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mao: "Humans live such abundant lives... Even the
+
+            cell is clean, and there''s even a meal served to
+
+            me, an enemy."']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mao: "On top of that, even the hero is on your
+
+            side. Don''t you think it''s a bit unfair?"']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '213', 'p': [!!int '-1', !!int '8', !!bool 'false']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '478']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mao: "That''s why I have a proposal..."']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '475']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mao: "Would you consider taking Mare as your
+
+            bride? If even the hero were on our side, we would
+
+            have no reason to attack humans..."']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '235', 'p': [!!int '20']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '213', 'p': [!!int '-1', !!int '6', !!bool 'true']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '474']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mao: "So, that''s it... Mare is cute, I think...
+
+            but maybe that''s not the issue here..."']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '477']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mao: "I-I''ll even throw myself in as part of the
+
+            deal! We... the monster girls need the hero''s
+
+            strength to live in peace...!"']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '235', 'p': [!!int '20']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '213', 'p': [!!int '-1', !!int '1', !!bool 'true']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '472']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mao: "Eh? Is there a chance you''re actually
+
+            considering it...?"']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '471']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mao: "That''s right! Let''s negotiate
+
+            peacefully...!"']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '470']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mao: "If the hero joins us, the conflict will
+
+            end..."']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '475']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mao: "If you agree to that, you can have Mare, me,
+
+            or any other monster girl as much as you want♪"']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '235', 'p': [!!int '20']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '213', 'p': [!!int '-1', !!int '8', !!bool 'true']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '471']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mao: "You don''t seem completely opposed♡ Alright,
+
+            then let''s start negotiating!"']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '235', 'p': [!!int '20']}
+      - !ruby/object:RPG::EventCommand
+        'i': !!int '0'
+        'c': !!int '205'
+        'p':
+        - !!int '3'
+        - !ruby/object:RPG::MoveRoute
+          'repeat': !!bool 'false'
+          'skippable': !!bool 'false'
+          'wait': !!bool 'true'
+          'list':
+          - &18 !ruby/object:RPG::MoveCommand {'code': !!int '37', 'parameters': []}
+          - &19 !ruby/object:RPG::MoveCommand {'code': !!int '3', 'parameters': []}
+          - !ruby/object:RPG::MoveCommand {'code': !!int '0', 'parameters': []}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '505', 'p': [*18]}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '505', 'p': [*19]}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '472']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mao: "If you can persuade me, I''ll listen to what
+
+            you have to say! But if you lack persuasive
+
+            power..."']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '476']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mao: "You''ll have to marry into our family♡"']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '235', 'p': [!!int '20']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '118', 'p': ['End']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '213', 'p': [!!int '-1', !!int '1', !!bool 'false']}
+      - !ruby/object:RPG::EventCommand
+        'i': !!int '0'
+        'c': !!int '205'
+        'p':
+        - !!int '3'
+        - !ruby/object:RPG::MoveRoute
+          'repeat': !!bool 'false'
+          'skippable': !!bool 'false'
+          'wait': !!bool 'true'
+          'list':
+          - &20 !ruby/object:RPG::MoveCommand {'code': !!int '37', 'parameters': []}
+          - &21 !ruby/object:RPG::MoveCommand {'code': !!int '14', 'parameters': [!!int '1', !!int '0']}
+          - !ruby/object:RPG::MoveCommand {'code': !!int '0', 'parameters': []}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '505', 'p': [*20]}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '505', 'p': [*21]}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '111', 'p': [!!int '0', !!int '86', !!int '0']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '301', 'p': [!!int '0', !!int '37', !!bool 'false', !!bool 'false']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '0', 'p': []}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '411', 'p': []}
+      - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '301', 'p': [!!int '0', !!int '38', !!bool 'false', !!bool 'false']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '0', 'p': []}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '412', 'p': []}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '0', 'p': []}
+    - !ruby/object:RPG::Event::Page
+      'condition': !ruby/object:RPG::Event::Page::Condition
+        'switch1_valid': !!bool 'true'
+        'switch2_valid': !!bool 'false'
+        'variable_valid': !!bool 'false'
+        'self_switch_valid': !!bool 'false'
+        'item_valid': !!bool 'false'
+        'actor_valid': !!bool 'false'
+        'switch1_id': !!int '361'
+        'switch2_id': !!int '1'
+        'variable_id': !!int '1'
+        'variable_value': !!int '0'
+        'self_switch_ch': 'A'
+        'item_id': !!int '1'
+        'actor_id': !!int '1'
+      'graphic': !ruby/object:RPG::Event::Page::Graphic
+        'tile_id': !!int '0'
+        'character_name': 'Mao'
+        'character_index': !!int '0'
+        'direction': !!int '6'
+        'pattern': !!int '1'
+      'move_type': !!int '0'
+      'move_speed': !!int '3'
+      'move_frequency': !!int '3'
+      'move_route': !ruby/object:RPG::MoveRoute
+        'repeat': !!bool 'true'
+        'skippable': !!bool 'false'
+        'wait': !!bool 'false'
+        'list':
+        - !ruby/object:RPG::MoveCommand {'code': !!int '0', 'parameters': []}
+      'walk_anime': !!bool 'true'
+      'step_anime': !!bool 'false'
+      'direction_fix': !!bool 'false'
+      'through': !!bool 'false'
+      'priority_type': !!int '2'
+      'trigger': !!int '3'
+      'list':
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '321', 'p': [!!int '1', !!int '1']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '316', 'p': [!!int '0', !!int '0', !!int '0', !!int '1', !!int '16', !!bool 'false']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '314', 'p': [!!int '0', !!int '0']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '241', 'p': [!ruby/object:RPG::BGM {'name': 'Town1', 'volume': !!int '100', 'pitch': !!int '100'}]}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '213', 'p': [!!int '3', !!int '7', !!bool 'false']}
+      - !ruby/object:RPG::EventCommand
+        'i': !!int '0'
+        'c': !!int '205'
+        'p':
+        - !!int '3'
+        - !ruby/object:RPG::MoveRoute
+          'repeat': !!bool 'false'
+          'skippable': !!bool 'false'
+          'wait': !!bool 'true'
+          'list':
+          - &22 !ruby/object:RPG::MoveCommand {'code': !!int '29', 'parameters': [!!int '3']}
+          - &23 !ruby/object:RPG::MoveCommand {'code': !!int '13', 'parameters': []}
+          - !ruby/object:RPG::MoveCommand {'code': !!int '0', 'parameters': []}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '505', 'p': [*22]}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '505', 'p': [*23]}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '474']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Maou: "Ugh... I can''t even seduce a virgin. I''m a
+
+            disgrace to succubi..."']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '478']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Maou: "Reluctantly, I''ll trust what you say for
+
+            now..."']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '471']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Maou: "But I don''t need your protection. I will
+
+            take the remaining demons and return to the
+
+            forest."']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '478']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Maou: "If you''re going to protect someone, could
+
+            you keep Mare close by?"']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '474']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Maou: "She seems to want to be by your side, and
+
+            she often sneaks into human towns, which is
+
+            risky..."']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '235', 'p': [!!int '20']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '213', 'p': [!!int '-1', !!int '8', !!bool 'true']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '472']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Maou: "Don''t worry about me... I can always fly to
+
+            Mare''s side whenever needed."']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '476']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Maou: "By the next time we meet, I''ll have learned
+
+            how to disguise myself as a human."']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '471']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Maou: "Just explain that you defeated the Demon
+
+            Lord because he attacked you in the cell."']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '472']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Maou: "Farewell then! Take good care of Mare for
+
+            me!"']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '235', 'p': [!!int '20']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '212', 'p': [!!int '0', !!int '82', !!bool 'true']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '212', 'p': [!!int '0', !!int '76', !!bool 'false']}
+      - !ruby/object:RPG::EventCommand
+        'i': !!int '0'
+        'c': !!int '205'
+        'p':
+        - !!int '0'
+        - !ruby/object:RPG::MoveRoute
+          'repeat': !!bool 'false'
+          'skippable': !!bool 'false'
+          'wait': !!bool 'false'
+          'list':
+          - &24 !ruby/object:RPG::MoveCommand {'code': !!int '41', 'parameters': ['', !!int '0']}
+          - !ruby/object:RPG::MoveCommand {'code': !!int '0', 'parameters': []}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '505', 'p': [*24]}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '213', 'p': [!!int '-1', !!int '8', !!bool 'false']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '230', 'p': [!!int '60']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '221', 'p': []}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '1', !!int '1']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['And so, the Demon Lord vanished from the presence
+
+            of humans... Taro, having defeated the Demon Lord
+
+            and being the rightful heir to the hero, was
+
+            destined to lead the country and thus became the
+
+            king, guiding his people...']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '1', !!int '1']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['As promised to the Demon Lord, the demons
+
+            disappeared from human sight, and with Mare''s
+
+            help, the women who had been turned into succubi
+
+            were restored, and the world regained peace...!']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '230', 'p': [!!int '60']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '111', 'p': [!!int '1', !!int '29', !!int '0', !!int '0', !!int '0']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '111', 'p': [!!int '1', !!int '52', !!int '0', !!int '0', !!int '0']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '111', 'p': [!!int '1', !!int '63', !!int '0', !!int '0', !!int '0']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '3', 'c': !!int '111', 'p': [!!int '1', !!int '113', !!int '0', !!int '0', !!int '0']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '4', 'c': !!int '111', 'p': [!!int '1', !!int '133', !!int '0', !!int '0', !!int '0']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '5', 'c': !!int '111', 'p': [!!int '1', !!int '163', !!int '0', !!int '0', !!int '0']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '6', 'c': !!int '111', 'p': [!!int '1', !!int '181', !!int '0', !!int '0', !!int '0']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '7', 'c': !!int '111', 'p': [!!int '1', !!int '201', !!int '0', !!int '0', !!int '0']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '8', 'c': !!int '121', 'p': [!!int '399', !!int '399', !!int '0']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '8', 'c': !!int '0', 'p': []}
+      - !ruby/object:RPG::EventCommand {'i': !!int '7', 'c': !!int '412', 'p': []}
+      - !ruby/object:RPG::EventCommand {'i': !!int '7', 'c': !!int '0', 'p': []}
+      - !ruby/object:RPG::EventCommand {'i': !!int '6', 'c': !!int '412', 'p': []}
+      - !ruby/object:RPG::EventCommand {'i': !!int '6', 'c': !!int '0', 'p': []}
+      - !ruby/object:RPG::EventCommand {'i': !!int '5', 'c': !!int '412', 'p': []}
+      - !ruby/object:RPG::EventCommand {'i': !!int '5', 'c': !!int '0', 'p': []}
+      - !ruby/object:RPG::EventCommand {'i': !!int '4', 'c': !!int '412', 'p': []}
+      - !ruby/object:RPG::EventCommand {'i': !!int '4', 'c': !!int '0', 'p': []}
+      - !ruby/object:RPG::EventCommand {'i': !!int '3', 'c': !!int '412', 'p': []}
+      - !ruby/object:RPG::EventCommand {'i': !!int '3', 'c': !!int '0', 'p': []}
+      - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '412', 'p': []}
+      - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '0', 'p': []}
+      - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '412', 'p': []}
+      - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '0', 'p': []}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '412', 'p': []}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '121', 'p': [!!int '400', !!int '400', !!int '0']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '241', 'p': [!ruby/object:RPG::BGM {'name': 'Scene5', 'volume': !!int '100', 'pitch': !!int '100'}]}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '201', 'p': [!!int '0', !!int '35', !!int '11', !!int '19', !!int '2', !!int '0']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '222', 'p': []}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '0', 'p': []}
+    - !ruby/object:RPG::Event::Page
+      'condition': !ruby/object:RPG::Event::Page::Condition
+        'switch1_valid': !!bool 'true'
+        'switch2_valid': !!bool 'false'
+        'variable_valid': !!bool 'false'
+        'self_switch_valid': !!bool 'false'
+        'item_valid': !!bool 'false'
+        'actor_valid': !!bool 'false'
+        'switch1_id': !!int '371'
+        'switch2_id': !!int '1'
+        'variable_id': !!int '1'
+        'variable_value': !!int '0'
+        'self_switch_ch': 'A'
+        'item_id': !!int '1'
+        'actor_id': !!int '1'
+      'graphic': !ruby/object:RPG::Event::Page::Graphic
+        'tile_id': !!int '0'
+        'character_name': 'Mao'
+        'character_index': !!int '0'
+        'direction': !!int '6'
+        'pattern': !!int '1'
+      'move_type': !!int '0'
+      'move_speed': !!int '3'
+      'move_frequency': !!int '3'
+      'move_route': !ruby/object:RPG::MoveRoute
+        'repeat': !!bool 'true'
+        'skippable': !!bool 'false'
+        'wait': !!bool 'false'
+        'list':
+        - !ruby/object:RPG::MoveCommand {'code': !!int '0', 'parameters': []}
+      'walk_anime': !!bool 'true'
+      'step_anime': !!bool 'false'
+      'direction_fix': !!bool 'false'
+      'through': !!bool 'false'
+      'priority_type': !!int '2'
+      'trigger': !!int '3'
+      'list':
+      - !ruby/object:RPG::EventCommand
+        'i': !!int '0'
+        'c': !!int '205'
+        'p':
+        - !!int '-1'
+        - !ruby/object:RPG::MoveRoute
+          'repeat': !!bool 'false'
+          'skippable': !!bool 'false'
+          'wait': !!bool 'false'
+          'list':
+          - &25 !ruby/object:RPG::MoveCommand {'code': !!int '41', 'parameters': ['', !!int '0']}
+          - !ruby/object:RPG::MoveCommand {'code': !!int '0', 'parameters': []}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '505', 'p': [*25]}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '241', 'p': [!ruby/object:RPG::BGM {'name': 'Dungeon2', 'volume': !!int '100', 'pitch': !!int '100'}]}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '6']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '213', 'p': [!!int '0', !!int '4', !!bool 'true']}
+      - !ruby/object:RPG::EventCommand
+        'i': !!int '0'
+        'c': !!int '205'
+        'p':
+        - !!int '0'
+        - !ruby/object:RPG::MoveRoute
+          'repeat': !!bool 'false'
+          'skippable': !!bool 'false'
+          'wait': !!bool 'true'
+          'list':
+          - &26 !ruby/object:RPG::MoveCommand {'code': !!int '29', 'parameters': [!!int '2']}
+          - &27 !ruby/object:RPG::MoveCommand {'code': !!int '37', 'parameters': []}
+          - &28 !ruby/object:RPG::MoveCommand {'code': !!int '35', 'parameters': []}
+          - &29 !ruby/object:RPG::MoveCommand {'code': !!int '2', 'parameters': []}
+          - &30 !ruby/object:RPG::MoveCommand {'code': !!int '36', 'parameters': []}
+          - !ruby/object:RPG::MoveCommand {'code': !!int '0', 'parameters': []}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '505', 'p': [*26]}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '505', 'p': [*27]}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '505', 'p': [*28]}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '505', 'p': [*29]}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '505', 'p': [*30]}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '472']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mao: "Hehe...♡ I can''t believe it went so
+
+            smoothly!"']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '471']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mao: "Is this the power of a hero...? With this, I
+
+            could subjugate the humans right now...!"']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '478']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mao: "But if I were to burst out of here right
+
+            now, the humans would scatter like baby
+
+            spiders..."']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '476']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mao: "I need to capture as many humans as possible
+
+            and enslave them, or our lives won''t get any
+
+            easier..."']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '471']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mao: "I must devise a plan to use this situation
+
+            to my advantage and capture every single human
+
+            without letting anyone escape... Hehehe..."']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '235', 'p': [!!int '20']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '652']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '230', 'p': [!!int '60']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '221', 'p': []}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '1', !!int '1']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Even after defeating Taro and stealing his power,
+
+            Mao remained in the cell, quietly waiting for the
+
+            day of her trial...']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '1', !!int '1']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Knowing her evil plan, Taro, who had become her
+
+            slave, was forced to help her with it...']}
+      - !ruby/object:RPG::EventCommand
+        'i': !!int '0'
+        'c': !!int '205'
+        'p':
+        - !!int '-1'
+        - !ruby/object:RPG::MoveRoute
+          'repeat': !!bool 'false'
+          'skippable': !!bool 'false'
+          'wait': !!bool 'true'
+          'list':
+          - &31 !ruby/object:RPG::MoveCommand {'code': !!int '38', 'parameters': []}
+          - &32 !ruby/object:RPG::MoveCommand {'code': !!int '36', 'parameters': []}
+          - &33 !ruby/object:RPG::MoveCommand {'code': !!int '41', 'parameters': ['Hero', !!int '0']}
+          - &34 !ruby/object:RPG::MoveCommand {'code': !!int '29', 'parameters': [!!int '5']}
+          - !ruby/object:RPG::MoveCommand {'code': !!int '0', 'parameters': []}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '505', 'p': [*31]}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '505', 'p': [*32]}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '505', 'p': [*33]}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '505', 'p': [*34]}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '121', 'p': [!!int '373', !!int '373', !!int '0']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '201', 'p': [!!int '0', !!int '37', !!int '6', !!int '10', !!int '6', !!int '0']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '0', 'p': []}
+  !!int '4': !ruby/object:RPG::Event
+    'id': !!int '4'
+    'name': 'EV004'
+    'x': !!int '9'
+    'y': !!int '6'
+    'pages':
+    - !ruby/object:RPG::Event::Page
+      'condition': !ruby/object:RPG::Event::Page::Condition
+        'switch1_valid': !!bool 'true'
+        'switch2_valid': !!bool 'false'
+        'variable_valid': !!bool 'false'
+        'self_switch_valid': !!bool 'false'
+        'item_valid': !!bool 'false'
+        'actor_valid': !!bool 'false'
+        'switch1_id': !!int '371'
+        'switch2_id': !!int '1'
+        'variable_id': !!int '1'
+        'variable_value': !!int '0'
+        'self_switch_ch': 'A'
+        'item_id': !!int '1'
+        'actor_id': !!int '1'
+      'graphic': !ruby/object:RPG::Event::Page::Graphic
+        'tile_id': !!int '0'
+        'character_name': 'Damage1'
+        'character_index': !!int '0'
+        'direction': !!int '2'
+        'pattern': !!int '0'
+      'move_type': !!int '0'
+      'move_speed': !!int '3'
+      'move_frequency': !!int '3'
+      'move_route': !ruby/object:RPG::MoveRoute
+        'repeat': !!bool 'true'
+        'skippable': !!bool 'false'
+        'wait': !!bool 'false'
+        'list':
+        - !ruby/object:RPG::MoveCommand {'code': !!int '0', 'parameters': []}
+      'walk_anime': !!bool 'true'
+      'step_anime': !!bool 'false'
+      'direction_fix': !!bool 'false'
+      'through': !!bool 'false'
+      'priority_type': !!int '1'
+      'trigger': !!int '0'
+      'list':
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '0', 'p': []}
+'parallax_sx': !!int '0'
+'bgm': !ruby/object:RPG::BGM {'name': '', 'volume': !!int '100', 'pitch': !!int '100'}
+'tileset_id': !!int '3'
+'encounter_step': !!int '30'
+'width': !!int '34'
+'data': !ruby/object:Table
+  'dim': !!int '3'
+  'x': !!int '34'
+  'y': !!int '17'
+  'z': !!int '4'
+  'data':
+  - '0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600'
+  - '0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600'
+  - '0600 0600 1d53 1d51 1d51 1d51 1d47 1d51 1d51 1d51 1d51 1d51 1d51 1d51 1d51 1d51 1d47 1d51 1d51 1d51 1d51 1d51 1d51 1d51 1d51 1d51 1d47 1d51 1d51 1d51 1d51 1d55 0600 0600'
+  - '0600 0600 1d50 1eb2 1eb2 1eb2 1d50 1eb2 1eb2 1eb2 1eb2 1eb2 1eb2 1eb2 1eb2 1eb2 1d50 1eb2 1eb2 1eb2 1eb2 1eb2 1eb2 1eb2 1eb2 1eb2 1d50 1eb2 1eb2 1eb2 1eb2 1d50 0600 0600'
+  - '0600 0600 1d50 1eb8 1eb8 1eb8 1d50 1eb8 1eb8 1eb8 1eb8 1eb8 1eb8 1eb8 1eb8 1eb8 1d50 1eb8 1eb8 1eb8 1eb8 1eb8 1eb8 1eb8 1eb8 1eb8 1d50 1eb8 1eb8 1eb8 1eb8 1d50 0600 0600'
+  - '0600 0600 1d50 0e22 0e14 0e24 1d50 0e22 0e14 0e14 0e14 0e14 0e14 0e14 0e14 0e24 1d50 0e22 0e14 0e14 0e14 0e14 0e14 0e14 0e14 0e24 1d50 0e22 0e14 0e14 0e24 1d50 0600 0600'
+  - '0600 0600 1d50 0e10 0e00 0e18 1d50 0e10 0e00 0e00 0e00 0e00 0e00 0e00 0e00 0e18 1d50 0e10 0e00 0e00 0e00 0e00 0e00 0e00 0e00 0e18 1d50 0e10 0e00 0e00 0e18 1d50 0600 0600'
+  - '0600 0600 1d50 0e10 0e00 0e18 1d5c 0e10 0e00 0e00 0e00 0e00 0e00 0e00 0e00 0e18 1d5c 0e10 0e00 0e00 0e00 0e00 0e00 0e00 0e00 0e18 1d5c 0e10 0e00 0e00 0e18 1d50 0600 0600'
+  - '0600 0600 1d50 0e10 0e00 0e18 1eb7 0e10 0e00 0e00 0e00 0e00 0e00 0e00 0e00 0e18 1eb7 0e10 0e00 0e00 0e00 0e00 0e00 0e00 0e00 0e18 1eb7 0e10 0e00 0e00 0e18 1d50 0600 0600'
+  - '0600 0600 1d50 0e10 0e00 0e18 1ebd 0e10 0e00 0e00 0e00 0e00 0e00 0e00 0e00 0e18 1ebd 0e10 0e00 0e00 0e00 0e00 0e00 0e00 0e00 0e18 1ebd 0e10 0e00 0e00 0e18 1d50 0600 0600'
+  - '0600 0600 1d50 0e10 0e00 0e02 0e14 0e01 0e00 0e00 0e00 0e00 0e00 0e00 0e00 0e02 0e14 0e01 0e00 0e00 0e00 0e00 0e00 0e00 0e00 0e02 0e14 0e01 0e00 0e00 0e18 1d50 0600 0600'
+  - '0600 0600 1d50 0e28 0e1c 0e1c 0e1c 0e1c 0e1c 0e1c 0e1c 0e1c 0e1c 0e1c 0e1c 0e1c 0e1c 0e1c 0e1c 0e1c 0e1c 0e1c 0e1c 0e1c 0e1c 0e1c 0e1c 0e1c 0e1c 0e1c 0e26 1d50 0600 0600'
+  - '0600 0600 1d59 1d51 1d51 1d51 1d51 1d51 1d51 1d51 1d51 1d51 1d51 1d51 1d51 1d51 1d51 1d51 1d51 1d51 1d51 1d51 1d51 1d51 1d51 1d51 1d51 1d51 1d51 1d51 1d51 1d57 0600 0600'
+  - '0600 0600 1883 1882 1882 1882 1882 1882 1882 1882 1882 1882 1882 1882 1882 1882 1882 1882 1882 1882 1882 1882 1882 1882 1882 1882 1882 1882 1882 1882 1882 1886 0600 0600'
+  - '0600 0600 1889 1888 1888 1888 1888 1888 1888 1888 1888 1888 1888 1888 1888 1888 1888 1888 1888 1888 1888 1888 1888 1888 1888 1888 1888 1888 1888 1888 1888 188c 0600 0600'
+  - '0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600'
+  - '0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600 0600'
+  - '0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000'
+  - '0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000'
+  - '0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000'
+  - '0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000'
+  - '0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000'
+  - '0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000'
+  - '0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000'
+  - '0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000'
+  - '0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000'
+  - '0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000'
+  - '0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000'
+  - '0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000'
+  - '0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000'
+  - '0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000'
+  - '0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000'
+  - '0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000'
+  - '0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000'
+  - '0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000'
+  - '0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000'
+  - '0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000'
+  - '0000 0000 0000 0000 0000 0000 0000 0000 0000 0026 0000 0000 0000 0026 0000 0000 0000 0000 0000 0026 0000 0000 0000 0026 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000'
+  - '0000 0000 0000 0000 0000 0000 0000 0000 0000 002e 0000 00f2 0000 0036 0037 0045 0000 0000 0000 002e 0000 00f2 0000 0036 0037 0045 0000 0000 0000 0000 0000 0000 0000 0000'
+  - '0000 0000 0000 0002 0000 0000 0000 0053 0000 0000 0000 00fa 00f9 003e 003f 004d 0000 0053 0000 0000 0000 00fa 00f9 003e 003f 004d 0000 0000 0000 0000 0001 0000 0000 0000'
+  - '0000 0000 0000 0000 0000 0000 0000 005b 0000 0000 0000 0000 0000 0000 0068 0060 0000 005b 0000 0000 0000 0000 0000 0000 0068 0060 0000 0000 0000 0000 0000 0000 0000 0000'
+  - '0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000'
+  - '0000 0000 0000 0000 0000 0000 0000 00f5 00f6 00f6 00f7 0000 00f5 00f6 00f6 00f6 0000 00f6 00f6 00f6 00f6 00f7 0000 00f5 00f6 00f6 0000 0000 0000 0000 0000 0000 0000 0000'
+  - '0000 0000 0000 0000 0000 0000 0000 00fd 00fe 00fe 00ff 0000 00fd 00fe 00fe 00fe 0000 00fe 00fe 00fe 00fe 00ff 0000 00fd 00fe 00fe 0000 0000 0000 0000 0000 0000 0000 0000'
+  - '0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000'
+  - '0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000'
+  - '0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000'
+  - '0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000'
+  - '0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000'
+  - '0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000'
+  - '0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000'
+  - '0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000'
+  - '0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000'
+  - '0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000'
+  - '0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0005 0000'
+  - '0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0005 0000'
+  - '0000 0000 0000 0005 0000 0000 0000 0005 0000 0000 0000 0000 0000 0000 0000 0000 0000 0005 0000 0000 0000 0000 0000 0000 0000 0000 0000 0005 0000 0000 0000 0000 0005 0000'
+  - '0000 0000 0000 0005 0000 0000 0000 0005 0000 0000 0000 0000 0000 0000 0000 0000 0000 0005 0000 0000 0000 0000 0000 0000 0000 0000 0000 0005 0000 0000 0000 0000 0005 0000'
+  - '0000 0000 0000 0005 0000 0000 0000 0005 0000 0000 0000 0000 0000 0000 0000 0000 0000 0005 0000 0000 0000 0000 0000 0000 0000 0000 0000 0005 0000 0000 0000 0000 0005 0000'
+  - '0000 0000 0000 0005 0000 0000 0000 0005 0000 0000 0000 0000 0000 0000 0000 0000 0000 0005 0000 0000 0000 0000 0000 0000 0000 0000 0000 0005 0000 0000 0000 0000 0005 0000'
+  - '0000 0000 0000 0005 0000 0000 0000 0005 0000 0000 0000 0000 0000 0000 0000 0000 0000 0005 0000 0000 0000 0000 0000 0000 0000 0000 0000 0005 0000 0000 0000 0000 0005 0000'
+  - '0000 0000 0000 0005 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0005 0000'
+  - '0000 0000 0000 0005 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0005 0000'
+  - '0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0005 0000'
+  - '0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0005 0000'
+  - '0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0005 0000'
+  - '0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000'
+  - '0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000'
+'bgs': !ruby/object:RPG::BGS {'name': '', 'volume': !!int '80', 'pitch': !!int '100'}
+'parallax_loop_y': !!bool 'false'
+'autoplay_bgm': !!bool 'false'
+'encounter_list': []
+'autoplay_bgs': !!bool 'false'
+'parallax_show': !!bool 'false'
+'scroll_type': !!int '0'
+'parallax_loop_x': !!bool 'false'
+'disable_dashing': !!bool 'false'
+'parallax_sy': !!int '0'
+'display_name': ''
+'specify_battleback': !!bool 'true'
+'note': ''
+'battleback1_name': 'Castle'
+'battleback2_name': 'Stone2'
