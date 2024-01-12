@@ -56,7 +56,7 @@
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Girl''s Voice: "Ah! I''ve finally found you!']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '231', 'p': [!!int '20', 'Mare PC 笑顔_1', !!int '1', !!int '0', !!int '560', !!int '530', !!int '100', !!int '100', !!int '255', !!int '0']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mare: "Nice to meet you, Taro-san♪ I''m Mare, a
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mare: "Nice to meet you, \N[1]-san♪ I''m Mare, a
 
             succubus!']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '235', 'p': [!!int '20']}
@@ -85,7 +85,7 @@
 
             summarize the important things!']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mare: "First of all, Taro-san, from now on...
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mare: "First of all, \N[1]-san, from now on...
 
             various women will be after your chastity!']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '213', 'p': [!!int '-1', !!int '2', !!bool 'false']}
@@ -175,7 +175,7 @@
             a secret for now...']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '231', 'p': [!!int '20', 'Mare 嬉しい_1', !!int '1', !!int '0', !!int '560', !!int '530', !!int '100', !!int '100', !!int '255', !!int '0']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mare: "But I''m on your side, Taro-san! That''s why
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mare: "But I''m on your side, \N[1]-san! That''s why
 
             I''m telling you all this.']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '231', 'p': [!!int '20', 'Mare PC 笑顔_1', !!int '1', !!int '0', !!int '560', !!int '530', !!int '100', !!int '100', !!int '255', !!int '0']}
@@ -192,7 +192,7 @@
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mare: "That is... could you please tell me your
 
-            sexual weaknesses, Taro-san?']}
+            sexual weaknesses, \N[1]-san?']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '235', 'p': [!!int '20']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '213', 'p': [!!int '-1', !!int '6', !!bool 'true']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '231', 'p': [!!int '20', 'Mare びっくり_1', !!int '1', !!int '0', !!int '560', !!int '530', !!int '100', !!int '100', !!int '255', !!int '0']}
@@ -204,7 +204,7 @@
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mare: "I''ll research in advance which girls have
 
-            weaknesses that match yours, Taro-san, and devise
+            weaknesses that match yours, \N[1]-san, and devise
 
             a strategy to avoid contact with them!']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '231', 'p': [!!int '20', 'Mare PC 普通_1', !!int '1', !!int '0', !!int '560', !!int '530', !!int '100', !!int '100', !!int '255', !!int '0']}
@@ -241,7 +241,7 @@
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['Mare: "Come to think of it, you are a virgin,
 
-            Taro-san... It''s all imagination, so it''s not
+            \N[1]-san... It''s all imagination, so it''s not
 
             strange to be weak to everything...']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '0', 'p': []}
@@ -257,7 +257,7 @@
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mare: "Girls are sharp, so they''ll see right
 
-            through Taro-san''s weaknesses! Avoid those whose
+            through \N[1]-san''s weaknesses! Avoid those whose
 
             special techniques match your weaknesses.']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '231', 'p': [!!int '20', 'Mare PC 悲しい_1', !!int '1', !!int '0', !!int '560', !!int '530', !!int '100', !!int '100', !!int '255', !!int '0']}
@@ -359,7 +359,7 @@
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '111', 'p': [!!int '0', !!int '307', !!int '0']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '231', 'p': [!!int '20', 'Mare PC 真面目_1', !!int '1', !!int '0', !!int '560', !!int '530', !!int '100', !!int '100', !!int '255', !!int '0']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-      - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['Mare: "...Taro-san... what on earth is going on
+      - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['Mare: "...\N[1]-san... what on earth is going on
 
             here...!"']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '231', 'p': [!!int '20', 'Mare 笑顔_1', !!int '1', !!int '0', !!int '560', !!int '530', !!int '100', !!int '100', !!int '255', !!int '0']}
@@ -368,14 +368,14 @@
 
             have an effect, maybe I should tell everything to
 
-            Jane-san♡"']}
+            \N[2]-san♡"']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '20']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '213', 'p': [!!int '-1', !!int '6', !!bool 'true']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '231', 'p': [!!int '20', 'Mare PC おこ_1', !!int '1', !!int '0', !!int '560', !!int '530', !!int '100', !!int '100', !!int '255', !!int '0']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['Mare: "I won''t do such a thing because it would be
 
-            pitiful for Jane-san... but really, you mustn''t do
+            pitiful for \N[2]-san... but really, you mustn''t do
 
             this, geez!"']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '231', 'p': [!!int '20', 'Mare PC 悲しい_1', !!int '1', !!int '0', !!int '560', !!int '530', !!int '100', !!int '100', !!int '255', !!int '0']}
@@ -391,10 +391,10 @@
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '412', 'p': []}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '231', 'p': [!!int '20', 'Mare PC 悲しい_1', !!int '1', !!int '0', !!int '560', !!int '530', !!int '100', !!int '100', !!int '255', !!int '0']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mare: "Sigh... What are you doing, Taro-san..."']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mare: "Sigh... What are you doing, \N[1]-san..."']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '231', 'p': [!!int '20', 'Mare PC びっくり_1', !!int '1', !!int '0', !!int '560', !!int '530', !!int '100', !!int '100', !!int '255', !!int '0']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mare: "Because Taro-san ejaculated on that girl,
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mare: "Because \N[1]-san ejaculated on that girl,
 
             her succubus powers have become incredibly
 
@@ -403,7 +403,7 @@
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mare: "For now, I''ll cure the charm that''s been
 
-            cast on you, Taro-san!"']}
+            cast on you, \N[1]-san!"']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '235', 'p': [!!int '20']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '212', 'p': [!!int '-1', !!int '37', !!bool 'false']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '213', 'p': [!!int '-1', !!int '1', !!bool 'true']}
@@ -507,21 +507,21 @@
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '111', 'p': [!!int '0', !!int '307', !!int '0']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '231', 'p': [!!int '20', 'Mare PC 真面目_1', !!int '1', !!int '0', !!int '560', !!int '530', !!int '100', !!int '100', !!int '255', !!int '0']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-      - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['Mare: "...Taro-san... what on earth is this
+      - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['Mare: "...\N[1]-san... what on earth is this
 
             about...!"']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '231', 'p': [!!int '20', 'Mare 笑顔_1', !!int '1', !!int '0', !!int '560', !!int '530', !!int '100', !!int '100', !!int '255', !!int '0']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['Mare: "That''s right♪ Since my words don''t seem to
 
-            work, maybe I should tell everything to Jane-san♡"']}
+            work, maybe I should tell everything to \N[2]-san♡"']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '20']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '213', 'p': [!!int '-1', !!int '6', !!bool 'true']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '231', 'p': [!!int '20', 'Mare PC おこ_1', !!int '1', !!int '0', !!int '560', !!int '530', !!int '100', !!int '100', !!int '255', !!int '0']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['Mare: "I wouldn''t do such a thing because it would
 
-            be pitiful for Jane-san... but really, you mustn''t
+            be pitiful for \N[2]-san... but really, you mustn''t
 
             do this, geez!"']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '231', 'p': [!!int '20', 'Mare PC 悲しい_1', !!int '1', !!int '0', !!int '560', !!int '530', !!int '100', !!int '100', !!int '255', !!int '0']}
@@ -537,7 +537,7 @@
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '412', 'p': []}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '231', 'p': [!!int '20', 'Mare PC 悲しい_1', !!int '1', !!int '0', !!int '560', !!int '530', !!int '100', !!int '100', !!int '255', !!int '0']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mare: "Sigh... What are you doing, Taro-san..."']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mare: "Sigh... What are you doing, \N[1]-san..."']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '235', 'p': [!!int '20']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '213', 'p': [!!int '1', !!int '5', !!bool 'false']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '231', 'p': [!!int '20', 'Mare PC おこ_1', !!int '1', !!int '0', !!int '560', !!int '530', !!int '100', !!int '100', !!int '255', !!int '0']}
@@ -551,13 +551,13 @@
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mare: "For now, I''ll cure the charm that''s been
 
-            cast on you, Taro-san..."']}
+            cast on you, \N[1]-san..."']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '235', 'p': [!!int '20']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '212', 'p': [!!int '-1', !!int '37', !!bool 'false']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '213', 'p': [!!int '-1', !!int '1', !!bool 'true']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '231', 'p': [!!int '20', 'Mare PC 真面目_1', !!int '1', !!int '0', !!int '560', !!int '530', !!int '100', !!int '100', !!int '255', !!int '0']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mare: "It seems like Taro-san doesn''t want to
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mare: "It seems like \N[1]-san doesn''t want to
 
             become that girl''s slave, but..."']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
@@ -671,15 +671,15 @@
 
             the hero''s power and become the king of the
 
-            country. Therefore, the hero Taro must not engage
+            country. Therefore, the hero \N[1] must not engage
 
             in sexual intercourse with any woman other than
 
             his marriage partner.']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Taro has a childhood friend and lover named Jane,
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\N[1] has a childhood friend and lover named \N[2],
 
-            and Taro bought an engagement ring for Jane, but
+            and \N[1] bought an engagement ring for \N[2], but
 
             the payment was deferred.']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
@@ -695,17 +695,17 @@
 
             position of queen of the world.']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['The hero Taro must protect his chastity, save
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['The hero \N[1] must protect his chastity, save
 
             money for the ring payment, and successfully
 
-            engage with his lover Jane.']}
+            engage with his lover \N[2].']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['In the northeastern house of the village lives the
 
             heroine, and in the northwestern house lives a
 
-            girl well known to Taro and the heroine, so let''s
+            girl well known to \N[1] and the heroine, so let''s
 
             go check on them.']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '121', 'p': [!!int '25', !!int '25', !!int '0']}
@@ -762,7 +762,7 @@
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '111', 'p': [!!int '0', !!int '307', !!int '0']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '231', 'p': [!!int '20', 'Mare PC 真面目_1', !!int '1', !!int '0', !!int '560', !!int '530', !!int '100', !!int '100', !!int '255', !!int '0']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-      - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['Mare: "...Taro-san... what on earth is going on
+      - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['Mare: "...\N[1]-san... what on earth is going on
 
             here...!"']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '231', 'p': [!!int '20', 'Mare 笑顔_1', !!int '1', !!int '0', !!int '560', !!int '530', !!int '100', !!int '100', !!int '255', !!int '0']}
@@ -771,14 +771,14 @@
 
             have an effect, maybe I should tell everything to
 
-            Jane-san♡"']}
+            \N[2]-san♡"']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '20']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '213', 'p': [!!int '-1', !!int '6', !!bool 'true']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '231', 'p': [!!int '20', 'Mare PC おこ_1', !!int '1', !!int '0', !!int '560', !!int '530', !!int '100', !!int '100', !!int '255', !!int '0']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['Mare: "I wouldn''t do such a thing because I feel
 
-            sorry for Jane-san... but really, you mustn''t do
+            sorry for \N[2]-san... but really, you mustn''t do
 
             this, geez!"']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '231', 'p': [!!int '20', 'Mare PC 悲しい_1', !!int '1', !!int '0', !!int '560', !!int '530', !!int '100', !!int '100', !!int '255', !!int '0']}
@@ -792,7 +792,7 @@
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '412', 'p': []}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '231', 'p': [!!int '20', 'Mare PC 悲しい_1', !!int '1', !!int '0', !!int '560', !!int '530', !!int '100', !!int '100', !!int '255', !!int '0']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mare: "Sigh... What are you doing, Taro-san..."']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mare: "Sigh... What are you doing, \N[1]-san..."']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '231', 'p': [!!int '20', 'Mare PC びっくり_1', !!int '1', !!int '0', !!int '560', !!int '530', !!int '100', !!int '100', !!int '255', !!int '0']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mare: "That girl originally had strong magical
@@ -801,7 +801,7 @@
 
             potion,"']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mare: "It seems like she absorbed Taro-san''s semen
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mare: "It seems like she absorbed \N[1]-san''s semen
 
             and her transformation into a succubus has
 
@@ -817,9 +817,9 @@
             mine too..."']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '231', 'p': [!!int '20', 'Mare PC びっくり_1', !!int '1', !!int '0', !!int '560', !!int '530', !!int '100', !!int '100', !!int '255', !!int '0']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mare: "Could it be... Taro-san, do you prefer
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mare: "Could it be... \N[1]-san, do you prefer
 
-            girls like her over someone like Jane-san?!"']}
+            girls like her over someone like \N[2]-san?!"']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '231', 'p': [!!int '20', 'Mare 照れ_1', !!int '1', !!int '0', !!int '560', !!int '530', !!int '100', !!int '100', !!int '255', !!int '0']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mare: "If that''s the case... maybe there''s a
@@ -832,7 +832,7 @@
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mare: "N-no, it''s nothing!"']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '231', 'p': [!!int '20', 'Mare PC おこ_1', !!int '1', !!int '0', !!int '560', !!int '530', !!int '100', !!int '100', !!int '255', !!int '0']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mare: "Anyway! That girl is targeting you, Taro-
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mare: "Anyway! That girl is targeting you, \N[1]-
 
             san, and she''s not under the influence of the
 
@@ -917,7 +917,7 @@
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '111', 'p': [!!int '0', !!int '307', !!int '0']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '231', 'p': [!!int '20', 'Mare PC 真面目_1', !!int '1', !!int '0', !!int '560', !!int '530', !!int '100', !!int '100', !!int '255', !!int '0']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-      - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['Mare: "...Taro-san... what on earth is going
+      - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['Mare: "...\N[1]-san... what on earth is going
 
             on...?!']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '231', 'p': [!!int '20', 'Mare 笑顔_1', !!int '1', !!int '0', !!int '560', !!int '530', !!int '100', !!int '100', !!int '255', !!int '0']}
@@ -926,14 +926,14 @@
 
             have an effect, maybe I should tell everything to
 
-            Jane-san♡']}
+            \N[2]-san♡']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '20']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '213', 'p': [!!int '-1', !!int '6', !!bool 'true']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '231', 'p': [!!int '20', 'Mare PC おこ_1', !!int '1', !!int '0', !!int '560', !!int '530', !!int '100', !!int '100', !!int '255', !!int '0']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['Mare: "I wouldn''t do such a thing because I feel
 
-            sorry for Jane-san... but really, you mustn''t do
+            sorry for \N[2]-san... but really, you mustn''t do
 
             this, geez!']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '231', 'p': [!!int '20', 'Mare PC 悲しい_1', !!int '1', !!int '0', !!int '560', !!int '530', !!int '100', !!int '100', !!int '255', !!int '0']}
@@ -947,7 +947,7 @@
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '412', 'p': []}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '231', 'p': [!!int '20', 'Mare PC 悲しい_1', !!int '1', !!int '0', !!int '560', !!int '530', !!int '100', !!int '100', !!int '255', !!int '0']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mare: "Sigh... Is it happening again, Taro-san...']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mare: "Sigh... Is it happening again, \N[1]-san...']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '235', 'p': [!!int '20']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '213', 'p': [!!int '-1', !!int '7', !!bool 'true']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '231', 'p': [!!int '20', 'Mare PC びっくり_1', !!int '1', !!int '0', !!int '560', !!int '530', !!int '100', !!int '100', !!int '255', !!int '0']}
@@ -971,10 +971,10 @@
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mare: "To me, it looks like you''re happily going
 
-            off to get raped, Taro-san...']}
+            off to get raped, \N[1]-san...']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '231', 'p': [!!int '20', 'Mare PC おこ_1', !!int '1', !!int '0', !!int '560', !!int '530', !!int '100', !!int '100', !!int '255', !!int '0']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mare: "Anyway! That girl''s target is you, Taro-
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mare: "Anyway! That girl''s target is you, \N[1]-
 
             san, so you absolutely must not get close to her!']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '231', 'p': [!!int '20', 'Mare PC 真面目_1', !!int '1', !!int '0', !!int '560', !!int '530', !!int '100', !!int '100', !!int '255', !!int '0']}
@@ -1057,7 +1057,7 @@
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '111', 'p': [!!int '0', !!int '307', !!int '0']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '231', 'p': [!!int '20', 'Mare PC 真面目_1', !!int '1', !!int '0', !!int '560', !!int '530', !!int '100', !!int '100', !!int '255', !!int '0']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-      - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['Mare: "Taro-san... what on earth is going on
+      - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['Mare: "\N[1]-san... what on earth is going on
 
             here...!"']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '231', 'p': [!!int '20', 'Mare 笑顔_1', !!int '1', !!int '0', !!int '560', !!int '530', !!int '100', !!int '100', !!int '255', !!int '0']}
@@ -1066,14 +1066,14 @@
 
             have an effect, maybe I should tell everything to
 
-            Jane-san♡"']}
+            \N[2]-san♡"']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '20']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '213', 'p': [!!int '-1', !!int '6', !!bool 'true']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '231', 'p': [!!int '20', 'Mare PC おこ_1', !!int '1', !!int '0', !!int '560', !!int '530', !!int '100', !!int '100', !!int '255', !!int '0']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['Mare: "I wouldn''t do that because I feel sorry for
 
-            Jane-san... but really, you mustn''t do this,
+            \N[2]-san... but really, you mustn''t do this,
 
             geez!"']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '231', 'p': [!!int '20', 'Mare PC 悲しい_1', !!int '1', !!int '0', !!int '560', !!int '530', !!int '100', !!int '100', !!int '255', !!int '0']}
@@ -1087,7 +1087,7 @@
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '412', 'p': []}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '231', 'p': [!!int '20', 'Mare PC 悲しい_1', !!int '1', !!int '0', !!int '560', !!int '530', !!int '100', !!int '100', !!int '255', !!int '0']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mare: "Sigh... What are you doing, Taro-san..."']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mare: "Sigh... What are you doing, \N[1]-san..."']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '231', 'p': [!!int '20', 'Mare PC おこ_1', !!int '1', !!int '0', !!int '560', !!int '530', !!int '100', !!int '100', !!int '255', !!int '0']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mare: "Paying money to buy girls is also
@@ -1102,7 +1102,7 @@
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mare: "Why don''t we just leave all the town''s
 
-            troubles to Jane-san and have Taro-san go directly
+            troubles to \N[2]-san and have \N[1]-san go directly
 
             after the Demon Lord?"']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '235', 'p': [!!int '20']}
@@ -1116,7 +1116,7 @@
             acts because of the succubus?"']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '231', 'p': [!!int '20', 'Mare 照れ_1', !!int '1', !!int '0', !!int '560', !!int '530', !!int '100', !!int '100', !!int '255', !!int '0']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mare: "Taro-san... to care so much about the
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mare: "\N[1]-san... to care so much about the
 
             students... You''re such a wonderful teacher, so
 
@@ -1207,21 +1207,21 @@
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '111', 'p': [!!int '0', !!int '307', !!int '0']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '231', 'p': [!!int '20', 'Mare PC 真面目_1', !!int '1', !!int '0', !!int '560', !!int '530', !!int '100', !!int '100', !!int '255', !!int '0']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-      - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['Mare: "...Taro-san... what on earth is going on
+      - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['Mare: "...\N[1]-san... what on earth is going on
 
             here...!"']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '231', 'p': [!!int '20', 'Mare 笑顔_1', !!int '1', !!int '0', !!int '560', !!int '530', !!int '100', !!int '100', !!int '255', !!int '0']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['Mare: "That''s right♪ Since my words don''t seem to
 
-            work, maybe I should tell everything to Jane-san♡"']}
+            work, maybe I should tell everything to \N[2]-san♡"']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '20']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '213', 'p': [!!int '-1', !!int '6', !!bool 'true']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '231', 'p': [!!int '20', 'Mare PC おこ_1', !!int '1', !!int '0', !!int '560', !!int '530', !!int '100', !!int '100', !!int '255', !!int '0']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['Mare: "I wouldn''t do that because I feel sorry for
 
-            Jane-san... but really, you mustn''t do this,
+            \N[2]-san... but really, you mustn''t do this,
 
             geez!"']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '231', 'p': [!!int '20', 'Mare PC 悲しい_1', !!int '1', !!int '0', !!int '560', !!int '530', !!int '100', !!int '100', !!int '255', !!int '0']}
@@ -1254,7 +1254,7 @@
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mare: "...I wish I could have a smiling
 
-            conversation with Taro-san once in a while."']}
+            conversation with \N[1]-san once in a while."']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '235', 'p': [!!int '20']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '213', 'p': [!!int '-1', !!int '6', !!bool 'true']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '231', 'p': [!!int '20', 'Mare PC 悲しい_1', !!int '1', !!int '0', !!int '560', !!int '530', !!int '100', !!int '100', !!int '255', !!int '0']}
@@ -1268,7 +1268,7 @@
             them."']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '231', 'p': [!!int '20', 'Mare PC びっくり_1', !!int '1', !!int '0', !!int '560', !!int '530', !!int '100', !!int '100', !!int '255', !!int '0']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mare: "Taro-san, far from solving the situation,
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mare: "\N[1]-san, far from solving the situation,
 
             you''re making it worse!"']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '231', 'p': [!!int '20', 'Mare PC 悲しい_1', !!int '1', !!int '0', !!int '560', !!int '530', !!int '100', !!int '100', !!int '255', !!int '0']}
@@ -1351,7 +1351,7 @@
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '111', 'p': [!!int '0', !!int '307', !!int '0']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '231', 'p': [!!int '20', 'Mare PC 真面目_1', !!int '1', !!int '0', !!int '560', !!int '530', !!int '100', !!int '100', !!int '255', !!int '0']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-      - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['Mare: "...Taro-san... what on earth is going on
+      - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['Mare: "...\N[1]-san... what on earth is going on
 
             here...!"']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '231', 'p': [!!int '20', 'Mare 笑顔_1', !!int '1', !!int '0', !!int '560', !!int '530', !!int '100', !!int '100', !!int '255', !!int '0']}
@@ -1360,14 +1360,14 @@
 
             have an effect, maybe I should tell everything to
 
-            Jane-san♡"']}
+            \N[2]-san♡"']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '20']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '213', 'p': [!!int '-1', !!int '6', !!bool 'true']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '231', 'p': [!!int '20', 'Mare PC おこ_1', !!int '1', !!int '0', !!int '560', !!int '530', !!int '100', !!int '100', !!int '255', !!int '0']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['Mare: "I wouldn''t do such a thing because it would
 
-            be pitiful for Jane-san... but really, you mustn''t
+            be pitiful for \N[2]-san... but really, you mustn''t
 
             do this, geez!"']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '231', 'p': [!!int '20', 'Mare PC 悲しい_1', !!int '1', !!int '0', !!int '560', !!int '530', !!int '100', !!int '100', !!int '255', !!int '0']}
@@ -1383,7 +1383,7 @@
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '412', 'p': []}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '231', 'p': [!!int '20', 'Mare PC 悲しい_1', !!int '1', !!int '0', !!int '560', !!int '530', !!int '100', !!int '100', !!int '255', !!int '0']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mare: "Sigh... What are you doing, Taro-san..."']}
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mare: "Sigh... What are you doing, \N[1]-san..."']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '231', 'p': [!!int '20', 'Mare PC おこ_1', !!int '1', !!int '0', !!int '560', !!int '530', !!int '100', !!int '100', !!int '255', !!int '0']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mare: "Paying money to buy girls is also
@@ -1398,7 +1398,7 @@
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mare: "Why don''t we just leave all the town''s
 
-            troubles to Jane-san and have Taro-san go directly
+            troubles to \N[2]-san and have \N[1]-san go directly
 
             after the Demon Lord?"']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '235', 'p': [!!int '20']}
@@ -1412,7 +1412,7 @@
             acts because of the succubus?"']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '231', 'p': [!!int '20', 'Mare 照れ_1', !!int '1', !!int '0', !!int '560', !!int '530', !!int '100', !!int '100', !!int '255', !!int '0']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mare: "Taro-san... to care so much about the
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mare: "\N[1]-san... to care so much about the
 
             students... You''re such a wonderful teacher, so
 
@@ -1502,7 +1502,7 @@
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '111', 'p': [!!int '0', !!int '307', !!int '0']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '231', 'p': [!!int '20', 'Mare PC 真面目_1', !!int '1', !!int '0', !!int '560', !!int '530', !!int '100', !!int '100', !!int '255', !!int '0']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-      - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['Mare: "...Taro-san... what on earth is going on
+      - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['Mare: "...\N[1]-san... what on earth is going on
 
             here...!"']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '231', 'p': [!!int '20', 'Mare 笑顔_1', !!int '1', !!int '0', !!int '560', !!int '530', !!int '100', !!int '100', !!int '255', !!int '0']}
@@ -1511,14 +1511,14 @@
 
             have an effect, maybe I should tell everything to
 
-            Jane-san♡"']}
+            \N[2]-san♡"']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '20']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '213', 'p': [!!int '-1', !!int '6', !!bool 'true']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '231', 'p': [!!int '20', 'Mare PC おこ_1', !!int '1', !!int '0', !!int '560', !!int '530', !!int '100', !!int '100', !!int '255', !!int '0']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['Mare: "I wouldn''t do such a thing because I feel
 
-            sorry for Jane-san... but really, you mustn''t do
+            sorry for \N[2]-san... but really, you mustn''t do
 
             this, geez!"']}
       - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '231', 'p': [!!int '20', 'Mare PC 悲しい_1', !!int '1', !!int '0', !!int '560', !!int '530', !!int '100', !!int '100', !!int '255', !!int '0']}
@@ -1551,7 +1551,7 @@
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mare: "...I wish I could have a smiling
 
-            conversation with Taro-san once in a while."']}
+            conversation with \N[1]-san once in a while."']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '235', 'p': [!!int '20']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '213', 'p': [!!int '-1', !!int '6', !!bool 'true']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '231', 'p': [!!int '20', 'Mare PC 悲しい_1', !!int '1', !!int '0', !!int '560', !!int '530', !!int '100', !!int '100', !!int '255', !!int '0']}
@@ -1565,7 +1565,7 @@
             imitating them."']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '231', 'p': [!!int '20', 'Mare PC びっくり_1', !!int '1', !!int '0', !!int '560', !!int '530', !!int '100', !!int '100', !!int '255', !!int '0']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mare: "Far from solving the situation, Taro-san,
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Mare: "Far from solving the situation, \N[1]-san,
 
             you''re making it worse!"']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '231', 'p': [!!int '20', 'Mare PC 悲しい_1', !!int '1', !!int '0', !!int '560', !!int '530', !!int '100', !!int '100', !!int '255', !!int '0']}

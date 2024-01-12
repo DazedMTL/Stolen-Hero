@@ -51,7 +51,7 @@
 
             position of queen as the successor to the hero''s
 
-            descendants, and Taro became her servant for
+            descendants, and \N[1] became her servant for
 
             life...']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '222', 'p': []}
@@ -627,7 +627,7 @@
             battleground.']}
       - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '122', 'p': [!!int '100', !!int '100', !!int '2', !!int '0', !!int '6']}
       - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '101', 'p': ['', !!int '0', !!int '1', !!int '1']}
-      - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '401', 'p': ['The teacher''s girlfriend... Jane-san said that the
+      - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '401', 'p': ['The teacher''s girlfriend... \N[2]-san said that the
 
             rumored hero is the teacher, and moreover, I, who
 
@@ -643,7 +643,7 @@
       - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '101', 'p': ['', !!int '0', !!int '1', !!int '1']}
       - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '401', 'p': ['But that girlfriend... It seems she never had sex
 
-            with Jane-san, and since the teacher has been
+            with \N[2]-san, and since the teacher has been
 
             marked by me, he can''t cheat anymore.']}
       - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '101', 'p': ['', !!int '0', !!int '1', !!int '1']}
@@ -651,7 +651,7 @@
 
             teacher stayed by my side instead of chasing after
 
-            Jane-san, who was crying and leaving...']}
+            \N[2]-san, who was crying and leaving...']}
       - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '101', 'p': ['', !!int '0', !!int '1', !!int '1']}
       - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '401', 'p': ['There''s a lot on my mind, but I realized how much
 
@@ -731,13 +731,13 @@
 
             I can''t do...']}
       - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '101', 'p': ['', !!int '0', !!int '1', !!int '1']}
-      - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '401', 'p': ['But then Taro-sensei overheard that conversation
+      - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '401', 'p': ['But then \N[1]-sensei overheard that conversation
 
             and I had to seduce him to keep his mouth shut...
 
             My senior told me to do it, so I was shocked.']}
       - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '101', 'p': ['', !!int '0', !!int '1', !!int '1']}
-      - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '401', 'p': ['Still, seducing Taro-sensei was easy and he got
+      - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '401', 'p': ['Still, seducing \N[1]-sensei was easy and he got
 
             excited immediately. Maybe because he''s a virgin
 
@@ -749,7 +749,7 @@
 
             instant.']}
       - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '101', 'p': ['', !!int '0', !!int '1', !!int '1']}
-      - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '401', 'p': ['Taro-sensei, it''s a bit pitiful but... It''s his
+      - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '401', 'p': ['\N[1]-sensei, it''s a bit pitiful but... It''s his
 
             fault for being seduced so easily by a girl... I
 
@@ -826,7 +826,7 @@
             a battleground.']}
       - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '122', 'p': [!!int '100', !!int '100', !!int '2', !!int '0', !!int '6']}
       - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '101', 'p': ['', !!int '0', !!int '1', !!int '1']}
-      - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '401', 'p': ['The teacher''s girlfriend... According to Jane-san,
+      - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '401', 'p': ['The teacher''s girlfriend... According to \N[2]-san,
 
             the rumored hero is the teacher, and moreover, I
 
@@ -855,7 +855,7 @@
       - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '101', 'p': ['', !!int '0', !!int '1', !!int '1']}
       - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '401', 'p': ['I never imagined he had a girlfriend... But
 
-            apparently, there was no sex with Jane-san, and
+            apparently, there was no sex with \N[2]-san, and
 
             since the teacher is marked by me, he can''t cheat
 
@@ -865,7 +865,7 @@
 
             teacher stayed by my side instead of chasing after
 
-            Jane-san who was leaving in tears...']}
+            \N[2]-san who was leaving in tears...']}
       - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '101', 'p': ['', !!int '0', !!int '1', !!int '1']}
       - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '401', 'p': ['There''s a lot on my mind, but I realized how much
 
@@ -939,20 +939,20 @@
 
             something I couldn''t do...']}
       - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '101', 'p': ['', !!int '0', !!int '1', !!int '1']}
-      - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '401', 'p': ['But Taro-sensei overheard that conversation and I
+      - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '401', 'p': ['But \N[1]-sensei overheard that conversation and I
 
             had to seduce him to keep his mouth shut... My
 
             senior told me to do it so I was shocked.']}
       - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '111', 'p': [!!int '8', !!int '24']}
       - !ruby/object:RPG::EventCommand {'i': !!int '3', 'c': !!int '101', 'p': ['', !!int '0', !!int '1', !!int '1']}
-      - !ruby/object:RPG::EventCommand {'i': !!int '3', 'c': !!int '401', 'p': ['Still, seducing Taro-sensei was easy and you get a
+      - !ruby/object:RPG::EventCommand {'i': !!int '3', 'c': !!int '401', 'p': ['Still, seducing \N[1]-sensei was easy and you get a
 
             lot for just one creampie, so we had sex and I let
 
             him ejaculate inside me...']}
       - !ruby/object:RPG::EventCommand {'i': !!int '3', 'c': !!int '101', 'p': ['', !!int '0', !!int '1', !!int '1']}
-      - !ruby/object:RPG::EventCommand {'i': !!int '3', 'c': !!int '401', 'p': ['Taro-sensei was a virgin and maybe naturally quick
+      - !ruby/object:RPG::EventCommand {'i': !!int '3', 'c': !!int '401', 'p': ['\N[1]-sensei was a virgin and maybe naturally quick
 
             to come, he came quickly and I made him come many
 
@@ -964,7 +964,7 @@
       - !ruby/object:RPG::EventCommand {'i': !!int '3', 'c': !!int '0', 'p': []}
       - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '411', 'p': []}
       - !ruby/object:RPG::EventCommand {'i': !!int '3', 'c': !!int '101', 'p': ['', !!int '0', !!int '1', !!int '1']}
-      - !ruby/object:RPG::EventCommand {'i': !!int '3', 'c': !!int '401', 'p': ['Even so, seducing Taro-sensei was easy and he got
+      - !ruby/object:RPG::EventCommand {'i': !!int '3', 'c': !!int '401', 'p': ['Even so, seducing \N[1]-sensei was easy and he got
 
             excited quickly because of me. Whether it''s
 
@@ -978,17 +978,17 @@
       - !ruby/object:RPG::EventCommand {'i': !!int '3', 'c': !!int '0', 'p': []}
       - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '412', 'p': []}
       - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '101', 'p': ['', !!int '0', !!int '1', !!int '1']}
-      - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '401', 'p': ['Afterwards, I took the dazed Taro-sensei home. Now
+      - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '401', 'p': ['Afterwards, I took the dazed \N[1]-sensei home. Now
 
             that I know where he lives, maybe tomorrow we''ll
 
             have sex again and I''ll make him crazy for me.
 
-            From now on, maybe I''ll have Taro-sensei earn
+            From now on, maybe I''ll have \N[1]-sensei earn
 
             money for me.']}
       - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '101', 'p': ['', !!int '0', !!int '1', !!int '1']}
-      - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '401', 'p': ['Taro-sensei is a bit pitiful but... It''s his fault
+      - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '401', 'p': ['\N[1]-sensei is a bit pitiful but... It''s his fault
 
             for being seduced by a girl so easily... I hate
 

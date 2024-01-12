@@ -1074,7 +1074,7 @@
 'opt_draw_title': !!bool 'false'
 'opt_use_midi': !!bool 'false'
 'opt_transparent': !!bool 'false'
-'opt_`llowers': !!bool 'true'
+'opt_followers': !!bool 'true'
 'opt_slip_death': !!bool 'false'
 'opt_extra_exp': !!bool 'false'
 'opt_display_tp': !!bool 'true'

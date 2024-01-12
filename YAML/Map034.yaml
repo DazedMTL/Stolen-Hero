@@ -210,7 +210,7 @@
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '1', !!int '1']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Several days after capturing the Demon Lord...
 
-            Taro was asked to watch over the imprisoned Demon
+            \N[1] was asked to watch over the imprisoned Demon
 
             Lord in the cell...']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '222', 'p': []}
@@ -579,7 +579,7 @@
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '1', !!int '1']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['And so, the Demon Lord vanished from the presence
 
-            of humans... Taro, having defeated the Demon Lord
+            of humans... \N[1], having defeated the Demon Lord
 
             and being the rightful heir to the hero, was
 
@@ -735,13 +735,13 @@
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '230', 'p': [!!int '60']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '221', 'p': []}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '1', !!int '1']}
-      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Even after defeating Taro and stealing his power,
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Even after defeating \N[1] and stealing his power,
 
             Mao remained in the cell, quietly waiting for the
 
             day of her trial...']}
       - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '1', !!int '1']}
-      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Knowing her evil plan, Taro, who had become her
+      - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Knowing her evil plan, \N[1], who had become her
 
             slave, was forced to help her with it...']}
       - !ruby/object:RPG::EventCommand

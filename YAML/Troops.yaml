@@ -44,7 +44,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Yui: "I''ll take off your clothes... Show Yui your
 
-          big, hard dick, Taro Onii-chan♡"']}
+          big, hard dick, \N[1] Onii-chan♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '339', 'p': [!!int '0', !!int '0', !!int '17', !!int '-1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '355', 'p': ['$game_actors[1].battler_name = "Hero DHN"']}
@@ -72,7 +72,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '0', !!int '1', !!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '339', 'p': [!!int '0', !!int '0', !!int '58', !!int '-1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['N[6] is riding Taro in the cowgirl position, her
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['N[6] is riding \N[1] in the cowgirl position, her
 
           long, silky hair swinging wildly!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '122', 'p': [!!int '90', !!int '90', !!int '1', !!int '0', !!int '10']}
@@ -86,7 +86,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '0', !!int '1', !!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '339', 'p': [!!int '0', !!int '0', !!int '58', !!int '-1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['N[6] smiles as she feels Taro''s ejaculation, and
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['N[6] smiles as she feels \N[1]''s ejaculation, and
 
           without minding his penis still spurting, she
 
@@ -100,14 +100,14 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '339', 'p': [!!int '0', !!int '0', !!int '29', !!int '-1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '6']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['N[6]''s intense onslaught forces Taro to ejaculate
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['N[6]''s intense onslaught forces \N[1] to ejaculate
 
           repeatedly, draining him of his seed until he can
 
           no longer move...']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '61']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['N[6]: "Ahaha♡ Taro Onii-chan, you''re so weak♡
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['N[6]: "Ahaha♡ \N[1] Onii-chan, you''re so weak♡
 
           Twitching under \N[6], it''s so lewd♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '0', 'p': []}
@@ -167,7 +167,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '355', 'p': ['$game_troop.members[0].screen_y = 461']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '61']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Yui: "Ehehe...♡ Taro Onii-chan... Yui will teach
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Yui: "Ehehe...♡ \N[1] Onii-chan... Yui will teach
 
           you about girls♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '4']}
@@ -291,7 +291,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '10']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '313', 'p': [!!int '0', !!int '1', !!int '0', !!int '30']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Taro grabbed the arm of the flying bee girl!']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\N[1] grabbed the arm of the flying bee girl!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '355', 'p': ['$game_troop.members[0].screen_x = 329']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '355', 'p': ['$game_troop.members[0].screen_y = 346']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '111', 'p': [!!int '0', !!int '119', !!int '0']}
@@ -316,7 +316,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Bee Girl: "Kyaa! Please don''t hurt me~!"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Taro inadvertently loosened his grip when the girl
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\N[1] inadvertently loosened his grip when the girl
 
           screamed... Up close, she looked no different from
 
@@ -362,7 +362,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Honey is desperately pleading while flying around
 
-          in front of Taro''s eyes...']}
+          in front of \N[1]''s eyes...']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Maybe talking it out will help... Try to persuade
 
@@ -473,7 +473,7 @@
           anything♡ You can do whatever you like with me♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '117', 'p': [!!int '108']}
     - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '401', 'p': ['n[6] has gained confidence in seducing Taro! It
+    - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '401', 'p': ['n[6] has gained confidence in seducing \N[1]! It
 
           seems she''s no longer afraid of him...']}
     - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '313', 'p': [!!int '0', !!int '0', !!int '0', !!int '12']}
@@ -485,7 +485,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['Honey is desperately pleading while buzzing around
 
-          in front of Taro...']}
+          in front of \N[1]...']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '333', 'p': [!!int '-1', !!int '0', !!int '17']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '0', 'p': []}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '412', 'p': []}
@@ -580,7 +580,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Yui is attacking!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '63']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Yui: "Making Taro Onii-chan cum is so easy♪"']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Yui: "Making \N[1] Onii-chan cum is so easy♪"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '64']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '486']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '0', 'p': []}
@@ -722,7 +722,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Yui: "First, I''ll take off your clothes for you,
 
-          Taro Onii-chan♡"']}
+          \N[1] Onii-chan♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '339', 'p': [!!int '0', !!int '0', !!int '17', !!int '-1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '355', 'p': ['$game_actors[1].battler_name = "Hero DHN"']}
@@ -852,7 +852,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6] is attacking!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '111']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['N[6]: "Let''s get undressed♡ Taro-san♡"']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['N[6]: "Let''s get undressed♡ \N[1]-san♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '108']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '339', 'p': [!!int '0', !!int '0', !!int '17', !!int '-1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '355', 'p': ['$game_actors[1].battler_name = "Hero DN"']}
@@ -978,7 +978,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '412', 'p': []}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '57']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['Yui: "Taro Onii-chan♡ I''ll take off your clothes
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['Yui: "\N[1] Onii-chan♡ I''ll take off your clothes
 
           for you♡']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
@@ -987,7 +987,7 @@
 
           you up inside Yui''s pussy right away...♡']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] grabbed Taro''s dick with one hand and
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] grabbed \N[1]''s dick with one hand and
 
           directed it towards her genitals, then slowly
 
@@ -996,18 +996,18 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '14']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '190']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['Taro was ravished while leaving his body to
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\N[1] was ravished while leaving his body to
 
           \N[6]...']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '42']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '192']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['Yui: "Mmm... it''s in...♡ Taro Onii-chan''s first
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['Yui: "Mmm... it''s in...♡ \N[1] Onii-chan''s first
 
           time... you saved it for Yui, didn''t you♡']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['Yui: "Yui is happy too, Taro Onii-chan♡ As a thank
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['Yui: "Yui is happy too, \N[1] Onii-chan♡ As a thank
 
           you, I''ll let you cum inside a lot♡ You can cum
 
@@ -1019,7 +1019,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '121', 'p': [!!int '77', !!int '77', !!int '0']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '186']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] pinned Taro down and started moving her hips
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] pinned \N[1] down and started moving her hips
 
           up and down vigorously!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '6']}
@@ -1029,7 +1029,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '122', 'p': [!!int '43', !!int '43', !!int '1', !!int '0', !!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '187']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] felt Taro''s ejaculation and immediately
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] felt \N[1]''s ejaculation and immediately
 
           kissed him!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
@@ -1038,7 +1038,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '42']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '190']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "Mmm...♡ Taro Onii-chan...♡']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "Mmm...♡ \N[1] Onii-chan...♡']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '193']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "Ehehe...♡ You came right away when I said
@@ -1047,7 +1047,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '43']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '188']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "Taro Onii-chan... you were surprised by how
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "\N[1] Onii-chan... you were surprised by how
 
           intense it suddenly got, weren''t you? Sorry?']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '192']}
@@ -1066,7 +1066,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "But just for today, let Yui do as she
 
-          pleases♡ I want to finish before Jane Onee-san
+          pleases♡ I want to finish before \N[2] Onee-san
 
           comes back to interrupt♡']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '30']}
@@ -1080,7 +1080,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '121', 'p': [!!int '77', !!int '77', !!int '0']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '186']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] held down the defenseless Taro with both
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] held down the defenseless \N[1] with both
 
           hands and started grinding her hips fiercely!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '39']}
@@ -1092,7 +1092,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '122', 'p': [!!int '43', !!int '43', !!int '1', !!int '0', !!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '192']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] silenced Taro, who was writhing from
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] silenced \N[1], who was writhing from
 
           continuous ejaculation, with a kiss while
 
@@ -1102,7 +1102,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '121', 'p': [!!int '77', !!int '77', !!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '193']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "Mmm... hehe...♡ Taro Onii-chan... you came
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "Mmm... hehe...♡ \N[1] Onii-chan... you came
 
           so much...♡']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '42']}
@@ -1153,28 +1153,28 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '412', 'p': []}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '63']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['Taro was easily knocked out and looked down upon
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\N[1] was easily knocked out and looked down upon
 
           by the pleased \N[6] as he lost consciousness...']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '177']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "I''ll warm up Taro''s dick with Yui''s freshly
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "I''ll warm up \N[1]''s dick with Yui''s freshly
 
           taken off panties♡']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '180']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] placed the freshly taken off panties on top
 
-          of Taro''s dick!']}
+          of \N[1]''s dick!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '183']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "Ehehe...♡ Now that I''ve caught Taro Onii-
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "Ehehe...♡ Now that I''ve caught \N[1] Onii-
 
           chan, I''ve also caught this with my panties♡']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '184']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "I''ll teach your body that Taro Onii-chan''s
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "I''ll teach your body that \N[1] Onii-chan''s
 
           home is inside Yui''s panties♡']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
@@ -1188,7 +1188,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '185']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '177']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] gripped Taro''s dick with the panties and then
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] gripped \N[1]''s dick with the panties and then
 
           started jerking it up and down fiercely!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '108', 'p': ['少し回復']}
@@ -1200,7 +1200,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '122', 'p': [!!int '43', !!int '43', !!int '1', !!int '0', !!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '184']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] smiled happily upon seeing Taro''s ejaculation
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] smiled happily upon seeing \N[1]''s ejaculation
 
           and continued to jerk off the remaining semen!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '183']}
@@ -1213,7 +1213,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '179']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "But we don''t know when Jane Onee-san will
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "But we don''t know when \N[2] Onee-san will
 
           come back... so I''ll squeeze out more-♡']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
@@ -1228,7 +1228,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] talked cheerfully while mercilessly jerking
 
-          off Taro''s dick, which had just ejaculated!']}
+          off \N[1]''s dick, which had just ejaculated!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '30']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '6']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '197']}
@@ -1237,7 +1237,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '122', 'p': [!!int '43', !!int '43', !!int '1', !!int '0', !!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '184']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] kept jerking off Taro, who was writhing from
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] kept jerking off \N[1], who was writhing from
 
           continuous ejaculation, while looking at him with
 
@@ -1251,7 +1251,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "It''s so messy now I can''t wear it anymore♪
 
-          Maybe I''ll give it to Jane Onee-san as a boast♡
+          Maybe I''ll give it to \N[2] Onee-san as a boast♡
 
           Ahaha♪']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '221', 'p': []}
@@ -1496,7 +1496,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6] is attacking!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '296']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "Taro-sensei... um... what should I do...']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "\N[1]-sensei... um... what should I do...']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '111', 'p': [!!int '8', !!int '15']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '292']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
@@ -1919,7 +1919,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6] is attacking!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '231', 'p': [!!int '1', 'Aya1 Smile', !!int '1', !!int '0', !!int '560', !!int '330', !!int '100', !!int '100', !!int '255', !!int '0']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "Taro-sensei... um... what should I do...?"']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "\N[1]-sensei... um... what should I do...?"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '6']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '224']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
@@ -2061,11 +2061,11 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '412', 'p': []}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] grabbed Taro''s dick with one hand and aimed
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] grabbed \N[1]''s dick with one hand and aimed
 
           it at her genitals, then slowly lowered her hips!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['Taro was violated while leaving his body to
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\N[1] was violated while leaving his body to
 
           \N[6]...']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '339', 'p': [!!int '0', !!int '0', !!int '27', !!int '-1']}
@@ -2088,7 +2088,7 @@
           mad if you cum, you can do it anytime♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] pinned Taro down and started moving her hips
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] pinned \N[1] down and started moving her hips
 
           up and down vigorously!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '341']}
@@ -2130,7 +2130,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '48']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] pinned down the defenseless Taro and started
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] pinned down the defenseless \N[1] and started
 
           grinding her hips fiercely!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '341']}
@@ -2143,7 +2143,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '266']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] smiled at Taro writhing from consecutive
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] smiled at \N[1] writhing from consecutive
 
           ejaculations and continued to shake her hips
 
@@ -2168,7 +2168,7 @@
           inside me... Maybe you''ve already passed out...?"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['Taro lost consciousness easily, and as \N[6], who
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\N[1] lost consciousness easily, and as \N[6], who
 
           was surprised, looked down on him...']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '221', 'p': []}
@@ -2208,7 +2208,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '2', 'c': !!int '0', 'p': []}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '412', 'p': []}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6] straddled Taro and trapped his dick with her
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6] straddled \N[1] and trapped his dick with her
 
           butt!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '346']}
@@ -2230,7 +2230,7 @@
           more with you when we get back...♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] trapped Taro''s dick with her butt and then
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] trapped \N[1]''s dick with her butt and then
 
           started to jerk it up and down fiercely!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '15']}
@@ -2239,7 +2239,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '350']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '344']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] smiled happily seeing Taro''s ejaculation and
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] smiled happily seeing \N[1]''s ejaculation and
 
           continued to jerk off the remaining semen!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '108', 'p': ['少し回復']}
@@ -2269,7 +2269,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] talked cheerfully while mercilessly jerking
 
-          off Taro''s just-ejaculated dick with her butt!']}
+          off \N[1]''s just-ejaculated dick with her butt!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '341']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '6']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
@@ -2277,7 +2277,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '48']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] continued to jerk off Taro with her butt
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] continued to jerk off \N[1] with her butt
 
           while smiling at him writhing from consecutive
 
@@ -2297,7 +2297,7 @@
           with an easy guy like teacher...♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['Taro lost consciousness while being looked down
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\N[1] lost consciousness while being looked down
 
           upon by the pleased-smiling \N[6]...']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '221', 'p': []}
@@ -2453,7 +2453,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '230', 'p': [!!int '30']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '355', 'p': ['$game_actors[1].battler_name = "Hero S"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Rumi pounced on Taro! Taro caught her in his arms,
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Rumi pounced on \N[1]! \N[1] caught her in his arms,
 
           and they both ended up falling on their butts...']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '207']}
@@ -2916,7 +2916,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '412', 'p': []}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['Taro no longer has any will to resist and is
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['\N[1] no longer has any will to resist and is
 
           eagerly anticipating what \n[6] will do to him,
 
@@ -3051,11 +3051,11 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "I''ll insert it...♡ Watch, \n[7]♡']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] grabbed Taro''s dick with one hand and aimed
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] grabbed \N[1]''s dick with one hand and aimed
 
           it at her genitals, then slowly lowered her hips!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['Taro was ravished while leaving his body to
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\N[1] was ravished while leaving his body to
 
           \N[6]...']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '339', 'p': [!!int '0', !!int '0', !!int '27', !!int '-1']}
@@ -3075,7 +3075,7 @@
           first♡']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] hugged Taro''s body tightly and started moving
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] hugged \N[1]''s body tightly and started moving
 
           her hips up and down vigorously!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '18']}
@@ -3086,7 +3086,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '121', 'p': [!!int '77', !!int '77', !!int '0']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '257']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] felt Taro''s ejaculation and smiled slyly,
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] felt \N[1]''s ejaculation and smiled slyly,
 
           kissing him while swallowing his penis even deeper
 
@@ -3125,7 +3125,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '48']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] talked happily while hugging Taro''s body and
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] talked happily while hugging \N[1]''s body and
 
           then started grinding her hips intensely!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '18']}
@@ -3143,7 +3143,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] kept moving her hips fiercely to silence
 
-          Taro''s continuous ejaculations with kisses!']}
+          \N[1]''s continuous ejaculations with kisses!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '18']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '6']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '121', 'p': [!!int '78', !!int '78', !!int '0']}
@@ -3172,7 +3172,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '121', 'p': [!!int '77', !!int '77', !!int '0']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '257']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['Taro lost consciousness after being swiftly
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\N[1] lost consciousness after being swiftly
 
           defeated by \N[6], even as she continued to devour
 
@@ -3220,7 +3220,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '248']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] firmly trapped Taro''s dick between her feet!']}
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] firmly trapped \N[1]''s dick between her feet!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '251']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "Yay-♡ Caught \n[7]''s dick♡']}
@@ -3251,7 +3251,7 @@
           perverted \n[7]♡']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] grabbed Taro''s just-ejaculated dick with her
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] grabbed \N[1]''s just-ejaculated dick with her
 
           feet and mercilessly jerked it up and down!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '13']}
@@ -3259,7 +3259,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '6']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '256']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] felt Taro''s ejaculation and smiled slyly,
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] felt \N[1]''s ejaculation and smiled slyly,
 
           continuing to milk the remaining semen with her
 
@@ -3320,7 +3320,7 @@
           Come on, let it out♡']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] talked happily while jerking off Taro''s
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] talked happily while jerking off \N[1]''s
 
           freshly ejaculated dick with both feet without
 
@@ -3332,7 +3332,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '48']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] kept jerking off Taro''s dick with her feet
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] kept jerking off \N[1]''s dick with her feet
 
           while smiling slyly at his continuous
 
@@ -3359,7 +3359,7 @@
           to those two as well-♡']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['Taro lost consciousness after being instantly
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\N[1] lost consciousness after being instantly
 
           defeated by \N[6], while she continued to step on
 
@@ -3945,11 +3945,11 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '412', 'p': []}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] grabbed Taro''s dick with one hand and aimed
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] grabbed \N[1]''s dick with one hand and aimed
 
           it at her genitals, then slowly lowered her hips!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['Taro was violated while leaving his body to
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\N[1] was violated while leaving his body to
 
           \N[6]...']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '339', 'p': [!!int '0', !!int '0', !!int '27', !!int '-1']}
@@ -3979,7 +3979,7 @@
           while being dominated by a girl♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] pinned Taro down and started moving her hips
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] pinned \N[1] down and started moving her hips
 
           up and down intensely!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '438']}
@@ -4015,7 +4015,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '48']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] pinned down the defenseless Taro and grinded
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] pinned down the defenseless \N[1] and grinded
 
           her hips intensely!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '438']}
@@ -4025,7 +4025,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '48']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] smiled as she watched Taro writhe from
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] smiled as she watched \N[1] writhe from
 
           consecutive ejaculations and continued to shake
 
@@ -4053,7 +4053,7 @@
           for that♪ Now I''m also rich♡ That was easy♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['Taro lost consciousness easily and was looked down
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\N[1] lost consciousness easily and was looked down
 
           upon by \N[6] who was laughing...']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '221', 'p': []}
@@ -4094,7 +4094,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '412', 'p': []}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6] pushed Taro down and trapped his erect penis
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6] pushed \N[1] down and trapped his erect penis
 
           between her large breasts!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '405']}
@@ -4109,7 +4109,7 @@
           an adult''s♡ I''ll teach that to Sensei too♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] trapped Taro''s penis between her breasts and
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] trapped \N[1]''s penis between her breasts and
 
           started to jerk it up and down fiercely!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '12']}
@@ -4117,7 +4117,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '6']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '407']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] continued to jerk off Taro''s penis even as he
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] continued to jerk off \N[1]''s penis even as he
 
           ejaculated!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '108', 'p': ['少し回復']}
@@ -4145,7 +4145,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] talked cheerfully while mercilessly jerking
 
-          off Taro''s penis that had just cum!']}
+          off \N[1]''s penis that had just cum!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '438']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '6']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
@@ -4153,7 +4153,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '117', 'p': [!!int '48']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] grinned as she watched Taro writhe from
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['N[6] grinned as she watched \N[1] writhe from
 
           consecutive ejaculations and kept jerking him off
 
@@ -4180,7 +4180,7 @@
           right♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['Taro lost consciousness while being smiled at by
+    - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['\N[1] lost consciousness while being smiled at by
 
           the pleased-looking \N[6]...']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '221', 'p': []}
@@ -4330,7 +4330,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "Ehehe...♡ Well then, without further ado,
 
-          please show me that of yours, Taro-san...♡']}
+          please show me that of yours, \N[1]-san...♡']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '339', 'p': [!!int '0', !!int '0', !!int '17', !!int '-1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '312', 'p': [!!int '0', !!int '0', !!int '1', !!int '0', !!int '100']}
@@ -4345,7 +4345,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "Getting excited so easily... You''re such a
 
-          naughty boy, Taro-san♡ I''ll have to train you a
+          naughty boy, \N[1]-san♡ I''ll have to train you a
 
           little♡']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '111', 'p': [!!int '0', !!int '108', !!int '0']}
@@ -4367,7 +4367,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "Please let me suck you off nicely and
 
-          quietly, Taro-san♡']}
+          quietly, \N[1]-san♡']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '0', 'p': []}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '412', 'p': []}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '235', 'p': [!!int '1']}
@@ -4489,7 +4489,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "I''ll train you thoroughly so you won''t get
 
-          excited by my small body, Taro-san♡"']}
+          excited by my small body, \N[1]-san♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '0', 'p': []}
     'span': !!int '0'
@@ -4609,7 +4609,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6] is attacking!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '494']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "Well then, first I''ll let Taro-san''s out
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "Well then, first I''ll let \N[1]-san''s out
 
           into the open♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '235', 'p': [!!int '1']}
@@ -4753,7 +4753,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "Ehehe...♡ Then, without further ado, please
 
-          show me that of yours, Taro-san...♡"']}
+          show me that of yours, \N[1]-san...♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '339', 'p': [!!int '0', !!int '0', !!int '17', !!int '-1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '312', 'p': [!!int '0', !!int '0', !!int '1', !!int '0', !!int '100']}
@@ -4768,7 +4768,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "Getting excited so easily... You''re such a
 
-          naughty boy, Taro-san♡ I''ll have to train you a
+          naughty boy, \N[1]-san♡ I''ll have to train you a
 
           little♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '111', 'p': [!!int '0', !!int '108', !!int '0']}
@@ -4790,7 +4790,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '401', 'p': ['n[6]: "Please let me drain you nicely while you
 
-          stay quiet, Taro-san♡"']}
+          stay quiet, \N[1]-san♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '1', 'c': !!int '0', 'p': []}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '412', 'p': []}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '235', 'p': [!!int '1']}
@@ -4912,7 +4912,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "I''ll thoroughly train you not to get
 
-          excited by my small body, Taro-san♡"']}
+          excited by my small body, \N[1]-san♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '235', 'p': [!!int '1']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '0', 'p': []}
     'span': !!int '0'
@@ -5032,7 +5032,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6] is attacking!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '494']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "Well then, first I''ll let Taro-san''s out in
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "Well then, first I''ll let \N[1]-san''s out in
 
           the open♡']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '235', 'p': [!!int '1']}
@@ -5177,7 +5177,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6] is attacking!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '494']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "Well then, first I''ll take out Taro-san''s,
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "Well then, first I''ll take out \N[1]-san''s,
 
           outside♡']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '235', 'p': [!!int '1']}
@@ -5312,7 +5312,7 @@
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6] is attacking!']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '117', 'p': [!!int '494']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '101', 'p': ['', !!int '0', !!int '0', !!int '2']}
-    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "Well then, first I''ll let Taro-san''s out
+    - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '401', 'p': ['n[6]: "Well then, first I''ll let \N[1]-san''s out
 
           into the open♡"']}
     - !ruby/object:RPG::EventCommand {'i': !!int '0', 'c': !!int '235', 'p': [!!int '1']}
